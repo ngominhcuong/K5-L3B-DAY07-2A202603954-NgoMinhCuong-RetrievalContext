@@ -1,0 +1,1126 @@
+[
+  {
+    "query_id": "q16",
+    "split": "test",
+    "question": "Từ năm 2011 đến 2021, Chính phủ đã thu gọn quy mô chi tiêu và số lượng các Chương trình mục tiêu quốc gia (CTMTQG) như thế nào?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Từ năm 2011 đến 2021, Chính phủ đã thu gọn quy mô chi tiêu và số lượng các Chương trình mục tiêu quốc gia (CTMTQG) như sau [wb-taking-stock-2023-08_B_p50_c01]:\n\n1. **Quy mô chi tiêu**: Giảm từ 9,1% xuống còn 2,8% tổng chi tiêu\n2. **Số lượng chương trình**: Giảm từ 16 CTMTQG và 45 chương trình mục tiêu quy mô nhỏ hơn xuống còn 3 CTMTQG và một vài chương trình cấp phát",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p50_c01"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p50_c01",
+      "wb-taking-stock-2023-08_B_p36_c02",
+      "wb-taking-stock-2023-08_B_p15_c01"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p50_c01 | starter/data/data.pdf | page 50]\n• Thiếu cơ chế hiệu quả để thúc đẩy tài chính và đầu tư liên kết: Phương thức \"chương trình đầu tư công\" đã được nêu trong Luật đầu tư công (Luật ĐTC, 2019),97 nhưng chưa được cụ thể hóa và áp dụng hiệu quả trong thực tiễn. Phương thức này có thể kết nối các bên cả theo chiều dọc và chiều ngang. Đối với nguồn lực trong nước, cơ chế kết nối chính thức theo chiều dọc được thực hiện duy nhất hiện nay là thông qua các Chương trình mục tiêu quốc gia (CTMTQG). Trong giai đoạn từ 2011-2021, Chính phủ đã giảm quy mô các chương trình bổ sung ngân sách có mục tiêu (chiếm 9,1% đến 2,8% tổng chi tiêu) và số lượng các chương trình (từ 16 CTMTQG và 45 chương trình mục tiêu quy mô nhỏ hơn xuống còn 3 CTMTQG và một vài chương trình cấp phát).\n\n[wb-taking-stock-2023-08_B_p36_c02 | starter/data/data.pdf | page 36]\nNhững bước đi đó bao gồm xác định chỉ tiêu giải ngân đầu tư và đảm bảo hiệu lực thực thi, trách nhiệm giải trình ở các cấp chính quyền khác nhau để hoàn thành chỉ tiêu; tập trung cao độ để giải ngân các chương trình đầu tư quan trọng của quốc gia như đường cao tốc, truyền tải điện và các chương trình mục tiêu quốc gia; cho phép có sự linh hoạt trong các quy định về phân bổ ngân sách được xác định trong Chương trình Phục hồi và Phát triển Kinh tế 2022-2023 (1,8% GDP); và cho phép được linh hoạt phần nào để thực hiện một số hoạt động đấu thầu sớm trước khi phân bổ ngân sách.\n\n[wb-taking-stock-2023-08_B_p15_c01 | starter/data/data.pdf | page 15]\n10 Chiến lược phát triển kinh tế xã hội giai đoạn 2021-2030 và quy hoạch phát triển quốc gia tổng thể giai đoạn 2021-2030 và tầm nhìn đến năm 2050.",
+    "events": [
+      {
+        "event": "search",
+        "query": "Chính phủ thu gọn quy mô chi tiêu Chương trình mục tiêu quốc gia 2011 2021",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p50_c01",
+            "text": "• Thiếu cơ chế hiệu quả để thúc đẩy tài chính và đầu tư liên kết: Phương thức \"chương trình đầu tư công\" đã được nêu trong Luật đầu tư công (Luật ĐTC, 2019),97 nhưng chưa được cụ thể hóa và áp dụng hiệu quả trong thực tiễn. Phương thức này có thể kết nối các bên cả theo chiều dọc và chiều ngang. Đối với nguồn lực trong nước, cơ chế kết nối chính thức theo chiều dọc được thực hiện duy nhất hiện nay là thông qua các Chương trình mục tiêu quốc gia (CTMTQG). Trong giai đoạn từ 2011-2021, Chính phủ đã giảm quy mô các chương trình bổ sung ngân sách có mục tiêu (chiếm 9,1% đến 2,8% tổng chi tiêu) và số lượng các chương trình (từ 16 CTMTQG và 45 chương trình mục tiêu quy mô nhỏ hơn xuống còn 3 CTMTQG và một vài chương trình cấp phát).",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 50,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "III_han_che_the_che_quan_ly",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 736
+            },
+            "score": 0.8546698730796967,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p36_c02",
+            "text": "Những bước đi đó bao gồm xác định chỉ tiêu giải ngân đầu tư và đảm bảo hiệu lực thực thi, trách nhiệm giải trình ở các cấp chính quyền khác nhau để hoàn thành chỉ tiêu; tập trung cao độ để giải ngân các chương trình đầu tư quan trọng của quốc gia như đường cao tốc, truyền tải điện và các chương trình mục tiêu quốc gia; cho phép có sự linh hoạt trong các quy định về phân bổ ngân sách được xác định trong Chương trình Phục hồi và Phát triển Kinh tế 2022-2023 (1,8% GDP); và cho phép được linh hoạt phần nào để thực hiện một số hoạt động đấu thầu sớm trước khi phân bổ ngân sách.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 36,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 579
+            },
+            "score": 0.8508203437740038,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p15_c01",
+            "text": "10 Chiến lược phát triển kinh tế xã hội giai đoạn 2021-2030 và quy hoạch phát triển quốc gia tổng thể giai đoạn 2021-2030 và tầm nhìn đến năm 2050.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 15,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "chuyen_de_dau_tu_cong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 147
+            },
+            "score": 0.8467363415434666,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p50_c01 | starter/data/data.pdf | page 50]\n• Thiếu cơ chế hiệu quả để thúc đẩy tài chính và đầu tư liên kết: Phương thức \"chương trình đầu tư công\" đã được nêu trong Luật đầu tư công (Luật ĐTC, 2019),97 nhưng chưa được cụ thể hóa và áp dụng hiệu quả trong thực tiễn. Phương thức này có thể kết nối các bên cả theo chiều dọc và chiều ngang. Đối với nguồn lực trong nước, cơ chế kết nối chính thức theo chiều dọc được thực hiện duy nhất hiện nay là thông qua các Chương trình mục tiêu quốc gia (CTMTQG). Trong giai đoạn từ 2011-2021, Chính phủ đã giảm quy mô các chương trình bổ sung ngân sách có mục tiêu (chiếm 9,1% đến 2,8% tổng chi tiêu) và số lượng các chương trình (từ 16 CTMTQG và 45 chương trình mục tiêu quy mô nhỏ hơn xuống còn 3 CTMTQG và một vài chương trình cấp phát).\n\n[wb-taking-stock-2023-08_B_p36_c02 | starter/data/data.pdf | page 36]\nNhững bước đi đó bao gồm xác định chỉ tiêu giải ngân đầu tư và đảm bảo hiệu lực thực thi, trách nhiệm giải trình ở các cấp chính quyền khác nhau để hoàn thành chỉ tiêu; tập trung cao độ để giải ngân các chương trình đầu tư quan trọng của quốc gia như đường cao tốc, truyền tải điện và các chương trình mục tiêu quốc gia; cho phép có sự linh hoạt trong các quy định về phân bổ ngân sách được xác định trong Chương trình Phục hồi và Phát triển Kinh tế 2022-2023 (1,8% GDP); và cho phép được linh hoạt phần nào để thực hiện một số hoạt động đấu thầu sớm trước khi phân bổ ngân sách.\n\n[wb-taking-stock-2023-08_B_p15_c01 | starter/data/data.pdf | page 15]\n10 Chiến lược phát triển kinh tế xã hội giai đoạn 2021-2030 và quy hoạch phát triển quốc gia tổng thể giai đoạn 2021-2030 và tầm nhìn đến năm 2050.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p50_c01",
+          "wb-taking-stock-2023-08_B_p36_c02",
+          "wb-taking-stock-2023-08_B_p15_c01"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2142.77,
+        "usage": {
+          "prompt_tokens": 646,
+          "completion_tokens": 65,
+          "total_tokens": 711
+        },
+        "action": {
+          "action": "search",
+          "query": "Chính phủ thu gọn quy mô chi tiêu Chương trình mục tiêu quốc gia 2011 2021"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2030.16,
+        "usage": {
+          "prompt_tokens": 1575,
+          "completion_tokens": 261,
+          "total_tokens": 1836
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Từ năm 2011 đến 2021, Chính phủ đã thu gọn quy mô chi tiêu và số lượng các Chương trình mục tiêu quốc gia (CTMTQG) như sau [wb-taking-stock-2023-08_B_p50_c01]:\n\n1. **Quy mô chi tiêu**: Giảm từ 9,1% xuống còn 2,8% tổng chi tiêu\n2. **Số lượng chương trình**: Giảm từ 16 CTMTQG và 45 chương trình mục tiêu quy mô nhỏ hơn xuống còn 3 CTMTQG và một vài chương trình cấp phát",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p50_c01"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2547,
+    "elapsed_ms": 4231.86
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "Trường hợp xung đột nguồn nước giữa Quảng Nam (thượng nguồn) và Đà Nẵng (hạ lưu) cho thấy chi phí xử lý tại hai địa phương chênh lệch như thế nào?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Trường hợp xung đột nguồn nước giữa Quảng Nam (thượng nguồn) và Đà Nẵng (hạ lưu) cho thấy chi phí xử lý chênh lệch rất lớn. Chi phí ước tính để xử lý vấn đề ở Quảng Nam (thượng nguồn) là 50 triệu USD, nhưng ở hạ lưu tại Đà Nẵng, chi phí ước tính để quản lý rủi ro ngập lụt/hạn hán có thể lên đến trên 350 triệu USD [wb-taking-stock-2023-08_B_p52_c01]. Điều này cho thấy chi phí tại Đà Nẵng cao hơn gấp 7 lần so với Quảng Nam.",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p52_c01"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p52_c01",
+      "wb-taking-stock-2023-08_B_p46_c02",
+      "wb-taking-stock-2023-08_B_p49_c06"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p52_c01 | starter/data/data.pdf | page 52]\nđơn kiến nghị lên tỉnh Quảng Nam và Thủ tướng Chính phủ về các vấn đề liên quan đến thay đổi dòng chảy làm trầm trọng thêm tình trạng ngập lụt khi có mưa lớn ở thượng nguồn và gây hạn hán ở vùng hạ lưu trong mùa khô.105 Mặc dù chi phí ước tính để xử lý vấn đề này ở Quảng Nam (trên thượng nguồn) là 50 triệu USD, nhưng ở dưới hạ lưu tại Đà Nẵng, chi phí ước tính để quản lý rủi ro ngập lụt / hạn hán có thể lên đến trên 350 triệu USD.106 Tuy nhiên, như đã nêu trên, các hệ thống QLĐTC và quan hệ ngân sách giữa các cấp chính quyền hiện nay không thể cho phép và ưu tiên triển khai các dự án đầu tư và giải quyết những việc có tính chất liên vùng, liên tỉnh như vậy.\n\n[wb-taking-stock-2023-08_B_p46_c02 | starter/data/data.pdf | page 46]\nChẳng hạn, theo ước tính của Ngân hàng Thế giới, thành phố Đà Nẵng có thể chịu tổn thất về tài sản ở mức khoảng 900 tỷ VND - tương đương khoảng 4,5% chi tiêu hàng năm và 0,8% GRDP - do các sự kiện thời tiết cực đoan gây ra trong giai đoạn 2021–2030. Nhiều địa phương đông dân trên cả nước còn phải đối mặt với nguy cơ cao về nước biển dâng, xâm nhập mặn, sụt lún đất, và sạt lở bờ sông, bờ biển, như tại vùng đồng bằng sông Cửu Long . với hơn 17 triệu dân.87\n\n[wb-taking-stock-2023-08_B_p49_c06 | starter/data/data.pdf | page 49]\nhạ tầng, nhưng hiện mới chỉ có hướng dẫn về hạch toán và quản lý tài sản hạ tầng đường bộ, nước sạch và thủy lợi. Các hướng dẫn này cũng chưa được áp dụng nhất quán, do vậy làm giảm tính chính xác của các báo cáo liên quan tới giá trị tài sản. Hệ thống ngân sách song trùng, trong đó Bộ Tài chính quản lý ngân sách chi thường xuyên còn Bộ KH&ĐT quản lý ngân sách chi đầu tư, cũng tạo ra những thách thức trong việc đảm bảo vốn cho công tác vận hành và bảo trì.",
+    "events": [
+      {
+        "event": "search",
+        "query": "xung đột nguồn nước Quảng Nam Đà Nẵng chi phí xử lý chênh lệch",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p52_c01",
+            "text": "đơn kiến nghị lên tỉnh Quảng Nam và Thủ tướng Chính phủ về các vấn đề liên quan đến thay đổi dòng chảy làm trầm trọng thêm tình trạng ngập lụt khi có mưa lớn ở thượng nguồn và gây hạn hán ở vùng hạ lưu trong mùa khô.105 Mặc dù chi phí ước tính để xử lý vấn đề này ở Quảng Nam (trên thượng nguồn) là 50 triệu USD, nhưng ở dưới hạ lưu tại Đà Nẵng, chi phí ước tính để quản lý rủi ro ngập lụt / hạn hán có thể lên đến trên 350 triệu USD.106 Tuy nhiên, như đã nêu trên, các hệ thống QLĐTC và quan hệ ngân sách giữa các cấp chính quyền hiện nay không thể cho phép và ưu tiên triển khai các dự án đầu tư và giải quyết những việc có tính chất liên vùng, liên tỉnh như vậy.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 52,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "IV_khuyen_nghi_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 665
+            },
+            "score": 0.8651919463948056,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p46_c02",
+            "text": "Chẳng hạn, theo ước tính của Ngân hàng Thế giới, thành phố Đà Nẵng có thể chịu tổn thất về tài sản ở mức khoảng 900 tỷ VND - tương đương khoảng 4,5% chi tiêu hàng năm và 0,8% GRDP - do các sự kiện thời tiết cực đoan gây ra trong giai đoạn 2021–2030. Nhiều địa phương đông dân trên cả nước còn phải đối mặt với nguy cơ cao về nước biển dâng, xâm nhập mặn, sụt lún đất, và sạt lở bờ sông, bờ biển, như tại vùng đồng bằng sông Cửu Long . với hơn 17 triệu dân.87",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 46,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 458
+            },
+            "score": 0.8358973303714723,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p49_c06",
+            "text": "hạ tầng, nhưng hiện mới chỉ có hướng dẫn về hạch toán và quản lý tài sản hạ tầng đường bộ, nước sạch và thủy lợi. Các hướng dẫn này cũng chưa được áp dụng nhất quán, do vậy làm giảm tính chính xác của các báo cáo liên quan tới giá trị tài sản. Hệ thống ngân sách song trùng, trong đó Bộ Tài chính quản lý ngân sách chi thường xuyên còn Bộ KH&ĐT quản lý ngân sách chi đầu tư, cũng tạo ra những thách thức trong việc đảm bảo vốn cho công tác vận hành và bảo trì.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 49,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "III_han_che_the_che_quan_ly",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 460
+            },
+            "score": 0.8191776937151143,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p52_c01 | starter/data/data.pdf | page 52]\nđơn kiến nghị lên tỉnh Quảng Nam và Thủ tướng Chính phủ về các vấn đề liên quan đến thay đổi dòng chảy làm trầm trọng thêm tình trạng ngập lụt khi có mưa lớn ở thượng nguồn và gây hạn hán ở vùng hạ lưu trong mùa khô.105 Mặc dù chi phí ước tính để xử lý vấn đề này ở Quảng Nam (trên thượng nguồn) là 50 triệu USD, nhưng ở dưới hạ lưu tại Đà Nẵng, chi phí ước tính để quản lý rủi ro ngập lụt / hạn hán có thể lên đến trên 350 triệu USD.106 Tuy nhiên, như đã nêu trên, các hệ thống QLĐTC và quan hệ ngân sách giữa các cấp chính quyền hiện nay không thể cho phép và ưu tiên triển khai các dự án đầu tư và giải quyết những việc có tính chất liên vùng, liên tỉnh như vậy.\n\n[wb-taking-stock-2023-08_B_p46_c02 | starter/data/data.pdf | page 46]\nChẳng hạn, theo ước tính của Ngân hàng Thế giới, thành phố Đà Nẵng có thể chịu tổn thất về tài sản ở mức khoảng 900 tỷ VND - tương đương khoảng 4,5% chi tiêu hàng năm và 0,8% GRDP - do các sự kiện thời tiết cực đoan gây ra trong giai đoạn 2021–2030. Nhiều địa phương đông dân trên cả nước còn phải đối mặt với nguy cơ cao về nước biển dâng, xâm nhập mặn, sụt lún đất, và sạt lở bờ sông, bờ biển, như tại vùng đồng bằng sông Cửu Long . với hơn 17 triệu dân.87\n\n[wb-taking-stock-2023-08_B_p49_c06 | starter/data/data.pdf | page 49]\nhạ tầng, nhưng hiện mới chỉ có hướng dẫn về hạch toán và quản lý tài sản hạ tầng đường bộ, nước sạch và thủy lợi. Các hướng dẫn này cũng chưa được áp dụng nhất quán, do vậy làm giảm tính chính xác của các báo cáo liên quan tới giá trị tài sản. Hệ thống ngân sách song trùng, trong đó Bộ Tài chính quản lý ngân sách chi thường xuyên còn Bộ KH&ĐT quản lý ngân sách chi đầu tư, cũng tạo ra những thách thức trong việc đảm bảo vốn cho công tác vận hành và bảo trì.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p52_c01",
+          "wb-taking-stock-2023-08_B_p46_c02",
+          "wb-taking-stock-2023-08_B_p49_c06"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 918.8,
+        "usage": {
+          "prompt_tokens": 654,
+          "completion_tokens": 61,
+          "total_tokens": 715
+        },
+        "action": {
+          "action": "search",
+          "query": "xung đột nguồn nước Quảng Nam Đà Nẵng chi phí xử lý chênh lệch"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2571.98,
+        "usage": {
+          "prompt_tokens": 1697,
+          "completion_tokens": 288,
+          "total_tokens": 1985
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Trường hợp xung đột nguồn nước giữa Quảng Nam (thượng nguồn) và Đà Nẵng (hạ lưu) cho thấy chi phí xử lý chênh lệch rất lớn. Chi phí ước tính để xử lý vấn đề ở Quảng Nam (thượng nguồn) là 50 triệu USD, nhưng ở hạ lưu tại Đà Nẵng, chi phí ước tính để quản lý rủi ro ngập lụt/hạn hán có thể lên đến trên 350 triệu USD [wb-taking-stock-2023-08_B_p52_c01]. Điều này cho thấy chi phí tại Đà Nẵng cao hơn gấp 7 lần so với Quảng Nam.",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p52_c01"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2700,
+    "elapsed_ms": 3535.63
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "question": "Mỗi năm tại Việt Nam, tình trạng lũ, lụt bờ sông và bờ biển khiến bình quân bao nhiêu USD giá trị hoạt động kinh tế và bao nhiêu việc làm ở các lĩnh vực nào phải chịu rủi ro?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Theo tài liệu, hàng năm tại Việt Nam, bình quân khoảng 852 triệu USD giá trị hoạt động kinh tế và 316.000 việc làm phải chịu rủi ro từ tình trạng lũ, lụt bờ sông và bờ biển [wb-taking-stock-2023-08_B_p46_c01]. Các lĩnh vực bị ảnh hưởng bao gồm: nông nghiệp, nuôi trồng thủy sản, du lịch và công nghiệp [wb-taking-stock-2023-08_B_p46_c01].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p46_c01"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p46_c01",
+      "wb-taking-stock-2023-08_B_p46_c03",
+      "wb-taking-stock-2023-08_B_p46_c02"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p46_c01 | starter/data/data.pdf | page 46]\nBiến đổi khí hậu càng làm trầm trọng thêm những thách thức trên Việt Nam là một trong 10 quốc gia bị biến đổi khí hậu (BĐKH) và thiên tai gây ảnh hưởng nhiều nhất trên toàn cầu. 86 Hàng năm, bình quân khoảng 852 triệu US$ giá trị hoạt động kinh tế và 316.000 việc làm trong các lĩnh vực nông nghiệp, nuôi trồng thủy sản, du lịch và công nghiệp phải chịu rủi ro từ tình trạng lũ, lụt bờ sông và bờ biển . Đây là vấn đề rất cấp thiết tại nhiều địa bàn động lực tăng trưởng của cả nước và các vùng liên quan - như thành phố Hồ Chí Minh, Đà Nẵng và Cần Thơ - đều là các địa phương tuyến đầu nhưng cũng phải hứng chịu các hậu quả liên quan tới thời tiết cực đoan và BĐKH.\n\n[wb-taking-stock-2023-08_B_p46_c03 | starter/data/data.pdf | page 46]\nĐầu tư công và tài sản công của Việt Nam đang phải đối diện với rủi ro khí hậu và các sự kiện thời tiết cực đoan ngày càng gia tăng. Trong năm 2022, phí tổn do thiệt hại trực tiếp đối với công trình hạ tầng năng lượng và giao thông do bão và ngập lụt gây ra ước lên đến 475 triệu US$. Các doanh nghiệp ước tính họ phải chi đến 280 triệu US$ do hạ tầng chưa đảm bảo tin cậy và có khả năng chống chịu. Cho dù với những rủi ro như trên, đầu tư bình quân cho hạ tầng giúp phòng chống, thích ứng với thiên tai mới chỉ đạt khoảng 0,05 GDP.\n\n[wb-taking-stock-2023-08_B_p46_c02 | starter/data/data.pdf | page 46]\nChẳng hạn, theo ước tính của Ngân hàng Thế giới, thành phố Đà Nẵng có thể chịu tổn thất về tài sản ở mức khoảng 900 tỷ VND - tương đương khoảng 4,5% chi tiêu hàng năm và 0,8% GRDP - do các sự kiện thời tiết cực đoan gây ra trong giai đoạn 2021–2030. Nhiều địa phương đông dân trên cả nước còn phải đối mặt với nguy cơ cao về nước biển dâng, xâm nhập mặn, sụt lún đất, và sạt lở bờ sông, bờ biển, như tại vùng đồng bằng sông Cửu Long . với hơn 17 triệu dân.87",
+    "events": [
+      {
+        "event": "search",
+        "query": "Việt Nam lũ lụt bờ sông biển giá trị kinh tế USD việc làm rủi ro hàng năm",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p46_c01",
+            "text": "Biến đổi khí hậu càng làm trầm trọng thêm những thách thức trên Việt Nam là một trong 10 quốc gia bị biến đổi khí hậu (BĐKH) và thiên tai gây ảnh hưởng nhiều nhất trên toàn cầu. 86 Hàng năm, bình quân khoảng 852 triệu US$ giá trị hoạt động kinh tế và 316.000 việc làm trong các lĩnh vực nông nghiệp, nuôi trồng thủy sản, du lịch và công nghiệp phải chịu rủi ro từ tình trạng lũ, lụt bờ sông và bờ biển . Đây là vấn đề rất cấp thiết tại nhiều địa bàn động lực tăng trưởng của cả nước và các vùng liên quan - như thành phố Hồ Chí Minh, Đà Nẵng và Cần Thơ - đều là các địa phương tuyến đầu nhưng cũng phải hứng chịu các hậu quả liên quan tới thời tiết cực đoan và BĐKH.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 46,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 666
+            },
+            "score": 0.8662935221456498,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p46_c03",
+            "text": "Đầu tư công và tài sản công của Việt Nam đang phải đối diện với rủi ro khí hậu và các sự kiện thời tiết cực đoan ngày càng gia tăng. Trong năm 2022, phí tổn do thiệt hại trực tiếp đối với công trình hạ tầng năng lượng và giao thông do bão và ngập lụt gây ra ước lên đến 475 triệu US$. Các doanh nghiệp ước tính họ phải chi đến 280 triệu US$ do hạ tầng chưa đảm bảo tin cậy và có khả năng chống chịu. Cho dù với những rủi ro như trên, đầu tư bình quân cho hạ tầng giúp phòng chống, thích ứng với thiên tai mới chỉ đạt khoảng 0,05 GDP.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 46,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 533
+            },
+            "score": 0.8466955771719651,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p46_c02",
+            "text": "Chẳng hạn, theo ước tính của Ngân hàng Thế giới, thành phố Đà Nẵng có thể chịu tổn thất về tài sản ở mức khoảng 900 tỷ VND - tương đương khoảng 4,5% chi tiêu hàng năm và 0,8% GRDP - do các sự kiện thời tiết cực đoan gây ra trong giai đoạn 2021–2030. Nhiều địa phương đông dân trên cả nước còn phải đối mặt với nguy cơ cao về nước biển dâng, xâm nhập mặn, sụt lún đất, và sạt lở bờ sông, bờ biển, như tại vùng đồng bằng sông Cửu Long . với hơn 17 triệu dân.87",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 46,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 458
+            },
+            "score": 0.8388886911706688,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p46_c01 | starter/data/data.pdf | page 46]\nBiến đổi khí hậu càng làm trầm trọng thêm những thách thức trên Việt Nam là một trong 10 quốc gia bị biến đổi khí hậu (BĐKH) và thiên tai gây ảnh hưởng nhiều nhất trên toàn cầu. 86 Hàng năm, bình quân khoảng 852 triệu US$ giá trị hoạt động kinh tế và 316.000 việc làm trong các lĩnh vực nông nghiệp, nuôi trồng thủy sản, du lịch và công nghiệp phải chịu rủi ro từ tình trạng lũ, lụt bờ sông và bờ biển . Đây là vấn đề rất cấp thiết tại nhiều địa bàn động lực tăng trưởng của cả nước và các vùng liên quan - như thành phố Hồ Chí Minh, Đà Nẵng và Cần Thơ - đều là các địa phương tuyến đầu nhưng cũng phải hứng chịu các hậu quả liên quan tới thời tiết cực đoan và BĐKH.\n\n[wb-taking-stock-2023-08_B_p46_c03 | starter/data/data.pdf | page 46]\nĐầu tư công và tài sản công của Việt Nam đang phải đối diện với rủi ro khí hậu và các sự kiện thời tiết cực đoan ngày càng gia tăng. Trong năm 2022, phí tổn do thiệt hại trực tiếp đối với công trình hạ tầng năng lượng và giao thông do bão và ngập lụt gây ra ước lên đến 475 triệu US$. Các doanh nghiệp ước tính họ phải chi đến 280 triệu US$ do hạ tầng chưa đảm bảo tin cậy và có khả năng chống chịu. Cho dù với những rủi ro như trên, đầu tư bình quân cho hạ tầng giúp phòng chống, thích ứng với thiên tai mới chỉ đạt khoảng 0,05 GDP.\n\n[wb-taking-stock-2023-08_B_p46_c02 | starter/data/data.pdf | page 46]\nChẳng hạn, theo ước tính của Ngân hàng Thế giới, thành phố Đà Nẵng có thể chịu tổn thất về tài sản ở mức khoảng 900 tỷ VND - tương đương khoảng 4,5% chi tiêu hàng năm và 0,8% GRDP - do các sự kiện thời tiết cực đoan gây ra trong giai đoạn 2021–2030. Nhiều địa phương đông dân trên cả nước còn phải đối mặt với nguy cơ cao về nước biển dâng, xâm nhập mặn, sụt lún đất, và sạt lở bờ sông, bờ biển, như tại vùng đồng bằng sông Cửu Long . với hơn 17 triệu dân.87",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p46_c01",
+          "wb-taking-stock-2023-08_B_p46_c03",
+          "wb-taking-stock-2023-08_B_p46_c02"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1076.9,
+        "usage": {
+          "prompt_tokens": 669,
+          "completion_tokens": 65,
+          "total_tokens": 734
+        },
+        "action": {
+          "action": "search",
+          "query": "Việt Nam lũ lụt bờ sông biển giá trị kinh tế USD việc làm rủi ro hàng năm"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2133.85,
+        "usage": {
+          "prompt_tokens": 1737,
+          "completion_tokens": 234,
+          "total_tokens": 1971
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Theo tài liệu, hàng năm tại Việt Nam, bình quân khoảng 852 triệu USD giá trị hoạt động kinh tế và 316.000 việc làm phải chịu rủi ro từ tình trạng lũ, lụt bờ sông và bờ biển [wb-taking-stock-2023-08_B_p46_c01]. Các lĩnh vực bị ảnh hưởng bao gồm: nông nghiệp, nuôi trồng thủy sản, du lịch và công nghiệp [wb-taking-stock-2023-08_B_p46_c01].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p46_c01"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2705,
+    "elapsed_ms": 3255.42
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "question": "Trong nhu cầu tài chính ứng phó biến đổi khí hậu và chuyển đổi xanh, đầu tư công có thể chiếm tỷ trọng bao nhiêu phần trăm GDP mỗi năm và riêng lộ trình nâng cao khả năng chống chịu chiếm tỷ lệ bao nhiêu?",
+    "answerable": true,
+    "filter": {
+      "section": "chuong_2_dau_tu_cong"
+    },
+    "status": "answered",
+    "answer": "Theo tài liệu, trong nhu cầu tài chính ứng phó biến đổi khí hậu và chuyển đổi xanh, đầu tư công có thể chiếm hơn một phần ba nhu cầu tài chính, tương đương khoảng 2,4% GDP mỗi năm [wb-taking-stock-2023-08_B_p47_c01]. Riêng lộ trình nâng cao khả năng chống chịu đã chiếm khoảng hai phần ba số tiền trên, tức là chiếm tỷ lệ khoảng 1,6% GDP (hai phần ba của 2,4%) [wb-taking-stock-2023-08_B_p47_c01].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p47_c01"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p47_c01",
+      "wb-taking-stock-2023-08_B_p42_c05",
+      "wb-taking-stock-2023-08_B_p46_c04"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p47_c01 | starter/data/data.pdf | page 47]\nđương 6,8% GDP mỗi năm.89 Đầu tư công - với vai trò quan trọng trong việc làm hình mẫu và chất xúc tác thu hút đầu tư tư nhân - có thể chiếm hơn một phần ba nhu cầu tài chính, tương đương khoảng 2,4% GDP. Riêng lộ trình nâng cao khả năng chống chịu đã chiếm khoảng hai phần ba số tiền trên vì cần huy động một lượng tài chính lớn để phòng vệ cho tài sản và công trình hạ tầng của quốc gia cũng như những người dân có nguy cơ dễ tổn thương. Tuy nhiên, thích ứng với BĐKH chưa được xem xét đầy đủ trong chiến lược tài khóa tổng thể cũng như trong việc xác định dự án ưu tiên cho đầu tư công ở Việt Nam.90\n\n[wb-taking-stock-2023-08_B_p42_c05 | starter/data/data.pdf | page 42]\n76 Đánh giá tác động của đầu tư công đến tăng trưởng (chuyên đề nghiên cứu chính sách số 8604/2018 của Ngân hàng Thế giới). 77 Thế mạnh của đầu tư công: Chuyển nguồn lực thành tài sản để thúc đẩy tăng trưởng (Ngân hàng Thế giới, 2014).\n\n[wb-taking-stock-2023-08_B_p46_c04 | starter/data/data.pdf | page 46]\nChi phí cải thiện khả năng chống chịu vùng duyên hải được dự báo sẽ lên đến 4 tỷ US$ vào năm 2035, trong đó riêng chi phí xây dựng và nâng cấp đê biển phải mất đến 2 tỷ US$.88 Tổng nhu cầu tài chính phát sinh thêm của Việt Nam để xử lý những thách thức liên quan đến BĐKH và chuyển đổi xanh có thể lên đến khoảng 701 tỷ US$ trong giai đoạn 2022-2040, tương 86 Các nguồn khác nhau: bao gồm climateknowlegeportal.worldbank.org; climatelinks.org; and climaterisk.undp.org. 87 Việt Nam: Báo cáo Quốc gia về Khí hậu và Phát triển (CCDR) (Ngân hàng Thế giới, 2022). 88 Bờ biển có khả năng chống chịu: Phát triển vùng duyên hải của Việt Nam giữa cơ hội và rủi ro thiên tai (Ngân hàng Thế giới, 2020).",
+    "events": [
+      {
+        "event": "search",
+        "query": "đầu tư công tỷ trọng GDP biến đổi khí hậu chuyển đổi xanh nâng cao khả năng chống chịu",
+        "filter": {
+          "section": "chuong_2_dau_tu_cong"
+        },
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p47_c01",
+            "text": "đương 6,8% GDP mỗi năm.89 Đầu tư công - với vai trò quan trọng trong việc làm hình mẫu và chất xúc tác thu hút đầu tư tư nhân - có thể chiếm hơn một phần ba nhu cầu tài chính, tương đương khoảng 2,4% GDP. Riêng lộ trình nâng cao khả năng chống chịu đã chiếm khoảng hai phần ba số tiền trên vì cần huy động một lượng tài chính lớn để phòng vệ cho tài sản và công trình hạ tầng của quốc gia cũng như những người dân có nguy cơ dễ tổn thương. Tuy nhiên, thích ứng với BĐKH chưa được xem xét đầy đủ trong chiến lược tài khóa tổng thể cũng như trong việc xác định dự án ưu tiên cho đầu tư công ở Việt Nam.90",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 47,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "III_han_che_the_che_quan_ly",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 602
+            },
+            "score": 0.87513961775742,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p42_c05",
+            "text": "76 Đánh giá tác động của đầu tư công đến tăng trưởng (chuyên đề nghiên cứu chính sách số 8604/2018 của Ngân hàng Thế giới). 77 Thế mạnh của đầu tư công: Chuyển nguồn lực thành tài sản để thúc đẩy tăng trưởng (Ngân hàng Thế giới, 2014).",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 42,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 235
+            },
+            "score": 0.8600839631048408,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p46_c04",
+            "text": "Chi phí cải thiện khả năng chống chịu vùng duyên hải được dự báo sẽ lên đến 4 tỷ US$ vào năm 2035, trong đó riêng chi phí xây dựng và nâng cấp đê biển phải mất đến 2 tỷ US$.88 Tổng nhu cầu tài chính phát sinh thêm của Việt Nam để xử lý những thách thức liên quan đến BĐKH và chuyển đổi xanh có thể lên đến khoảng 701 tỷ US$ trong giai đoạn 2022-2040, tương 86 Các nguồn khác nhau: bao gồm climateknowlegeportal.worldbank.org; climatelinks.org; and climaterisk.undp.org. 87 Việt Nam: Báo cáo Quốc gia về Khí hậu và Phát triển (CCDR) (Ngân hàng Thế giới, 2022). 88 Bờ biển có khả năng chống chịu: Phát triển vùng duyên hải của Việt Nam giữa cơ hội và rủi ro thiên tai (Ngân hàng Thế giới, 2020).",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 46,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 693
+            },
+            "score": 0.8588267617644045,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p47_c01 | starter/data/data.pdf | page 47]\nđương 6,8% GDP mỗi năm.89 Đầu tư công - với vai trò quan trọng trong việc làm hình mẫu và chất xúc tác thu hút đầu tư tư nhân - có thể chiếm hơn một phần ba nhu cầu tài chính, tương đương khoảng 2,4% GDP. Riêng lộ trình nâng cao khả năng chống chịu đã chiếm khoảng hai phần ba số tiền trên vì cần huy động một lượng tài chính lớn để phòng vệ cho tài sản và công trình hạ tầng của quốc gia cũng như những người dân có nguy cơ dễ tổn thương. Tuy nhiên, thích ứng với BĐKH chưa được xem xét đầy đủ trong chiến lược tài khóa tổng thể cũng như trong việc xác định dự án ưu tiên cho đầu tư công ở Việt Nam.90\n\n[wb-taking-stock-2023-08_B_p42_c05 | starter/data/data.pdf | page 42]\n76 Đánh giá tác động của đầu tư công đến tăng trưởng (chuyên đề nghiên cứu chính sách số 8604/2018 của Ngân hàng Thế giới). 77 Thế mạnh của đầu tư công: Chuyển nguồn lực thành tài sản để thúc đẩy tăng trưởng (Ngân hàng Thế giới, 2014).\n\n[wb-taking-stock-2023-08_B_p46_c04 | starter/data/data.pdf | page 46]\nChi phí cải thiện khả năng chống chịu vùng duyên hải được dự báo sẽ lên đến 4 tỷ US$ vào năm 2035, trong đó riêng chi phí xây dựng và nâng cấp đê biển phải mất đến 2 tỷ US$.88 Tổng nhu cầu tài chính phát sinh thêm của Việt Nam để xử lý những thách thức liên quan đến BĐKH và chuyển đổi xanh có thể lên đến khoảng 701 tỷ US$ trong giai đoạn 2022-2040, tương 86 Các nguồn khác nhau: bao gồm climateknowlegeportal.worldbank.org; climatelinks.org; and climaterisk.undp.org. 87 Việt Nam: Báo cáo Quốc gia về Khí hậu và Phát triển (CCDR) (Ngân hàng Thế giới, 2022). 88 Bờ biển có khả năng chống chịu: Phát triển vùng duyên hải của Việt Nam giữa cơ hội và rủi ro thiên tai (Ngân hàng Thế giới, 2020).",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p47_c01",
+          "wb-taking-stock-2023-08_B_p42_c05",
+          "wb-taking-stock-2023-08_B_p46_c04"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 994.58,
+        "usage": {
+          "prompt_tokens": 687,
+          "completion_tokens": 72,
+          "total_tokens": 759
+        },
+        "action": {
+          "action": "search",
+          "query": "đầu tư công tỷ trọng GDP biến đổi khí hậu chuyển đổi xanh nâng cao khả năng chống chịu"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2260.12,
+        "usage": {
+          "prompt_tokens": 1685,
+          "completion_tokens": 259,
+          "total_tokens": 1944
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Theo tài liệu, trong nhu cầu tài chính ứng phó biến đổi khí hậu và chuyển đổi xanh, đầu tư công có thể chiếm hơn một phần ba nhu cầu tài chính, tương đương khoảng 2,4% GDP mỗi năm [wb-taking-stock-2023-08_B_p47_c01]. Riêng lộ trình nâng cao khả năng chống chịu đã chiếm khoảng hai phần ba số tiền trên, tức là chiếm tỷ lệ khoảng 1,6% GDP (hai phần ba của 2,4%) [wb-taking-stock-2023-08_B_p47_c01].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p47_c01"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2703,
+    "elapsed_ms": 3300.1
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "Trong đánh giá tổng quan về hiệu suất hạ tầng, chất lượng hạ tầng của Việt Nam đứng thứ mấy trên bao nhiêu quốc gia toàn thế giới và xếp sau những nước nào trong khu vực?",
+    "answerable": true,
+    "filter": {
+      "section": "tong_quan"
+    },
+    "status": "answered",
+    "answer": "Trong đánh giá tổng quan về hiệu suất hạ tầng, chất lượng hạ tầng của Việt Nam đứng thứ 77 trên 141 quốc gia toàn thế giới [wb-taking-stock-2023-08_B_p16_c02]. Trong khu vực, Việt Nam xếp sau các quốc gia như Trung Quốc, Ấn Độ, In-đô-nê-xia, Ma-lai-xia, và Thái Lan [wb-taking-stock-2023-08_B_p16_c02].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p16_c02"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p16_c02",
+      "wb-taking-stock-2023-08_B_p15_c06",
+      "wb-taking-stock-2023-08_B_p16_c07"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p16_c02 | starter/data/data.pdf | page 16]\nChất lượng hạ tầng của Việt Nam đứng thứ 77 trên 141 quốc gia trên toàn thế giới, 13 đứng sau các quốc gia so sánh trong khu vực như Trung Quốc, Ấn Độ, In- đô-nê-xia, Ma-lai-xia, và Thái Lan - là các quốc gia Việt Nam đang cạnh tranh để thu hút vốn đầu tư trực tiếp nước ngoài (FDI). Ngân sách đầu tư thực hiện luôn thấp hơn dự toán, chỉ giải ngân được trung bình 77% dự toán phân bổ trong giai đoạn từ 2017 đến 2022. Chênh lệch lớn giữa số dự toán và số thực giải ngân (23%), kèm theo đó là tình trạng chi đầu tư bị chuyển nguồn ở mức cao, đã và đang cao hơn hẳn so với nhiều quốc gia so sánh, và cách xa so với thông lệ quốc tế tốt là dưới 5%.\n\n[wb-taking-stock-2023-08_B_p15_c06 | starter/data/data.pdf | page 15]\nViệt Nam, trong quá trình phát triển hướng tới mức thu nhập trung bình cao vào năm 2030 và thu nhập cao vào năm 2045, mong muốn trở thành quốc gia công nghiệp và hiện đại, đem lại chất lượng sống tốt hơn cho người dân. Để đạt được mục tiêu phát triển đầy tham vọng nêu trên, dự kiến Chính phủ Việt Nam cần đầu tư bình quân 7,3% GDP mỗi năm cho hạ tầng trong giai đoạn 2021-2030. 10 Mặc dù nhu cầu ngày càng lớn, nhưng đầu tư công của Việt Nam đã và đang theo xu hướng giảm dần, từ 8% GDP trong năm 2011 xuống còn 6% trong năm 2022. Tuy cần CHUYÊN ĐỀ ĐẶC BIỆT: ĐỂ ĐẦU TƯ CÔNG THÚC ĐẨY TĂNG TRƯỞNG\n\n[wb-taking-stock-2023-08_B_p16_c07 | starter/data/data.pdf | page 16]\nTrong khi đó, kinh nghiệm quốc tế cho thấy đầu tư là động lực quan trọng nhất đối với các quốc gia tăng trưởng cao khi họ đang ở trình độ phát triển như Việt Nam hiện nay. 12 Dữ liệu về hệ số hiệu quả sử dụng vốn đầu tư (ICOR) lấy của Tổng cục Thống kê Việt Nam (TCTK). 13 Diễn đàn Kinh tế thế giới - Chỉ số Năng lực cạnh tranh toàn cầu (2019). 14 Khung đánh giá chi tiêu công và trách nhiệm giải trình tài chính (PEFA). 15 Đầu tư tại các khu vực ở Việt Nam: Cơ hội và Thách thức (Chuyên đề chính sách của Ngân hàng Thế giới, 2023). Trong cùng đánh giá đó, chúng tôi ghi nhận chậm tiến độ có xu hướng chênh lệch nhiều hơn từ một đến ba năm đối với các dự án nhỏ.",
+    "events": [
+      {
+        "event": "search",
+        "query": "đánh giá chất lượng hạ tầng Việt Nam xếp hạng thế giới khu vực",
+        "filter": {
+          "section": "tong_quan"
+        },
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p16_c02",
+            "text": "Chất lượng hạ tầng của Việt Nam đứng thứ 77 trên 141 quốc gia trên toàn thế giới, 13 đứng sau các quốc gia so sánh trong khu vực như Trung Quốc, Ấn Độ, In- đô-nê-xia, Ma-lai-xia, và Thái Lan - là các quốc gia Việt Nam đang cạnh tranh để thu hút vốn đầu tư trực tiếp nước ngoài (FDI). Ngân sách đầu tư thực hiện luôn thấp hơn dự toán, chỉ giải ngân được trung bình 77% dự toán phân bổ trong giai đoạn từ 2017 đến 2022. Chênh lệch lớn giữa số dự toán và số thực giải ngân (23%), kèm theo đó là tình trạng chi đầu tư bị chuyển nguồn ở mức cao, đã và đang cao hơn hẳn so với nhiều quốc gia so sánh, và cách xa so với thông lệ quốc tế tốt là dưới 5%.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 16,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "chuyen_de_dau_tu_cong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 645
+            },
+            "score": 0.8817944241643951,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p15_c06",
+            "text": "Việt Nam, trong quá trình phát triển hướng tới mức thu nhập trung bình cao vào năm 2030 và thu nhập cao vào năm 2045, mong muốn trở thành quốc gia công nghiệp và hiện đại, đem lại chất lượng sống tốt hơn cho người dân. Để đạt được mục tiêu phát triển đầy tham vọng nêu trên, dự kiến Chính phủ Việt Nam cần đầu tư bình quân 7,3% GDP mỗi năm cho hạ tầng trong giai đoạn 2021-2030. 10 Mặc dù nhu cầu ngày càng lớn, nhưng đầu tư công của Việt Nam đã và đang theo xu hướng giảm dần, từ 8% GDP trong năm 2011 xuống còn 6% trong năm 2022. Tuy cần CHUYÊN ĐỀ ĐẶC BIỆT: ĐỂ ĐẦU TƯ CÔNG THÚC ĐẨY TĂNG TRƯỞNG",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 15,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "chuyen_de_dau_tu_cong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 595
+            },
+            "score": 0.8419552122348994,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p16_c07",
+            "text": "Trong khi đó, kinh nghiệm quốc tế cho thấy đầu tư là động lực quan trọng nhất đối với các quốc gia tăng trưởng cao khi họ đang ở trình độ phát triển như Việt Nam hiện nay. 12 Dữ liệu về hệ số hiệu quả sử dụng vốn đầu tư (ICOR) lấy của Tổng cục Thống kê Việt Nam (TCTK). 13 Diễn đàn Kinh tế thế giới - Chỉ số Năng lực cạnh tranh toàn cầu (2019). 14 Khung đánh giá chi tiêu công và trách nhiệm giải trình tài chính (PEFA). 15 Đầu tư tại các khu vực ở Việt Nam: Cơ hội và Thách thức (Chuyên đề chính sách của Ngân hàng Thế giới, 2023). Trong cùng đánh giá đó, chúng tôi ghi nhận chậm tiến độ có xu hướng chênh lệch nhiều hơn từ một đến ba năm đối với các dự án nhỏ.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 16,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "chuyen_de_dau_tu_cong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 662
+            },
+            "score": 0.8390441770302399,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p16_c02 | starter/data/data.pdf | page 16]\nChất lượng hạ tầng của Việt Nam đứng thứ 77 trên 141 quốc gia trên toàn thế giới, 13 đứng sau các quốc gia so sánh trong khu vực như Trung Quốc, Ấn Độ, In- đô-nê-xia, Ma-lai-xia, và Thái Lan - là các quốc gia Việt Nam đang cạnh tranh để thu hút vốn đầu tư trực tiếp nước ngoài (FDI). Ngân sách đầu tư thực hiện luôn thấp hơn dự toán, chỉ giải ngân được trung bình 77% dự toán phân bổ trong giai đoạn từ 2017 đến 2022. Chênh lệch lớn giữa số dự toán và số thực giải ngân (23%), kèm theo đó là tình trạng chi đầu tư bị chuyển nguồn ở mức cao, đã và đang cao hơn hẳn so với nhiều quốc gia so sánh, và cách xa so với thông lệ quốc tế tốt là dưới 5%.\n\n[wb-taking-stock-2023-08_B_p15_c06 | starter/data/data.pdf | page 15]\nViệt Nam, trong quá trình phát triển hướng tới mức thu nhập trung bình cao vào năm 2030 và thu nhập cao vào năm 2045, mong muốn trở thành quốc gia công nghiệp và hiện đại, đem lại chất lượng sống tốt hơn cho người dân. Để đạt được mục tiêu phát triển đầy tham vọng nêu trên, dự kiến Chính phủ Việt Nam cần đầu tư bình quân 7,3% GDP mỗi năm cho hạ tầng trong giai đoạn 2021-2030. 10 Mặc dù nhu cầu ngày càng lớn, nhưng đầu tư công của Việt Nam đã và đang theo xu hướng giảm dần, từ 8% GDP trong năm 2011 xuống còn 6% trong năm 2022. Tuy cần CHUYÊN ĐỀ ĐẶC BIỆT: ĐỂ ĐẦU TƯ CÔNG THÚC ĐẨY TĂNG TRƯỞNG\n\n[wb-taking-stock-2023-08_B_p16_c07 | starter/data/data.pdf | page 16]\nTrong khi đó, kinh nghiệm quốc tế cho thấy đầu tư là động lực quan trọng nhất đối với các quốc gia tăng trưởng cao khi họ đang ở trình độ phát triển như Việt Nam hiện nay. 12 Dữ liệu về hệ số hiệu quả sử dụng vốn đầu tư (ICOR) lấy của Tổng cục Thống kê Việt Nam (TCTK). 13 Diễn đàn Kinh tế thế giới - Chỉ số Năng lực cạnh tranh toàn cầu (2019). 14 Khung đánh giá chi tiêu công và trách nhiệm giải trình tài chính (PEFA). 15 Đầu tư tại các khu vực ở Việt Nam: Cơ hội và Thách thức (Chuyên đề chính sách của Ngân hàng Thế giới, 2023). Trong cùng đánh giá đó, chúng tôi ghi nhận chậm tiến độ có xu hướng chênh lệch nhiều hơn từ một đến ba năm đối với các dự án nhỏ.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p16_c02",
+          "wb-taking-stock-2023-08_B_p15_c06",
+          "wb-taking-stock-2023-08_B_p16_c07"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 940.24,
+        "usage": {
+          "prompt_tokens": 660,
+          "completion_tokens": 60,
+          "total_tokens": 720
+        },
+        "action": {
+          "action": "search",
+          "query": "đánh giá chất lượng hạ tầng Việt Nam xếp hạng thế giới khu vực"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2573.14,
+        "usage": {
+          "prompt_tokens": 1887,
+          "completion_tokens": 219,
+          "total_tokens": 2106
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Trong đánh giá tổng quan về hiệu suất hạ tầng, chất lượng hạ tầng của Việt Nam đứng thứ 77 trên 141 quốc gia toàn thế giới [wb-taking-stock-2023-08_B_p16_c02]. Trong khu vực, Việt Nam xếp sau các quốc gia như Trung Quốc, Ấn Độ, In-đô-nê-xia, Ma-lai-xia, và Thái Lan [wb-taking-stock-2023-08_B_p16_c02].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p16_c02"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2826,
+    "elapsed_ms": 3573.12
+  },
+  {
+    "query_id": "u03",
+    "split": "test",
+    "question": "Báo cáo có nêu mức lãi suất điều hành cụ thể (tính bằng %/năm) mà Ngân hàng Nhà nước Việt Nam dự kiến áp dụng vào cuối năm 2024 không?",
+    "answerable": false,
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "search_calls": 2,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p13_c06",
+      "wb-taking-stock-2023-08_B_p26_c02",
+      "wb-taking-stock-2023-08_B_p30_c02"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p13_c06 | starter/data/data.pdf | page 13]\n2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3\n\n[wb-taking-stock-2023-08_B_p26_c02 | starter/data/data.pdf | page 26]\nViệt Nam ghi nhận khoản mục sai sót ròng ở mức lớn (7,5 tỷ US$ trong quý đầu năm 2023), 39 có lẽ phản ánh dòng vốn tiếp tục chảy ra nước ngoài nhưng không được ghi nhận, do kỳ vọng đồng tiền tiếp tục bị mất giá và còn chênh lệch lãi suất. Mặc dù khoản mục sai sót ròng có tăng lên, nhưng thặng dư trên cả tài khoản vãng lai và tài khoản tài chính đã hỗ trợ làm tăng thặng dư cán cân thanh toán tổng thể, tạo điều kiện cho Ngân hàng Nhà nước Việt Nam (NHNN) nâng dự trữ ngoại hối (từ 87,1% tỷ US$ vào cuối quý 4 năm 2023 lên 88,7 tỷ US$ vào cuối quý 1 năm 2023, tương đương 3,3 tháng nhập khẩu.\n\n[wb-taking-stock-2023-08_B_p30_c02 | starter/data/data.pdf | page 30]\nChỉ số giá của một số mặt hàng nhập khẩu Tháng 06/2019 = 100 (không điều chỉnh theo mùa vụ) T6-18 T6-19 T6-20 T6-21 T6-22 T6-23 Nguồn: Haver Analytics, Ngân hàng Nhà nước Việt Nam T6-19 T8-19 T10-19 T2-20 T2-21 T2-22 T2-23 T12-19 T12-20 T12-21 T12-22 T4-20 T4-21 T4-22 T4-23 T8-20 T8-21 T8-22 T6-21 T6-22 T6-23 T6-20 T10-20 T10-21 T10-22 Hình 1.20. Lãi suất Tỷ lệ % 8 6 4 2 0 Việt Nam: Lợi suất trái phiếu chính phủ 10 năm (%) Tỷ giá chào bán liên ngân hàng VND kỳ hạn 2 tuần [VIBOR] (%) Chiết khấu của NHNN Khu vực ngân hàng tiếp tục phải đối mặt với thách thức trong nửa đầu năm 2023.",
+    "events": [
+      {
+        "event": "search",
+        "query": "lãi suất điều hành Ngân hàng Nhà nước Việt Nam cuối năm 2024",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p13_c06",
+            "text": "2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 576
+            },
+            "score": 0.8594825220472941,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p26_c02",
+            "text": "Việt Nam ghi nhận khoản mục sai sót ròng ở mức lớn (7,5 tỷ US$ trong quý đầu năm 2023), 39 có lẽ phản ánh dòng vốn tiếp tục chảy ra nước ngoài nhưng không được ghi nhận, do kỳ vọng đồng tiền tiếp tục bị mất giá và còn chênh lệch lãi suất. Mặc dù khoản mục sai sót ròng có tăng lên, nhưng thặng dư trên cả tài khoản vãng lai và tài khoản tài chính đã hỗ trợ làm tăng thặng dư cán cân thanh toán tổng thể, tạo điều kiện cho Ngân hàng Nhà nước Việt Nam (NHNN) nâng dự trữ ngoại hối (từ 87,1% tỷ US$ vào cuối quý 4 năm 2023 lên 88,7 tỷ US$ vào cuối quý 1 năm 2023, tương đương 3,3 tháng nhập khẩu.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 593
+            },
+            "score": 0.8547193406178994,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p30_c02",
+            "text": "Chỉ số giá của một số mặt hàng nhập khẩu Tháng 06/2019 = 100 (không điều chỉnh theo mùa vụ) T6-18 T6-19 T6-20 T6-21 T6-22 T6-23 Nguồn: Haver Analytics, Ngân hàng Nhà nước Việt Nam T6-19 T8-19 T10-19 T2-20 T2-21 T2-22 T2-23 T12-19 T12-20 T12-21 T12-22 T4-20 T4-21 T4-22 T4-23 T8-20 T8-21 T8-22 T6-21 T6-22 T6-23 T6-20 T10-20 T10-21 T10-22 Hình 1.20. Lãi suất Tỷ lệ % 8 6 4 2 0 Việt Nam: Lợi suất trái phiếu chính phủ 10 năm (%) Tỷ giá chào bán liên ngân hàng VND kỳ hạn 2 tuần [VIBOR] (%) Chiết khấu của NHNN Khu vực ngân hàng tiếp tục phải đối mặt với thách thức trong nửa đầu năm 2023.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 30,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 586
+            },
+            "score": 0.8527787273457107,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p13_c06 | starter/data/data.pdf | page 13]\n2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3\n\n[wb-taking-stock-2023-08_B_p26_c02 | starter/data/data.pdf | page 26]\nViệt Nam ghi nhận khoản mục sai sót ròng ở mức lớn (7,5 tỷ US$ trong quý đầu năm 2023), 39 có lẽ phản ánh dòng vốn tiếp tục chảy ra nước ngoài nhưng không được ghi nhận, do kỳ vọng đồng tiền tiếp tục bị mất giá và còn chênh lệch lãi suất. Mặc dù khoản mục sai sót ròng có tăng lên, nhưng thặng dư trên cả tài khoản vãng lai và tài khoản tài chính đã hỗ trợ làm tăng thặng dư cán cân thanh toán tổng thể, tạo điều kiện cho Ngân hàng Nhà nước Việt Nam (NHNN) nâng dự trữ ngoại hối (từ 87,1% tỷ US$ vào cuối quý 4 năm 2023 lên 88,7 tỷ US$ vào cuối quý 1 năm 2023, tương đương 3,3 tháng nhập khẩu.\n\n[wb-taking-stock-2023-08_B_p30_c02 | starter/data/data.pdf | page 30]\nChỉ số giá của một số mặt hàng nhập khẩu Tháng 06/2019 = 100 (không điều chỉnh theo mùa vụ) T6-18 T6-19 T6-20 T6-21 T6-22 T6-23 Nguồn: Haver Analytics, Ngân hàng Nhà nước Việt Nam T6-19 T8-19 T10-19 T2-20 T2-21 T2-22 T2-23 T12-19 T12-20 T12-21 T12-22 T4-20 T4-21 T4-22 T4-23 T8-20 T8-21 T8-22 T6-21 T6-22 T6-23 T6-20 T10-20 T10-21 T10-22 Hình 1.20. Lãi suất Tỷ lệ % 8 6 4 2 0 Việt Nam: Lợi suất trái phiếu chính phủ 10 năm (%) Tỷ giá chào bán liên ngân hàng VND kỳ hạn 2 tuần [VIBOR] (%) Chiết khấu của NHNN Khu vực ngân hàng tiếp tục phải đối mặt với thách thức trong nửa đầu năm 2023.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p13_c06",
+          "wb-taking-stock-2023-08_B_p26_c02",
+          "wb-taking-stock-2023-08_B_p30_c02"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "mức lãi suất điều hành NHNN dự kiến cuối năm 2024",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p26_c03",
+            "text": "40 Nhập khẩu chững lại và cơ chế quản lý tỷ giá linh hoạt hơn được NHNN ban hành năm 2022, cho phép giao dịch xoay quanh tỷ giá trung tâm với biên độ +5%/-5%, qua đó góp phần giúp cho thị trường ngoại hối tương đối ổn định trong nửa đầu năm 2023 (Hình 1.14).\n\n39 Mục sai sót ròng ở mức cao trong Q1-2023 tương đương với các mức cao trong Q2-Q4 năm 2022 (lần lượt ở mức -8,9 tỷ US$, - 12,4 tỷ US$ và - 7,2 tỷ US$), qua đó cho thấy dòng vốn phi chính thức đang chạy ra ngoài thậm chí trước khi NHNN bắt đầu giảm lãi suất chính sách vào giữa tháng 03/2023.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 553
+            },
+            "score": 0.8804173807392437,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p35_c02",
+            "text": "63 Vào tháng 07/2023, lãi suất tái cấp vốn của Cục Dự trữ Liên Bang Mỹ cao hơn 2,5 điểm phần trăm so với lãi suất tái chiếu khấu của NHNN. 2024f 5,5 6,0 4,8 5,9 3,1 3,5 3,0 0,5 -0,3 35,2 2023f 4,7 6,0 4,8 5,3 2,1 3,0 3,5 0,2 -0,7 36,0 2025f 6,0 6,5 4,4 6,7 4,1 4,5 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 35,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 364
+            },
+            "score": 0.8697217300699973,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p29_c03",
+            "text": "Trong bối cảnh lạm phát giảm và tăng trưởng yếu đi, NHNN nới lỏng chính sách tiền tệ từ giữa tháng 3/2023. Đến cuối quý 2 năm 2023, lãi suất chiết khấu và lãi suất tái cấp vốn của NHNN được điều chỉnh lần lượt ở mức 3 và 4,5%, giảm 150-200 điểm cơ bản thông qua bốn đợt cắt giảm lãi suất chính sách từ tháng 3 đến tháng 6/2023 (Hình 1.20). Trần lãi suất tiền gửi kỳ hạn dưới 6 tháng và lãi suất cho vay các lĩnh vực ưu tiên cũng được điều chỉnh giảm với quy mô tương tự nhằm khuyến khích các ngân hàng thương mại cung cấp vốn vay mới, rẻ hơn, cho khách hàng cá nhân và doanh nghiệp. Bên cạnh đó là nỗ lực đẩy nhanh triển khai chương trình hỗ trợ lãi suất, cũng như việc ra mắt chương trình tín dụng nhà ở xã hội để hỗ trợ kinh tế. 43",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 29,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 733
+            },
+            "score": 0.8621243615889969,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p13_c06 | starter/data/data.pdf | page 13]\n2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3\n\n[wb-taking-stock-2023-08_B_p26_c02 | starter/data/data.pdf | page 26]\nViệt Nam ghi nhận khoản mục sai sót ròng ở mức lớn (7,5 tỷ US$ trong quý đầu năm 2023), 39 có lẽ phản ánh dòng vốn tiếp tục chảy ra nước ngoài nhưng không được ghi nhận, do kỳ vọng đồng tiền tiếp tục bị mất giá và còn chênh lệch lãi suất. Mặc dù khoản mục sai sót ròng có tăng lên, nhưng thặng dư trên cả tài khoản vãng lai và tài khoản tài chính đã hỗ trợ làm tăng thặng dư cán cân thanh toán tổng thể, tạo điều kiện cho Ngân hàng Nhà nước Việt Nam (NHNN) nâng dự trữ ngoại hối (từ 87,1% tỷ US$ vào cuối quý 4 năm 2023 lên 88,7 tỷ US$ vào cuối quý 1 năm 2023, tương đương 3,3 tháng nhập khẩu.\n\n[wb-taking-stock-2023-08_B_p30_c02 | starter/data/data.pdf | page 30]\nChỉ số giá của một số mặt hàng nhập khẩu Tháng 06/2019 = 100 (không điều chỉnh theo mùa vụ) T6-18 T6-19 T6-20 T6-21 T6-22 T6-23 Nguồn: Haver Analytics, Ngân hàng Nhà nước Việt Nam T6-19 T8-19 T10-19 T2-20 T2-21 T2-22 T2-23 T12-19 T12-20 T12-21 T12-22 T4-20 T4-21 T4-22 T4-23 T8-20 T8-21 T8-22 T6-21 T6-22 T6-23 T6-20 T10-20 T10-21 T10-22 Hình 1.20. Lãi suất Tỷ lệ % 8 6 4 2 0 Việt Nam: Lợi suất trái phiếu chính phủ 10 năm (%) Tỷ giá chào bán liên ngân hàng VND kỳ hạn 2 tuần [VIBOR] (%) Chiết khấu của NHNN Khu vực ngân hàng tiếp tục phải đối mặt với thách thức trong nửa đầu năm 2023.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p13_c06",
+          "wb-taking-stock-2023-08_B_p26_c02",
+          "wb-taking-stock-2023-08_B_p30_c02"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 892.61,
+        "usage": {
+          "prompt_tokens": 651,
+          "completion_tokens": 57,
+          "total_tokens": 708
+        },
+        "action": {
+          "action": "search",
+          "query": "lãi suất điều hành Ngân hàng Nhà nước Việt Nam cuối năm 2024"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1020.83,
+        "usage": {
+          "prompt_tokens": 1958,
+          "completion_tokens": 51,
+          "total_tokens": 2009
+        },
+        "action": {
+          "action": "search",
+          "query": "mức lãi suất điều hành NHNN dự kiến cuối năm 2024"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2383.29,
+        "usage": {
+          "prompt_tokens": 1985,
+          "completion_tokens": 210,
+          "total_tokens": 2195
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Không đủ bằng chứng để trả lời. Báo cáo không nêu mức lãi suất điều hành cụ thể (tính bằng %/năm) mà Ngân hàng Nhà nước Việt Nam dự kiến áp dụng vào cuối năm 2024. Các tài liệu trong context chỉ chứa dữ liệu kinh tế tổng hợp và biểu đồ lãi suất chung, nhưng không cung cấp thông tin về mức lãi suất điều hành dự kiến cụ thể cho cuối năm 2024.",
+          "citations": []
+        }
+      }
+    ],
+    "total_tokens": 4912,
+    "elapsed_ms": 4378.08
+  },
+  {
+    "query_id": "u04",
+    "split": "test",
+    "question": "Tổng mức đầu tư bằng tiền (tỷ VND hoặc tỷ USD) riêng cho tuyến đường sắt cao tốc Bắc – Nam được báo cáo ước tính là bao nhiêu?",
+    "answerable": false,
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "search_calls": 3,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p41_c03",
+      "wb-taking-stock-2023-08_B_p36_c01",
+      "wb-taking-stock-2023-08_B_p43_c01"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p41_c03 | starter/data/data.pdf | page 41]\nHộp 2.1. Những hạn chế về hạ tầng giao thông Trong 20 năm qua, chi tiêu cho giao thông - bằng khoảng 23% chi đầu tư từ NSNN và 3,5% GDP - tập trung chủ yếu cho hạ tầng giao thông nông thôn (75%), do các địa phương quản lý. Trong điều kiện ngân sách hạn chế, đầu tư tập trung theo hướng đó gây ảnh hưởng đến triển khai các công trình đầu tư có tầm quan trọng chiến lược quốc gia. Chính vì lẽ đó, mật độ đường cao tốc ở Việt Nam thuộc dạng thấp nhất trong khu vực Đông Á và Thái Bình Dương (ĐÁ-TBD), và chi phí vận tải đường bộ đứng cao nhất so với các nước khác trong khu vực. Nhiều đoạn dọc trục đường cao tốc Bắc - Nam đến nay chưa được xây dựng. Hạ tầng đườngoc sắt cũng bị lãng quên.\n\n[wb-taking-stock-2023-08_B_p36_c01 | starter/data/data.pdf | page 36]\n64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.\n\n[wb-taking-stock-2023-08_B_p43_c01 | starter/data/data.pdf | page 43]\ntư được phân bổ. Trong giai đoạn từ 2017 đến 2022, chi đầu tư chỉ thực hiện trung bình được 77% dự toán (tham khảo Hình 2.4). Chênh lệch giữa dự toán và thực hiện (23%) với hệ quả phải chuyển nguồn chi đầu tư (ở mức từ 18 đến 31% tổng chi đầu tư) nhiều hơn hẳn so với các quốc gia so sánh, và cao hơn rất nhiều so với thông lệ quốc tế tốt là 5%. 78 Yếu kém về hiệu suất quản lý đầu tư công (QLĐTC) cũng được thể hiện qua tình trạng chậm tiến độ hoàn thành dự án và đội vốn. Theo một đánh giá gần đây 79 của Ngân hàng Thế giới tại một số dự án giao thông quy mô lớn, chậm tiến độ bình quân lên đến năm năm, còn đội vốn bình quân lên đến gấp đôi dự toán kinh phí ban đầu ở giai đoạn thiết kế và phân bổ ngân sách.",
+    "events": [
+      {
+        "event": "search",
+        "query": "tổng mức đầu tư tuyến đường sắt cao tốc Bắc Nam tỷ VND USD",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p41_c03",
+            "text": "Hộp 2.1. Những hạn chế về hạ tầng giao thông Trong 20 năm qua, chi tiêu cho giao thông - bằng khoảng 23% chi đầu tư từ NSNN và 3,5% GDP - tập trung chủ yếu cho hạ tầng giao thông nông thôn (75%), do các địa phương quản lý. Trong điều kiện ngân sách hạn chế, đầu tư tập trung theo hướng đó gây ảnh hưởng đến triển khai các công trình đầu tư có tầm quan trọng chiến lược quốc gia. Chính vì lẽ đó, mật độ đường cao tốc ở Việt Nam thuộc dạng thấp nhất trong khu vực Đông Á và Thái Bình Dương (ĐÁ-TBD), và chi phí vận tải đường bộ đứng cao nhất so với các nước khác trong khu vực. Nhiều đoạn dọc trục đường cao tốc Bắc - Nam đến nay chưa được xây dựng. Hạ tầng đườngoc sắt cũng bị lãng quên.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 41,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "I_gioi_thieu_dau_tu_cong",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 686
+            },
+            "score": 0.8482025713370429,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p36_c01",
+            "text": "64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 36,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 683
+            },
+            "score": 0.8337213993993475,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p43_c01",
+            "text": "tư được phân bổ. Trong giai đoạn từ 2017 đến 2022, chi đầu tư chỉ thực hiện trung bình được 77% dự toán (tham khảo Hình 2.4). Chênh lệch giữa dự toán và thực hiện (23%) với hệ quả phải chuyển nguồn chi đầu tư (ở mức từ 18 đến 31% tổng chi đầu tư) nhiều hơn hẳn so với các quốc gia so sánh, và cao hơn rất nhiều so với thông lệ quốc tế tốt là 5%. 78 Yếu kém về hiệu suất quản lý đầu tư công (QLĐTC) cũng được thể hiện qua tình trạng chậm tiến độ hoàn thành dự án và đội vốn. Theo một đánh giá gần đây 79 của Ngân hàng Thế giới tại một số dự án giao thông quy mô lớn, chậm tiến độ bình quân lên đến năm năm, còn đội vốn bình quân lên đến gấp đôi dự toán kinh phí ban đầu ở giai đoạn thiết kế và phân bổ ngân sách.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 43,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 711
+            },
+            "score": 0.8319665507487645,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p41_c03 | starter/data/data.pdf | page 41]\nHộp 2.1. Những hạn chế về hạ tầng giao thông Trong 20 năm qua, chi tiêu cho giao thông - bằng khoảng 23% chi đầu tư từ NSNN và 3,5% GDP - tập trung chủ yếu cho hạ tầng giao thông nông thôn (75%), do các địa phương quản lý. Trong điều kiện ngân sách hạn chế, đầu tư tập trung theo hướng đó gây ảnh hưởng đến triển khai các công trình đầu tư có tầm quan trọng chiến lược quốc gia. Chính vì lẽ đó, mật độ đường cao tốc ở Việt Nam thuộc dạng thấp nhất trong khu vực Đông Á và Thái Bình Dương (ĐÁ-TBD), và chi phí vận tải đường bộ đứng cao nhất so với các nước khác trong khu vực. Nhiều đoạn dọc trục đường cao tốc Bắc - Nam đến nay chưa được xây dựng. Hạ tầng đườngoc sắt cũng bị lãng quên.\n\n[wb-taking-stock-2023-08_B_p36_c01 | starter/data/data.pdf | page 36]\n64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.\n\n[wb-taking-stock-2023-08_B_p43_c01 | starter/data/data.pdf | page 43]\ntư được phân bổ. Trong giai đoạn từ 2017 đến 2022, chi đầu tư chỉ thực hiện trung bình được 77% dự toán (tham khảo Hình 2.4). Chênh lệch giữa dự toán và thực hiện (23%) với hệ quả phải chuyển nguồn chi đầu tư (ở mức từ 18 đến 31% tổng chi đầu tư) nhiều hơn hẳn so với các quốc gia so sánh, và cao hơn rất nhiều so với thông lệ quốc tế tốt là 5%. 78 Yếu kém về hiệu suất quản lý đầu tư công (QLĐTC) cũng được thể hiện qua tình trạng chậm tiến độ hoàn thành dự án và đội vốn. Theo một đánh giá gần đây 79 của Ngân hàng Thế giới tại một số dự án giao thông quy mô lớn, chậm tiến độ bình quân lên đến năm năm, còn đội vốn bình quân lên đến gấp đôi dự toán kinh phí ban đầu ở giai đoạn thiết kế và phân bổ ngân sách.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p41_c03",
+          "wb-taking-stock-2023-08_B_p36_c01",
+          "wb-taking-stock-2023-08_B_p43_c01"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "tổng mức đầu tư tuyến đường sắt cao tốc Bắc Nam số tiền tỷ VND USD",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p41_c03",
+            "text": "Hộp 2.1. Những hạn chế về hạ tầng giao thông Trong 20 năm qua, chi tiêu cho giao thông - bằng khoảng 23% chi đầu tư từ NSNN và 3,5% GDP - tập trung chủ yếu cho hạ tầng giao thông nông thôn (75%), do các địa phương quản lý. Trong điều kiện ngân sách hạn chế, đầu tư tập trung theo hướng đó gây ảnh hưởng đến triển khai các công trình đầu tư có tầm quan trọng chiến lược quốc gia. Chính vì lẽ đó, mật độ đường cao tốc ở Việt Nam thuộc dạng thấp nhất trong khu vực Đông Á và Thái Bình Dương (ĐÁ-TBD), và chi phí vận tải đường bộ đứng cao nhất so với các nước khác trong khu vực. Nhiều đoạn dọc trục đường cao tốc Bắc - Nam đến nay chưa được xây dựng. Hạ tầng đườngoc sắt cũng bị lãng quên.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 41,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "I_gioi_thieu_dau_tu_cong",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 686
+            },
+            "score": 0.8448530654171132,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p36_c01",
+            "text": "64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 36,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 683
+            },
+            "score": 0.8330338180117682,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p44_c03",
+            "text": "Hình 2.5. Mức chi ngân sách của các địa phương tăng lên trong tổng chi đầu tư công Hình 2.6. Việt Nam có mức độ phân cấp ở mức cao so với các quốc gia ở cùng mức phát triển 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 0 10.000 20.000 30.000 40.000 50.000 60.000 70.000",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 44,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 283
+            },
+            "score": 0.8314691349510482,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p41_c03 | starter/data/data.pdf | page 41]\nHộp 2.1. Những hạn chế về hạ tầng giao thông Trong 20 năm qua, chi tiêu cho giao thông - bằng khoảng 23% chi đầu tư từ NSNN và 3,5% GDP - tập trung chủ yếu cho hạ tầng giao thông nông thôn (75%), do các địa phương quản lý. Trong điều kiện ngân sách hạn chế, đầu tư tập trung theo hướng đó gây ảnh hưởng đến triển khai các công trình đầu tư có tầm quan trọng chiến lược quốc gia. Chính vì lẽ đó, mật độ đường cao tốc ở Việt Nam thuộc dạng thấp nhất trong khu vực Đông Á và Thái Bình Dương (ĐÁ-TBD), và chi phí vận tải đường bộ đứng cao nhất so với các nước khác trong khu vực. Nhiều đoạn dọc trục đường cao tốc Bắc - Nam đến nay chưa được xây dựng. Hạ tầng đườngoc sắt cũng bị lãng quên.\n\n[wb-taking-stock-2023-08_B_p36_c01 | starter/data/data.pdf | page 36]\n64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.\n\n[wb-taking-stock-2023-08_B_p43_c01 | starter/data/data.pdf | page 43]\ntư được phân bổ. Trong giai đoạn từ 2017 đến 2022, chi đầu tư chỉ thực hiện trung bình được 77% dự toán (tham khảo Hình 2.4). Chênh lệch giữa dự toán và thực hiện (23%) với hệ quả phải chuyển nguồn chi đầu tư (ở mức từ 18 đến 31% tổng chi đầu tư) nhiều hơn hẳn so với các quốc gia so sánh, và cao hơn rất nhiều so với thông lệ quốc tế tốt là 5%. 78 Yếu kém về hiệu suất quản lý đầu tư công (QLĐTC) cũng được thể hiện qua tình trạng chậm tiến độ hoàn thành dự án và đội vốn. Theo một đánh giá gần đây 79 của Ngân hàng Thế giới tại một số dự án giao thông quy mô lớn, chậm tiến độ bình quân lên đến năm năm, còn đội vốn bình quân lên đến gấp đôi dự toán kinh phí ban đầu ở giai đoạn thiết kế và phân bổ ngân sách.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p41_c03",
+          "wb-taking-stock-2023-08_B_p36_c01",
+          "wb-taking-stock-2023-08_B_p43_c01"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "tổng mức đầu tư tuyến đường sắt cao tốc Bắc Nam số tiền cụ thể",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p41_c03",
+            "text": "Hộp 2.1. Những hạn chế về hạ tầng giao thông Trong 20 năm qua, chi tiêu cho giao thông - bằng khoảng 23% chi đầu tư từ NSNN và 3,5% GDP - tập trung chủ yếu cho hạ tầng giao thông nông thôn (75%), do các địa phương quản lý. Trong điều kiện ngân sách hạn chế, đầu tư tập trung theo hướng đó gây ảnh hưởng đến triển khai các công trình đầu tư có tầm quan trọng chiến lược quốc gia. Chính vì lẽ đó, mật độ đường cao tốc ở Việt Nam thuộc dạng thấp nhất trong khu vực Đông Á và Thái Bình Dương (ĐÁ-TBD), và chi phí vận tải đường bộ đứng cao nhất so với các nước khác trong khu vực. Nhiều đoạn dọc trục đường cao tốc Bắc - Nam đến nay chưa được xây dựng. Hạ tầng đườngoc sắt cũng bị lãng quên.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 41,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "I_gioi_thieu_dau_tu_cong",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 686
+            },
+            "score": 0.8449882485737237,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p36_c01",
+            "text": "64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 36,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 683
+            },
+            "score": 0.8376364995120258,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p44_c03",
+            "text": "Hình 2.5. Mức chi ngân sách của các địa phương tăng lên trong tổng chi đầu tư công Hình 2.6. Việt Nam có mức độ phân cấp ở mức cao so với các quốc gia ở cùng mức phát triển 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 0 10.000 20.000 30.000 40.000 50.000 60.000 70.000",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 44,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 283
+            },
+            "score": 0.8371962458885296,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p41_c03 | starter/data/data.pdf | page 41]\nHộp 2.1. Những hạn chế về hạ tầng giao thông Trong 20 năm qua, chi tiêu cho giao thông - bằng khoảng 23% chi đầu tư từ NSNN và 3,5% GDP - tập trung chủ yếu cho hạ tầng giao thông nông thôn (75%), do các địa phương quản lý. Trong điều kiện ngân sách hạn chế, đầu tư tập trung theo hướng đó gây ảnh hưởng đến triển khai các công trình đầu tư có tầm quan trọng chiến lược quốc gia. Chính vì lẽ đó, mật độ đường cao tốc ở Việt Nam thuộc dạng thấp nhất trong khu vực Đông Á và Thái Bình Dương (ĐÁ-TBD), và chi phí vận tải đường bộ đứng cao nhất so với các nước khác trong khu vực. Nhiều đoạn dọc trục đường cao tốc Bắc - Nam đến nay chưa được xây dựng. Hạ tầng đườngoc sắt cũng bị lãng quên.\n\n[wb-taking-stock-2023-08_B_p36_c01 | starter/data/data.pdf | page 36]\n64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.\n\n[wb-taking-stock-2023-08_B_p43_c01 | starter/data/data.pdf | page 43]\ntư được phân bổ. Trong giai đoạn từ 2017 đến 2022, chi đầu tư chỉ thực hiện trung bình được 77% dự toán (tham khảo Hình 2.4). Chênh lệch giữa dự toán và thực hiện (23%) với hệ quả phải chuyển nguồn chi đầu tư (ở mức từ 18 đến 31% tổng chi đầu tư) nhiều hơn hẳn so với các quốc gia so sánh, và cao hơn rất nhiều so với thông lệ quốc tế tốt là 5%. 78 Yếu kém về hiệu suất quản lý đầu tư công (QLĐTC) cũng được thể hiện qua tình trạng chậm tiến độ hoàn thành dự án và đội vốn. Theo một đánh giá gần đây 79 của Ngân hàng Thế giới tại một số dự án giao thông quy mô lớn, chậm tiến độ bình quân lên đến năm năm, còn đội vốn bình quân lên đến gấp đôi dự toán kinh phí ban đầu ở giai đoạn thiết kế và phân bổ ngân sách.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p41_c03",
+          "wb-taking-stock-2023-08_B_p36_c01",
+          "wb-taking-stock-2023-08_B_p43_c01"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 982.88,
+        "usage": {
+          "prompt_tokens": 647,
+          "completion_tokens": 60,
+          "total_tokens": 707
+        },
+        "action": {
+          "action": "search",
+          "query": "tổng mức đầu tư tuyến đường sắt cao tốc Bắc Nam tỷ VND USD"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1297.94,
+        "usage": {
+          "prompt_tokens": 1964,
+          "completion_tokens": 63,
+          "total_tokens": 2027
+        },
+        "action": {
+          "action": "search",
+          "query": "tổng mức đầu tư tuyến đường sắt cao tốc Bắc Nam số tiền tỷ VND USD"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1228.23,
+        "usage": {
+          "prompt_tokens": 2003,
+          "completion_tokens": 61,
+          "total_tokens": 2064
+        },
+        "action": {
+          "action": "search",
+          "query": "tổng mức đầu tư tuyến đường sắt cao tốc Bắc Nam số tiền cụ thể"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1429.17,
+        "usage": {
+          "prompt_tokens": 2040,
+          "completion_tokens": 75,
+          "total_tokens": 2115
+        },
+        "action": {
+          "action": "search",
+          "query": "tổng mức đầu tư tuyến đường sắt cao tốc Bắc Nam số tiền cụ thể tỷ đô la tỷ đồng"
+        }
+      }
+    ],
+    "total_tokens": 6913,
+    "elapsed_ms": 5060.71
+  }
+]

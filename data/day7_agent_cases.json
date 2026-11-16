@@ -1,0 +1,189 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Theo báo cáo, tăng trưởng thương mại toàn cầu dự kiến thay đổi như thế nào từ năm 2022 sang năm 2023?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Theo khảo sát 10.000 doanh nghiệp vào tháng 4/2023 của Ban Nghiên cứu Phát triển Kinh tế Tư nhân, tỷ lệ doanh nghiệp giảm doanh thu ít nhất 20%, giảm đơn hàng và phải cắt giảm lao động là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Các đợt mất điện luân phiên tại miền Bắc vào tháng 5 và tháng 6 năm 2023 ước tính gây thiệt hại kinh tế khoảng bao nhiêu tỷ USD?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Trong nửa đầu năm 2023, lạm phát CPI giảm từ mức nào vào tháng 1 xuống bao nhiêu vào tháng 6 và dịch vụ nào là yếu tố chính dẫn đến mức giảm này?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Trên thị trường trái phiếu doanh nghiệp đang ngưng trệ, có bao nhiêu doanh nghiệp mất khả năng trả nợ và tổng giá trị nợ trái phiếu mất khả năng chi trả là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Trong nửa đầu năm 2023, khi hầu hết các sắc thuế lớn giảm khiến thu ngân sách giảm 7%, ngoại lệ duy nhất nào đã tăng bật 16,9% và vì lý do gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Tỷ lệ nợ của Chính phủ và nợ được Chính phủ bảo lãnh năm 2022 ước đạt bao nhiêu phần trăm và nằm ở mức nào so với ngưỡng Quốc hội đề ra?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Luật Các tổ chức tín dụng (Luật CTCTD) hiện hành tồn tại những hạn chế nào khiến cần thiết phải sửa đổi để hỗ trợ Ngân hàng Nhà nước?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Trong giai đoạn 2021–2030, tổng đầu tư toàn xã hội và riêng đầu tư công cần đạt bình quân bao nhiêu phần trăm GDP mỗi năm để đáp ứng mục tiêu phát triển?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Mặc dù Việt Nam có tới 47 cảng biển và 22 sân bay trên toàn quốc, nhưng thực tế có bao nhiêu cảng đảm nhận 95% lượng hàng hóa và có bao nhiêu sân bay quốc tế?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Để rút ngắn thời gian thực hiện các dự án đầu tư công quy mô lớn, báo cáo khuyến nghị tách khâu nào ra khỏi dự án đầu tư?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Tỷ lệ chi của chính quyền địa phương trong tổng chi tiêu ngân sách nhà nước đã thay đổi như thế nào từ năm 1992 đến năm 2022?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Trong giai đoạn 2017–2022, chi đầu tư công chỉ thực hiện trung bình bao nhiêu phần trăm dự toán, chênh lệch phải chuyển nguồn là bao nhiêu và thông lệ quốc tế tốt ở mức nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "section": "chuong_2_dau_tu_cong"
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Hợp phần đầu tư công trong Chương trình Phục hồi và Phát triển KTXH 2022–2023 có quy mô ngân sách khoảng bao nhiêu nghìn tỷ VND (tương đương bao nhiêu % GDP)?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "section": "chuong_1_kinh_te_vi_mo"
+    }
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Nền kinh tế Việt Nam được dự báo đạt mức tăng trưởng GDP bao nhiêu phần trăm lần lượt cho các năm 2023, 2024 và 2025?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "section": "tong_quan"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Từ năm 2011 đến 2021, Chính phủ đã thu gọn quy mô chi tiêu và số lượng các Chương trình mục tiêu quốc gia (CTMTQG) như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Trường hợp xung đột nguồn nước giữa Quảng Nam (thượng nguồn) và Đà Nẵng (hạ lưu) cho thấy chi phí xử lý tại hai địa phương chênh lệch như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Mỗi năm tại Việt Nam, tình trạng lũ, lụt bờ sông và bờ biển khiến bình quân bao nhiêu USD giá trị hoạt động kinh tế và bao nhiêu việc làm ở các lĩnh vực nào phải chịu rủi ro?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Trong nhu cầu tài chính ứng phó biến đổi khí hậu và chuyển đổi xanh, đầu tư công có thể chiếm tỷ trọng bao nhiêu phần trăm GDP mỗi năm và riêng lộ trình nâng cao khả năng chống chịu chiếm tỷ lệ bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "section": "chuong_2_dau_tu_cong"
+    }
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Trong đánh giá tổng quan về hiệu suất hạ tầng, chất lượng hạ tầng của Việt Nam đứng thứ mấy trên bao nhiêu quốc gia toàn thế giới và xếp sau những nước nào trong khu vực?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "section": "tong_quan"
+    }
+  },
+  {
+    "id": "u01",
+    "split": "dev",
+    "question": "Báo cáo Điểm lại tháng 8/2023 đưa ra dự báo tăng trưởng GDP cụ thể của Việt Nam cho năm 2026 và năm 2027 là bao nhiêu phần trăm?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo chỉ dự báo tăng trưởng GDP Việt Nam đến năm 2025 (4,7% năm 2023; 5,5% năm 2024; 6,0% năm 2025), không có số liệu dự báo cho năm 2026 và 2027."
+  },
+  {
+    "id": "u02",
+    "split": "dev",
+    "question": "Trong giai đoạn 2021–2025, tỷ lệ giải ngân vốn đầu tư công bình quân của riêng Thành phố Hà Nội và Thành phố Hồ Chí Minh được nêu trong báo cáo là bao nhiêu phần trăm?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo phân tích tổng chi đầu tư công và xu hướng phân cấp cho chính quyền địa phương nói chung, không công bố số liệu tỷ lệ giải ngân riêng của Hà Nội hay TP.HCM."
+  },
+  {
+    "id": "u03",
+    "split": "test",
+    "question": "Báo cáo có nêu mức lãi suất điều hành cụ thể (tính bằng %/năm) mà Ngân hàng Nhà nước Việt Nam dự kiến áp dụng vào cuối năm 2024 không?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo đề cập các đợt cắt giảm lãi suất điều hành trong nửa đầu năm 2023 nhưng không đưa ra con số dự báo mức lãi suất điều hành cụ thể cho cuối năm 2024."
+  },
+  {
+    "id": "u04",
+    "split": "test",
+    "question": "Tổng mức đầu tư bằng tiền (tỷ VND hoặc tỷ USD) riêng cho tuyến đường sắt cao tốc Bắc – Nam được báo cáo ước tính là bao nhiêu?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo có đề cập đến hạ tầng giao thông (cảng biển, sân bay, đường cao tốc) nhưng không nêu dự toán tổng mức đầu tư cho tuyến đường sắt cao tốc Bắc – Nam."
+  }
+]

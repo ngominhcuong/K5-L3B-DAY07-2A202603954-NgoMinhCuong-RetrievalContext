@@ -1,0 +1,136 @@
+[
+  {
+    "query_id": "q16",
+    "split": "test",
+    "question": "Từ năm 2011 đến 2021, Chính phủ đã thu gọn quy mô chi tiêu và số lượng các Chương trình mục tiêu quốc gia (CTMTQG) như thế nào?",
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p50_c01",
+      "wb-taking-stock-2023-08_B_p36_c02",
+      "wb-taking-stock-2023-08_B_p50_c02"
+    ],
+    "top_pages": [
+      50,
+      36,
+      50
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p50_c01",
+      "wb-taking-stock-2023-08_B_p36_c02",
+      "wb-taking-stock-2023-08_B_p50_c02"
+    ],
+    "context_chars": 2266,
+    "elapsed_ms": 96.63
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "Trường hợp xung đột nguồn nước giữa Quảng Nam (thượng nguồn) và Đà Nẵng (hạ lưu) cho thấy chi phí xử lý tại hai địa phương chênh lệch như thế nào?",
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p52_c01",
+      "wb-taking-stock-2023-08_B_p46_c02",
+      "wb-taking-stock-2023-08_B_p51_c06"
+    ],
+    "top_pages": [
+      52,
+      46,
+      51
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p52_c01",
+      "wb-taking-stock-2023-08_B_p46_c02",
+      "wb-taking-stock-2023-08_B_p51_c06"
+    ],
+    "context_chars": 2051,
+    "elapsed_ms": 83.47
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "question": "Mỗi năm tại Việt Nam, tình trạng lũ, lụt bờ sông và bờ biển khiến bình quân bao nhiêu USD giá trị hoạt động kinh tế và bao nhiêu việc làm ở các lĩnh vực nào phải chịu rủi ro?",
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p46_c01",
+      "wb-taking-stock-2023-08_B_p46_c02",
+      "wb-taking-stock-2023-08_B_p52_c01"
+    ],
+    "top_pages": [
+      46,
+      46,
+      52
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p46_c01",
+      "wb-taking-stock-2023-08_B_p46_c02",
+      "wb-taking-stock-2023-08_B_p52_c01"
+    ],
+    "context_chars": 2003,
+    "elapsed_ms": 77.75
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "question": "Trong nhu cầu tài chính ứng phó biến đổi khí hậu và chuyển đổi xanh, đầu tư công có thể chiếm tỷ trọng bao nhiêu phần trăm GDP mỗi năm và riêng lộ trình nâng cao khả năng chống chịu chiếm tỷ lệ bao nhiêu?",
+    "filter": {
+      "section": "chuong_2_dau_tu_cong"
+    },
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p47_c01",
+      "wb-taking-stock-2023-08_B_p46_c04",
+      "wb-taking-stock-2023-08_B_p51_c04"
+    ],
+    "top_pages": [
+      47,
+      46,
+      51
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p47_c01",
+      "wb-taking-stock-2023-08_B_p46_c04",
+      "wb-taking-stock-2023-08_B_p51_c04"
+    ],
+    "context_chars": 2204,
+    "elapsed_ms": 100.13
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "Trong đánh giá tổng quan về hiệu suất hạ tầng, chất lượng hạ tầng của Việt Nam đứng thứ mấy trên bao nhiêu quốc gia toàn thế giới và xếp sau những nước nào trong khu vực?",
+    "filter": {
+      "section": "tong_quan"
+    },
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p16_c02",
+      "wb-taking-stock-2023-08_B_p15_c06",
+      "wb-taking-stock-2023-08_B_p16_c07"
+    ],
+    "top_pages": [
+      16,
+      15,
+      16
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p16_c02",
+      "wb-taking-stock-2023-08_B_p15_c06",
+      "wb-taking-stock-2023-08_B_p16_c07"
+    ],
+    "context_chars": 2116,
+    "elapsed_ms": 94.44
+  }
+]

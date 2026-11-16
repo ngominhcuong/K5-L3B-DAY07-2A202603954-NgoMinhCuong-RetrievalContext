@@ -1,0 +1,34 @@
+[
+  {
+    "id": "u01",
+    "split": "dev",
+    "question": "Báo cáo Điểm lại tháng 8/2023 đưa ra dự báo tăng trưởng GDP cụ thể của Việt Nam cho năm 2026 và năm 2027 là bao nhiêu phần trăm?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo chỉ dự báo tăng trưởng GDP Việt Nam đến năm 2025 (4,7% năm 2023; 5,5% năm 2024; 6,0% năm 2025), không có số liệu dự báo cho năm 2026 và 2027."
+  },
+  {
+    "id": "u02",
+    "split": "dev",
+    "question": "Trong giai đoạn 2021–2025, tỷ lệ giải ngân vốn đầu tư công bình quân của riêng Thành phố Hà Nội và Thành phố Hồ Chí Minh được nêu trong báo cáo là bao nhiêu phần trăm?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo phân tích tổng chi đầu tư công và xu hướng phân cấp cho chính quyền địa phương nói chung, không công bố số liệu tỷ lệ giải ngân riêng của Hà Nội hay TP.HCM."
+  },
+  {
+    "id": "u03",
+    "split": "test",
+    "question": "Báo cáo có nêu mức lãi suất điều hành cụ thể (tính bằng %/năm) mà Ngân hàng Nhà nước Việt Nam dự kiến áp dụng vào cuối năm 2024 không?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo đề cập các đợt cắt giảm lãi suất điều hành trong nửa đầu năm 2023 nhưng không đưa ra con số dự báo mức lãi suất điều hành cụ thể cho cuối năm 2024."
+  },
+  {
+    "id": "u04",
+    "split": "test",
+    "question": "Tổng mức đầu tư bằng tiền (tỷ VND hoặc tỷ USD) riêng cho tuyến đường sắt cao tốc Bắc – Nam được báo cáo ước tính là bao nhiêu?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo có đề cập đến hạ tầng giao thông (cảng biển, sân bay, đường cao tốc) nhưng không nêu dự toán tổng mức đầu tư cho tuyến đường sắt cao tốc Bắc – Nam."
+  }
+]

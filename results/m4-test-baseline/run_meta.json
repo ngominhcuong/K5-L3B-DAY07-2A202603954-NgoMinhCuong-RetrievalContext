@@ -1,0 +1,16 @@
+{
+  "split": "test",
+  "provider": "anthropic",
+  "model": "claude-haiku-4-5-20251001",
+  "retriever": "dense",
+  "strategy": "B",
+  "max_searches": 3,
+  "top_k": 3,
+  "budget_chars": 2400,
+  "total_cases": 7,
+  "answered": 5,
+  "abstain": 2,
+  "error": 0,
+  "total_tokens": 25306,
+  "total_elapsed_ms": 27334.92
+}

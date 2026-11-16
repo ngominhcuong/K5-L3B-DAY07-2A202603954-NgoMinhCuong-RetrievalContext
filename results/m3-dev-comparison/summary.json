@@ -1,0 +1,150 @@
+[
+  {
+    "config": "1_dense_baseline",
+    "description": "Dense Qdrant Day 6 (`top_k=3`, `budget=2400`)",
+    "split": "dev",
+    "n": 15,
+    "top_k": 3,
+    "budget_chars": 2400,
+    "hit1_n": 12,
+    "hit1_ratio": "12/15",
+    "hit1_pct": 80.0,
+    "hit3_n": 14,
+    "hit3_ratio": "14/15",
+    "hit3_pct": 93.33,
+    "context_n": 15,
+    "context_ratio": "15/15",
+    "context_pct": 100.0,
+    "total_elapsed_ms": 1343.95,
+    "api_cost_usd": 0.0,
+    "missed_hit1": [
+      "q04",
+      "q06",
+      "q11"
+    ],
+    "missed_hit3": [
+      "q04"
+    ],
+    "missed_context": []
+  },
+  {
+    "config": "2_bm25_lexical",
+    "description": "Lexical BM25 (`k1=1.5, b=0.75`, `top_k=3`, `budget=2400`)",
+    "split": "dev",
+    "n": 15,
+    "top_k": 3,
+    "budget_chars": 2400,
+    "hit1_n": 11,
+    "hit1_ratio": "11/15",
+    "hit1_pct": 73.33,
+    "hit3_n": 14,
+    "hit3_ratio": "14/15",
+    "hit3_pct": 93.33,
+    "context_n": 14,
+    "context_ratio": "14/15",
+    "context_pct": 93.33,
+    "total_elapsed_ms": 38.82,
+    "api_cost_usd": 0.0,
+    "missed_hit1": [
+      "q03",
+      "q04",
+      "q08",
+      "q11"
+    ],
+    "missed_hit3": [
+      "q04"
+    ],
+    "missed_context": [
+      "q04"
+    ]
+  },
+  {
+    "config": "3_hybrid_rrf",
+    "description": "Hybrid Dense + BM25 via RRF (`k=60, cand=10`, `top_k=3`, `budget=2400`)",
+    "split": "dev",
+    "n": 15,
+    "top_k": 3,
+    "budget_chars": 2400,
+    "hit1_n": 13,
+    "hit1_ratio": "13/15",
+    "hit1_pct": 86.67,
+    "hit3_n": 14,
+    "hit3_ratio": "14/15",
+    "hit3_pct": 93.33,
+    "context_n": 15,
+    "context_ratio": "15/15",
+    "context_pct": 100.0,
+    "total_elapsed_ms": 880.33,
+    "api_cost_usd": 0.0,
+    "missed_hit1": [
+      "q04",
+      "q11"
+    ],
+    "missed_hit3": [
+      "q04"
+    ],
+    "missed_context": []
+  },
+  {
+    "config": "4_hybrid_rerank",
+    "description": "Cải thiện 1: Hybrid RRF + Normalized Rerank (`cand=10`, `top_k=3`, `budget=2400`)",
+    "split": "dev",
+    "n": 15,
+    "top_k": 3,
+    "budget_chars": 2400,
+    "hit1_n": 11,
+    "hit1_ratio": "11/15",
+    "hit1_pct": 73.33,
+    "hit3_n": 14,
+    "hit3_ratio": "14/15",
+    "hit3_pct": 93.33,
+    "context_n": 14,
+    "context_ratio": "14/15",
+    "context_pct": 93.33,
+    "total_elapsed_ms": 776.46,
+    "api_cost_usd": 0.0,
+    "missed_hit1": [
+      "q03",
+      "q04",
+      "q08",
+      "q11"
+    ],
+    "missed_hit3": [
+      "q04"
+    ],
+    "missed_context": [
+      "q04"
+    ]
+  },
+  {
+    "config": "5_hybrid_rerank_neighbor",
+    "description": "Cải thiện 2: Hybrid Rerank + Neighbor Context (`top_k=3`, `budget=3000`)",
+    "split": "dev",
+    "n": 15,
+    "top_k": 3,
+    "budget_chars": 3000,
+    "hit1_n": 11,
+    "hit1_ratio": "11/15",
+    "hit1_pct": 73.33,
+    "hit3_n": 14,
+    "hit3_ratio": "14/15",
+    "hit3_pct": 93.33,
+    "context_n": 14,
+    "context_ratio": "14/15",
+    "context_pct": 93.33,
+    "total_elapsed_ms": 872.62,
+    "api_cost_usd": 0.0,
+    "missed_hit1": [
+      "q03",
+      "q04",
+      "q08",
+      "q11"
+    ],
+    "missed_hit3": [
+      "q04"
+    ],
+    "missed_context": [
+      "q11"
+    ]
+  }
+]

@@ -1,0 +1,2485 @@
+[
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "question": "Theo báo cáo, tăng trưởng thương mại toàn cầu dự kiến thay đổi như thế nào từ năm 2022 sang năm 2023?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Theo báo cáo, tăng trưởng thương mại toàn cầu dự kiến giảm đáng kể từ năm 2022 sang năm 2023. Cụ thể, tăng trưởng thương mại toàn cầu dự kiến giảm từ 6% trong năm 2022 xuống còn 1,7% trong năm 2023 [wb-taking-stock-2023-08_B_p11_c01]. Đây là sự giảm tốc đáng kể, thấp hơn 2,6 điểm phần trăm so với dự báo vào tháng 6/2022 [wb-taking-stock-2023-08_B_p20_c01].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p11_c01",
+      "wb-taking-stock-2023-08_B_p20_c01"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p20_c01",
+      "wb-taking-stock-2023-08_B_p11_c01",
+      "wb-taking-stock-2023-08_B_p34_c05"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p20_c01 | starter/data/data.pdf | page 20]\nNền kinh tế toàn cầu đang đối mặt với nhiều trở ngại Tăng trưởng kinh tế toàn cầu dự kiến sẽ giảm tốc đáng kể từ mức 3,1% năm 2022 xuống còn 2,1% trong năm 2023 (Hình 1.1). Tăng trưởng chững lại là do chính sách tiền tệ tiếp tục bị thắt chặt để kiểm soát lạm phát cao và sức cầu đang yếu đi ở hầu hết các nền kinh tế phát triển.18 Lạm phát được dự báo sẽ giảm dần khi sức cầu yếu đi và giá cả thương phẩm hạ nhiệt, nhưng vẫn ở mức cao hơn nhiều so với trước đại dịch. Thương mại toàn cầu dự kiến chỉ tăng trưởng 1,7% trong năm 2023 (thấp hơn 2,6 điểm phần trăm so với dự báo vào tháng 6/2022, Hình 1.2).\n\n[wb-taking-stock-2023-08_B_p11_c01 | starter/data/data.pdf | page 11]\nNhững diễn biến kinh tế gần đây Môi trường bên ngoài vẫn còn nhiều thách thức với những rủi ro theo chiều hướng tiêu cực và hiện diện trong ngắn hạn. Tăng trưởng GDP toàn cầu được dự báo sẽ giảm xuống còn 2,1% trong năm 2023, so với mức 3,1% trong năm 2022, do sức cầu tại các nền kinh tế phát triển hàng đầu đang yếu đi. Song song với việc tăng trưởng kinh tế toàn cầu đang chững lại, tăng trưởng thương mại toàn cầu dự kiến cũng giảm từ 6% trong năm 2022 xuống còn 1,7% trong năm 2023.\n\n[wb-taking-stock-2023-08_B_p34_c05 | starter/data/data.pdf | page 34]\nDự báo tăng trưởng dựa trên giả định rằng xuất khẩu hàng hóa sẽ phục hồi dần trong nửa cuối năm 2023, nhất là trong quý 4, do nhu cầu của Liên minh Châu Âu và Hoa Kỳ sẽ dần phục hồi. 55 Hướng tới năm 2024, tăng trưởng kinh tế được dự báo sẽ dựa vào sự phục hồi của xuất nhập khẩu, với dự kiến tăng trưởng toàn cầu sẽ tăng trở lại, và đầu tư tư nhân được cải thiện.",
+    "events": [
+      {
+        "event": "search",
+        "query": "tăng trưởng thương mại toàn cầu 2022 2023 dự kiến",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p20_c01",
+            "text": "Nền kinh tế toàn cầu đang đối mặt với nhiều trở ngại Tăng trưởng kinh tế toàn cầu dự kiến sẽ giảm tốc đáng kể từ mức 3,1% năm 2022 xuống còn 2,1% trong năm 2023 (Hình 1.1). Tăng trưởng chững lại là do chính sách tiền tệ tiếp tục bị thắt chặt để kiểm soát lạm phát cao và sức cầu đang yếu đi ở hầu hết các nền kinh tế phát triển.18 Lạm phát được dự báo sẽ giảm dần khi sức cầu yếu đi và giá cả thương phẩm hạ nhiệt, nhưng vẫn ở mức cao hơn nhiều so với trước đại dịch. Thương mại toàn cầu dự kiến chỉ tăng trưởng 1,7% trong năm 2023 (thấp hơn 2,6 điểm phần trăm so với dự báo vào tháng 6/2022, Hình 1.2).",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 20,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 603
+            },
+            "score": 0.8944419904412797,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p11_c01",
+            "text": "Những diễn biến kinh tế gần đây Môi trường bên ngoài vẫn còn nhiều thách thức với những rủi ro theo chiều hướng tiêu cực và hiện diện trong ngắn hạn. Tăng trưởng GDP toàn cầu được dự báo sẽ giảm xuống còn 2,1% trong năm 2023, so với mức 3,1% trong năm 2022, do sức cầu tại các nền kinh tế phát triển hàng đầu đang yếu đi. Song song với việc tăng trưởng kinh tế toàn cầu đang chững lại, tăng trưởng thương mại toàn cầu dự kiến cũng giảm từ 6% trong năm 2022 xuống còn 1,7% trong năm 2023.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 11,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 487
+            },
+            "score": 0.8928038494396616,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p34_c05",
+            "text": "Dự báo tăng trưởng dựa trên giả định rằng xuất khẩu hàng hóa sẽ phục hồi dần trong nửa cuối năm 2023, nhất là trong quý 4, do nhu cầu của Liên minh Châu Âu và Hoa Kỳ sẽ dần phục hồi. 55 Hướng tới năm 2024, tăng trưởng kinh tế được dự báo sẽ dựa vào sự phục hồi của xuất nhập khẩu, với dự kiến tăng trưởng toàn cầu sẽ tăng trở lại, và đầu tư tư nhân được cải thiện.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 34,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 364
+            },
+            "score": 0.8877553512164506,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p20_c01 | starter/data/data.pdf | page 20]\nNền kinh tế toàn cầu đang đối mặt với nhiều trở ngại Tăng trưởng kinh tế toàn cầu dự kiến sẽ giảm tốc đáng kể từ mức 3,1% năm 2022 xuống còn 2,1% trong năm 2023 (Hình 1.1). Tăng trưởng chững lại là do chính sách tiền tệ tiếp tục bị thắt chặt để kiểm soát lạm phát cao và sức cầu đang yếu đi ở hầu hết các nền kinh tế phát triển.18 Lạm phát được dự báo sẽ giảm dần khi sức cầu yếu đi và giá cả thương phẩm hạ nhiệt, nhưng vẫn ở mức cao hơn nhiều so với trước đại dịch. Thương mại toàn cầu dự kiến chỉ tăng trưởng 1,7% trong năm 2023 (thấp hơn 2,6 điểm phần trăm so với dự báo vào tháng 6/2022, Hình 1.2).\n\n[wb-taking-stock-2023-08_B_p11_c01 | starter/data/data.pdf | page 11]\nNhững diễn biến kinh tế gần đây Môi trường bên ngoài vẫn còn nhiều thách thức với những rủi ro theo chiều hướng tiêu cực và hiện diện trong ngắn hạn. Tăng trưởng GDP toàn cầu được dự báo sẽ giảm xuống còn 2,1% trong năm 2023, so với mức 3,1% trong năm 2022, do sức cầu tại các nền kinh tế phát triển hàng đầu đang yếu đi. Song song với việc tăng trưởng kinh tế toàn cầu đang chững lại, tăng trưởng thương mại toàn cầu dự kiến cũng giảm từ 6% trong năm 2022 xuống còn 1,7% trong năm 2023.\n\n[wb-taking-stock-2023-08_B_p34_c05 | starter/data/data.pdf | page 34]\nDự báo tăng trưởng dựa trên giả định rằng xuất khẩu hàng hóa sẽ phục hồi dần trong nửa cuối năm 2023, nhất là trong quý 4, do nhu cầu của Liên minh Châu Âu và Hoa Kỳ sẽ dần phục hồi. 55 Hướng tới năm 2024, tăng trưởng kinh tế được dự báo sẽ dựa vào sự phục hồi của xuất nhập khẩu, với dự kiến tăng trưởng toàn cầu sẽ tăng trở lại, và đầu tư tư nhân được cải thiện.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p20_c01",
+          "wb-taking-stock-2023-08_B_p11_c01",
+          "wb-taking-stock-2023-08_B_p34_c05"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 31093.6,
+        "usage": {
+          "prompt_tokens": 630,
+          "completion_tokens": 54,
+          "total_tokens": 684
+        },
+        "action": {
+          "action": "search",
+          "query": "tăng trưởng thương mại toàn cầu 2022 2023 dự kiến"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2289.83,
+        "usage": {
+          "prompt_tokens": 1629,
+          "completion_tokens": 276,
+          "total_tokens": 1905
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Theo báo cáo, tăng trưởng thương mại toàn cầu dự kiến giảm đáng kể từ năm 2022 sang năm 2023. Cụ thể, tăng trưởng thương mại toàn cầu dự kiến giảm từ 6% trong năm 2022 xuống còn 1,7% trong năm 2023 [wb-taking-stock-2023-08_B_p11_c01]. Đây là sự giảm tốc đáng kể, thấp hơn 2,6 điểm phần trăm so với dự báo vào tháng 6/2022 [wb-taking-stock-2023-08_B_p20_c01].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p11_c01",
+            "wb-taking-stock-2023-08_B_p20_c01"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2589,
+    "elapsed_ms": 33432.18
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "question": "Theo khảo sát 10.000 doanh nghiệp vào tháng 4/2023 của Ban Nghiên cứu Phát triển Kinh tế Tư nhân, tỷ lệ doanh nghiệp giảm doanh thu ít nhất 20%, giảm đơn hàng và phải cắt giảm lao động là bao nhiêu?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Theo khảo sát 10.000 doanh nghiệp vào tháng 4/2023 của Ban Nghiên cứu Phát triển Kinh tế Tư nhân: 60,1% doanh nghiệp giảm doanh thu ít nhất 20% [wb-taking-stock-2023-08_B_p12_c01], 59,2% doanh nghiệp bị giảm đơn hàng [wb-taking-stock-2023-08_B_p12_c01], và 71,2% doanh nghiệp phải cắt giảm ít nhất 5% lao động [wb-taking-stock-2023-08_B_p12_c01].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p12_c01"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p25_c02",
+      "wb-taking-stock-2023-08_B_p12_c01",
+      "wb-taking-stock-2023-08_B_p24_c02"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p25_c02 | starter/data/data.pdf | page 25]\nTheo khảo sát vào tháng 4/2023 của Ban Nghiên cứu Phát triển Khu vực Tư nhân, 36 71,2% doanh nghiệp được khảo sát cho biết họ phải cắt giảm 5% lao động, còn 60,1% cho biết doanh thu bị giảm ít nhất 20% trong 4 tháng đầu năm 2023. Trong số các doanh nghiệp tham gia khảo sát, 59,2% cho biết bị giảm đơn hàng. Trong thời gian tới, trên 80% doanh nghiệp dự báo tình hình kinh tế và kinh doanh sẽ kém đi trong các tháng còn lại của năm 2023. Tương tự như kết quả khảo sát trên, số liệu về lao động của 63 tỉnh thành do Bộ Lao động, Thương binh và Xã hội công bố cho thấy số lượng đơn đề nghị hưởng trợ cấp thất nghiệp tăng khoảng 59% từ quý 1 đến quý 2 năm 2023.\n\n[wb-taking-stock-2023-08_B_p12_c01 | starter/data/data.pdf | page 12]\nkhu vực nông nghiệp vẫn ổn định ở mức thấp là 0,3 điểm phần trăm.\n\nCác doanh nghiệp và thị trường lao động đều chịu ảnh hưởng tiêu cực khi kinh tế trầm xuống. Qua một khảo sát 10.000 doanh nghiệp vào tháng 4/2023 của Ban Nghiên cứu Phát triển Kinh tế Tư nhân, 60,1% các doanh nghiệp cho biết doanh thu bị giảm ít nhất 20% trong bốn tháng đầu năm 2023, 59,2% cho biết đơn hàng bị giảm, và 71,2% cho biết phải cắt giảm ít nhất 5% lao động trong bốn tháng đầu năm. 5 Tính trên toàn quốc, tỷ lệ tăng trưởng việc làm giảm từ 2,2% so cùng kỳ vào quý đầu năm 2023 so với chỉ 1,4% so cùng kỳ vào quý hai năm 2023, thấp hơn nhiều so với mức bình quân khoảng 4% trước COVID.\n\n[wb-taking-stock-2023-08_B_p24_c02 | starter/data/data.pdf | page 24]\nTheo TCTK, bình quân doanh nghiệp đăng ký thành lập mới sử dụng ít vốn chủ sở hữu (-19,8%) và ít lao động (-1%) hơn trong nửa đầu năm 2023 so với doanh nghiệp mới tham gia vào thị trường trong nửa đầu năm 2022 (Hình 1.9).",
+    "events": [
+      {
+        "event": "search",
+        "query": "khảo sát 10.000 doanh nghiệp tháng 4 2023 Ban Nghiên cứu Phát triển Kinh tế Tư nhân giảm doanh thu đơn hàng cắt giảm lao động",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p25_c02",
+            "text": "Theo khảo sát vào tháng 4/2023 của Ban Nghiên cứu Phát triển Khu vực Tư nhân, 36 71,2% doanh nghiệp được khảo sát cho biết họ phải cắt giảm 5% lao động, còn 60,1% cho biết doanh thu bị giảm ít nhất 20% trong 4 tháng đầu năm 2023. Trong số các doanh nghiệp tham gia khảo sát, 59,2% cho biết bị giảm đơn hàng. Trong thời gian tới, trên 80% doanh nghiệp dự báo tình hình kinh tế và kinh doanh sẽ kém đi trong các tháng còn lại của năm 2023. Tương tự như kết quả khảo sát trên, số liệu về lao động của 63 tỉnh thành do Bộ Lao động, Thương binh và Xã hội công bố cho thấy số lượng đơn đề nghị hưởng trợ cấp thất nghiệp tăng khoảng 59% từ quý 1 đến quý 2 năm 2023.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 25,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 658
+            },
+            "score": 0.9000320188513765,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p12_c01",
+            "text": "khu vực nông nghiệp vẫn ổn định ở mức thấp là 0,3 điểm phần trăm.\n\nCác doanh nghiệp và thị trường lao động đều chịu ảnh hưởng tiêu cực khi kinh tế trầm xuống. Qua một khảo sát 10.000 doanh nghiệp vào tháng 4/2023 của Ban Nghiên cứu Phát triển Kinh tế Tư nhân, 60,1% các doanh nghiệp cho biết doanh thu bị giảm ít nhất 20% trong bốn tháng đầu năm 2023, 59,2% cho biết đơn hàng bị giảm, và 71,2% cho biết phải cắt giảm ít nhất 5% lao động trong bốn tháng đầu năm. 5 Tính trên toàn quốc, tỷ lệ tăng trưởng việc làm giảm từ 2,2% so cùng kỳ vào quý đầu năm 2023 so với chỉ 1,4% so cùng kỳ vào quý hai năm 2023, thấp hơn nhiều so với mức bình quân khoảng 4% trước COVID.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 12,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 664
+            },
+            "score": 0.879748189437638,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p24_c02",
+            "text": "Theo TCTK, bình quân doanh nghiệp đăng ký thành lập mới sử dụng ít vốn chủ sở hữu (-19,8%) và ít lao động (-1%) hơn trong nửa đầu năm 2023 so với doanh nghiệp mới tham gia vào thị trường trong nửa đầu năm 2022 (Hình 1.9).",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 24,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 221
+            },
+            "score": 0.863699911086471,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p25_c02 | starter/data/data.pdf | page 25]\nTheo khảo sát vào tháng 4/2023 của Ban Nghiên cứu Phát triển Khu vực Tư nhân, 36 71,2% doanh nghiệp được khảo sát cho biết họ phải cắt giảm 5% lao động, còn 60,1% cho biết doanh thu bị giảm ít nhất 20% trong 4 tháng đầu năm 2023. Trong số các doanh nghiệp tham gia khảo sát, 59,2% cho biết bị giảm đơn hàng. Trong thời gian tới, trên 80% doanh nghiệp dự báo tình hình kinh tế và kinh doanh sẽ kém đi trong các tháng còn lại của năm 2023. Tương tự như kết quả khảo sát trên, số liệu về lao động của 63 tỉnh thành do Bộ Lao động, Thương binh và Xã hội công bố cho thấy số lượng đơn đề nghị hưởng trợ cấp thất nghiệp tăng khoảng 59% từ quý 1 đến quý 2 năm 2023.\n\n[wb-taking-stock-2023-08_B_p12_c01 | starter/data/data.pdf | page 12]\nkhu vực nông nghiệp vẫn ổn định ở mức thấp là 0,3 điểm phần trăm.\n\nCác doanh nghiệp và thị trường lao động đều chịu ảnh hưởng tiêu cực khi kinh tế trầm xuống. Qua một khảo sát 10.000 doanh nghiệp vào tháng 4/2023 của Ban Nghiên cứu Phát triển Kinh tế Tư nhân, 60,1% các doanh nghiệp cho biết doanh thu bị giảm ít nhất 20% trong bốn tháng đầu năm 2023, 59,2% cho biết đơn hàng bị giảm, và 71,2% cho biết phải cắt giảm ít nhất 5% lao động trong bốn tháng đầu năm. 5 Tính trên toàn quốc, tỷ lệ tăng trưởng việc làm giảm từ 2,2% so cùng kỳ vào quý đầu năm 2023 so với chỉ 1,4% so cùng kỳ vào quý hai năm 2023, thấp hơn nhiều so với mức bình quân khoảng 4% trước COVID.\n\n[wb-taking-stock-2023-08_B_p24_c02 | starter/data/data.pdf | page 24]\nTheo TCTK, bình quân doanh nghiệp đăng ký thành lập mới sử dụng ít vốn chủ sở hữu (-19,8%) và ít lao động (-1%) hơn trong nửa đầu năm 2023 so với doanh nghiệp mới tham gia vào thị trường trong nửa đầu năm 2022 (Hình 1.9).",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p25_c02",
+          "wb-taking-stock-2023-08_B_p12_c01",
+          "wb-taking-stock-2023-08_B_p24_c02"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1090.79,
+        "usage": {
+          "prompt_tokens": 687,
+          "completion_tokens": 97,
+          "total_tokens": 784
+        },
+        "action": {
+          "action": "search",
+          "query": "khảo sát 10.000 doanh nghiệp tháng 4 2023 Ban Nghiên cứu Phát triển Kinh tế Tư nhân giảm doanh thu đơn hàng cắt giảm lao động"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2381.66,
+        "usage": {
+          "prompt_tokens": 1774,
+          "completion_tokens": 246,
+          "total_tokens": 2020
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Theo khảo sát 10.000 doanh nghiệp vào tháng 4/2023 của Ban Nghiên cứu Phát triển Kinh tế Tư nhân: 60,1% doanh nghiệp giảm doanh thu ít nhất 20% [wb-taking-stock-2023-08_B_p12_c01], 59,2% doanh nghiệp bị giảm đơn hàng [wb-taking-stock-2023-08_B_p12_c01], và 71,2% doanh nghiệp phải cắt giảm ít nhất 5% lao động [wb-taking-stock-2023-08_B_p12_c01].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p12_c01"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2804,
+    "elapsed_ms": 3521.5
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "question": "Các đợt mất điện luân phiên tại miền Bắc vào tháng 5 và tháng 6 năm 2023 ước tính gây thiệt hại kinh tế khoảng bao nhiêu tỷ USD?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Các đợt mất điện luân phiên tại miền Bắc vào tháng 5 và tháng 6 năm 2023 ước tính gây thiệt hại kinh tế khoảng 1,4 tỷ USD (tương đương 0,3% GDP) [wb-taking-stock-2023-08_B_p23_c03].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p23_c03"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p23_c02",
+      "wb-taking-stock-2023-08_B_p22_c04",
+      "wb-taking-stock-2023-08_B_p23_c03"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p23_c02 | starter/data/data.pdf | page 23]\nTuy nhiên, trong tháng 05 và 06 năm 2023, miền Bắc phảI chịu cảnh mất điện luân phiên thường xuyên, gây ảnh hưởng đến các hộ gia đình và doanh nghiệp ở quy mô lớn. Trong tháng 05/2023, thiếu hụt nguồn cung để đáp ứng nhu cầu phụ tải đỉnh lên đến 5,4GW.28 Tình hình được cải thiện trong tháng 06, và đã được giải quyết trong tháng 07 do nguồn nước tăng lên. Thiếu hụt điện trong mùa khô vốn đã diễn ra vào hè năm 2022, vào thời điểm đó thiếu hụt nguồn cung để đáp ứng nhu cầu phụ tải đỉnh rơi vào mức 1,8GW.\n\n[wb-taking-stock-2023-08_B_p22_c04 | starter/data/data.pdf | page 22]\nDoanh số dịch vụ giảm đáng kể chủ yếu do hiệu ứng xuất phát điểm (doanh số quay về mức bình thường sau đại dịch) trong lĩnh vực dịch vụ du lịch, nhà hàng khách sạn (từ 36% so cùng kỳ trong tháng 01 xuống còn 6,5% trong tháng 06). 25 Infocus, Khảo sát người tiêu dùng tháng 06/2023.\n\n26 Dữ liệu của TCTK, tính toán của cán bộ Ngân hàng Thế giới.\n\ntrạng mất điện luân phiên gây ảnh hưởng đến miền Bắc trong tháng 5 và tháng 6 năm 2023, làm sản xuất bị gián đoạn, ước tính gây tác động làm giảm 0,3% GDP (Hộp 1.1).\n\n[wb-taking-stock-2023-08_B_p23_c03 | starter/data/data.pdf | page 23]\nƯớc tính sơ bộ cho thấy phí tổn kinh tế của các đợt mất điện vào tháng 05-06 rơi vào khoảng 1,4 tỷ US$ (tương đương 0,3% GDP).29 Qua một khảo sát nhỏ trong lĩnh vực công nghiệp, các doanh nghiệp ở miền bắc cho biết tổn thất về doanh thu lên đến 10%. 30 Căn cứ vào ước thiếu hụt cung đến tháng 06, nhu cầu năng lượng không được đáp ứng cũng sẽ dẫn đến tổn thất về doanh thu cho Tập đoàn Điện lực Việt Nam (EVN) ở mức ước khoảng 75 triệu US$.31\n\nBất cân đối về cung hiện đang là vấn đề của miền Bắc, nơi nhu cầu đang gia tăng nhanh chóng (10% so với 8,5% trên toàn quốc) và có tính chất mùa vụ, nhất là trong các tháng 05-07.",
+    "events": [
+      {
+        "event": "search",
+        "query": "mất điện luân phiên miền Bắc tháng 5 6 năm 2023 thiệt hại kinh tế tỷ USD",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p23_c02",
+            "text": "Tuy nhiên, trong tháng 05 và 06 năm 2023, miền Bắc phảI chịu cảnh mất điện luân phiên thường xuyên, gây ảnh hưởng đến các hộ gia đình và doanh nghiệp ở quy mô lớn. Trong tháng 05/2023, thiếu hụt nguồn cung để đáp ứng nhu cầu phụ tải đỉnh lên đến 5,4GW.28 Tình hình được cải thiện trong tháng 06, và đã được giải quyết trong tháng 07 do nguồn nước tăng lên. Thiếu hụt điện trong mùa khô vốn đã diễn ra vào hè năm 2022, vào thời điểm đó thiếu hụt nguồn cung để đáp ứng nhu cầu phụ tải đỉnh rơi vào mức 1,8GW.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 23,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 506
+            },
+            "score": 0.8804655294777548,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p22_c04",
+            "text": "Doanh số dịch vụ giảm đáng kể chủ yếu do hiệu ứng xuất phát điểm (doanh số quay về mức bình thường sau đại dịch) trong lĩnh vực dịch vụ du lịch, nhà hàng khách sạn (từ 36% so cùng kỳ trong tháng 01 xuống còn 6,5% trong tháng 06). 25 Infocus, Khảo sát người tiêu dùng tháng 06/2023.\n\n26 Dữ liệu của TCTK, tính toán của cán bộ Ngân hàng Thế giới.\n\ntrạng mất điện luân phiên gây ảnh hưởng đến miền Bắc trong tháng 5 và tháng 6 năm 2023, làm sản xuất bị gián đoạn, ước tính gây tác động làm giảm 0,3% GDP (Hộp 1.1).",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 22,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 511
+            },
+            "score": 0.8738404929435402,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p23_c03",
+            "text": "Ước tính sơ bộ cho thấy phí tổn kinh tế của các đợt mất điện vào tháng 05-06 rơi vào khoảng 1,4 tỷ US$ (tương đương 0,3% GDP).29 Qua một khảo sát nhỏ trong lĩnh vực công nghiệp, các doanh nghiệp ở miền bắc cho biết tổn thất về doanh thu lên đến 10%. 30 Căn cứ vào ước thiếu hụt cung đến tháng 06, nhu cầu năng lượng không được đáp ứng cũng sẽ dẫn đến tổn thất về doanh thu cho Tập đoàn Điện lực Việt Nam (EVN) ở mức ước khoảng 75 triệu US$.31\n\nBất cân đối về cung hiện đang là vấn đề của miền Bắc, nơi nhu cầu đang gia tăng nhanh chóng (10% so với 8,5% trên toàn quốc) và có tính chất mùa vụ, nhất là trong các tháng 05-07.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 23,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 623
+            },
+            "score": 0.871237392810026,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p23_c02 | starter/data/data.pdf | page 23]\nTuy nhiên, trong tháng 05 và 06 năm 2023, miền Bắc phảI chịu cảnh mất điện luân phiên thường xuyên, gây ảnh hưởng đến các hộ gia đình và doanh nghiệp ở quy mô lớn. Trong tháng 05/2023, thiếu hụt nguồn cung để đáp ứng nhu cầu phụ tải đỉnh lên đến 5,4GW.28 Tình hình được cải thiện trong tháng 06, và đã được giải quyết trong tháng 07 do nguồn nước tăng lên. Thiếu hụt điện trong mùa khô vốn đã diễn ra vào hè năm 2022, vào thời điểm đó thiếu hụt nguồn cung để đáp ứng nhu cầu phụ tải đỉnh rơi vào mức 1,8GW.\n\n[wb-taking-stock-2023-08_B_p22_c04 | starter/data/data.pdf | page 22]\nDoanh số dịch vụ giảm đáng kể chủ yếu do hiệu ứng xuất phát điểm (doanh số quay về mức bình thường sau đại dịch) trong lĩnh vực dịch vụ du lịch, nhà hàng khách sạn (từ 36% so cùng kỳ trong tháng 01 xuống còn 6,5% trong tháng 06). 25 Infocus, Khảo sát người tiêu dùng tháng 06/2023.\n\n26 Dữ liệu của TCTK, tính toán của cán bộ Ngân hàng Thế giới.\n\ntrạng mất điện luân phiên gây ảnh hưởng đến miền Bắc trong tháng 5 và tháng 6 năm 2023, làm sản xuất bị gián đoạn, ước tính gây tác động làm giảm 0,3% GDP (Hộp 1.1).\n\n[wb-taking-stock-2023-08_B_p23_c03 | starter/data/data.pdf | page 23]\nƯớc tính sơ bộ cho thấy phí tổn kinh tế của các đợt mất điện vào tháng 05-06 rơi vào khoảng 1,4 tỷ US$ (tương đương 0,3% GDP).29 Qua một khảo sát nhỏ trong lĩnh vực công nghiệp, các doanh nghiệp ở miền bắc cho biết tổn thất về doanh thu lên đến 10%. 30 Căn cứ vào ước thiếu hụt cung đến tháng 06, nhu cầu năng lượng không được đáp ứng cũng sẽ dẫn đến tổn thất về doanh thu cho Tập đoàn Điện lực Việt Nam (EVN) ở mức ước khoảng 75 triệu US$.31\n\nBất cân đối về cung hiện đang là vấn đề của miền Bắc, nơi nhu cầu đang gia tăng nhanh chóng (10% so với 8,5% trên toàn quốc) và có tính chất mùa vụ, nhất là trong các tháng 05-07.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p23_c02",
+          "wb-taking-stock-2023-08_B_p22_c04",
+          "wb-taking-stock-2023-08_B_p23_c03"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 940.18,
+        "usage": {
+          "prompt_tokens": 649,
+          "completion_tokens": 69,
+          "total_tokens": 718
+        },
+        "action": {
+          "action": "search",
+          "query": "mất điện luân phiên miền Bắc tháng 5 6 năm 2023 thiệt hại kinh tế tỷ USD"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1597.21,
+        "usage": {
+          "prompt_tokens": 1775,
+          "completion_tokens": 155,
+          "total_tokens": 1930
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Các đợt mất điện luân phiên tại miền Bắc vào tháng 5 và tháng 6 năm 2023 ước tính gây thiệt hại kinh tế khoảng 1,4 tỷ USD (tương đương 0,3% GDP) [wb-taking-stock-2023-08_B_p23_c03].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p23_c03"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2648,
+    "elapsed_ms": 2577.25
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "question": "Trong nửa đầu năm 2023, lạm phát CPI giảm từ mức nào vào tháng 1 xuống bao nhiêu vào tháng 6 và dịch vụ nào là yếu tố chính dẫn đến mức giảm này?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Trong nửa đầu năm 2023, lạm phát CPI giảm từ 4,9% (so cùng kỳ) trong tháng 1/2023 xuống còn 2% (so cùng kỳ) trong tháng 6/2023 [wb-taking-stock-2023-08_B_p12_c05]. Yếu tố chính dẫn đến mức giảm này là giá nhiên liệu giảm trên thị trường toàn cầu và trong nước, đồng thời tiêu dùng trong nước cũng chững lại [wb-taking-stock-2023-08_B_p12_c05].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p12_c05"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p12_c05",
+      "wb-taking-stock-2023-08_B_p13_c04",
+      "wb-taking-stock-2023-08_B_p29_c01"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p12_c05 | starter/data/data.pdf | page 12]\nLạm phát toàn phần giảm nhanh do giá nhiên liệu giảm trên thị trường toàn cầu và trong nước, đồng thời tiêu dùng trong nước cũng chững lại, trong khi lạm phát cơ bản hạ nhiệt nhưng chậm hơn. Chỉ số CPI giảm từ 4,9% (so cùng kỳ) trong tháng 1/2023 xuống còn 2% (so cùng kỳ) trong tháng 6/2023. Đồng thời, lạm phát cơ bản (không tính giá lương thực thực phẩm, nhiên liệu và các mặt hàng và dịch vụ được Nhà nước quản lý giá) giảm từ 5,2% (so cùng kỳ) trong tháng 1 xuống còn 4,3% (so cùng kỳ) trong tháng 6, vì hiệu ứng vòng hai của cú sốc thương phẩm năm 2022 vẫn kéo dài, bao gồm thông qua giá vật liệu xây dựng và qua đó giá nhà ở tăng cao.\n\n[wb-taking-stock-2023-08_B_p13_c04 | starter/data/data.pdf | page 13]\nChỉ số CPI dự kiến tăng nhẹ từ mức bình quân 3,1% trong năm 2022 lên bình quân 3,5% trong năm 2023. Tác động giảm phát khi tăng trưởng chững lại và chính sách giảm thuế suất thuế GTGT từ 10% xuống 8% được triển khai trong nửa cuối năm 2023 được cho là quá đủ đề bù lại cho đợt tăng lương công chức 20,8%. Lạm phát CPI sẽ được bình ổn ở mức 3,0% trong năm 2024 và 2025 trên cơ sở kỳ vọng giá năng lượng và thương phẩm sẽ ổn định trong năm 2024.\n\n[wb-taking-stock-2023-08_B_p29_c01 | starter/data/data.pdf | page 29]\nNguồn: TCTK, Haver Analytics và tính toán của cán bộ Ngân hàng Thế giới Hình 1.17. Số đăng ký vốn FDI theo lĩnh vực Tỷ US$ (YTD) H1-19 H1-20 H1-21 H1-22 H1-23 20 15 10 5 0 12 10 8 6 4 2 Khi lạm phát hạ nhiệt, NHNN nới lỏng chính sách tiền tệ Sau khi đạt đỉnh vào tháng 1/2023, chỉ số giá tiêu dùng giảm mạnh nhờ giá nhiên liệu giảm trên các thị trường trong nước và toàn cầu, tiêu dùng trong nước cũng chững lại; trong khi lạm phát cơ bản cũng giảm nhưng với tốc độ chậm hơn. Lạm phát CPI giảm từ 4,9% (so cùng kỳ) trong tháng 1/2023 xuống còn 2% (so cùng kỳ) trong tháng 6/2023, thấp hơn nhiều so với mục tiêu chính sách ở mức 4,5% cho cả năm (Hình 1.18).",
+    "events": [
+      {
+        "event": "search",
+        "query": "lạm phát CPI nửa đầu năm 2023 tháng 1 tháng 6",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p12_c05",
+            "text": "Lạm phát toàn phần giảm nhanh do giá nhiên liệu giảm trên thị trường toàn cầu và trong nước, đồng thời tiêu dùng trong nước cũng chững lại, trong khi lạm phát cơ bản hạ nhiệt nhưng chậm hơn. Chỉ số CPI giảm từ 4,9% (so cùng kỳ) trong tháng 1/2023 xuống còn 2% (so cùng kỳ) trong tháng 6/2023. Đồng thời, lạm phát cơ bản (không tính giá lương thực thực phẩm, nhiên liệu và các mặt hàng và dịch vụ được Nhà nước quản lý giá) giảm từ 5,2% (so cùng kỳ) trong tháng 1 xuống còn 4,3% (so cùng kỳ) trong tháng 6, vì hiệu ứng vòng hai của cú sốc thương phẩm năm 2022 vẫn kéo dài, bao gồm thông qua giá vật liệu xây dựng và qua đó giá nhà ở tăng cao.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 12,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 641
+            },
+            "score": 0.8886630649959633,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p13_c04",
+            "text": "Chỉ số CPI dự kiến tăng nhẹ từ mức bình quân 3,1% trong năm 2022 lên bình quân 3,5% trong năm 2023. Tác động giảm phát khi tăng trưởng chững lại và chính sách giảm thuế suất thuế GTGT từ 10% xuống 8% được triển khai trong nửa cuối năm 2023 được cho là quá đủ đề bù lại cho đợt tăng lương công chức 20,8%. Lạm phát CPI sẽ được bình ổn ở mức 3,0% trong năm 2024 và 2025 trên cơ sở kỳ vọng giá năng lượng và thương phẩm sẽ ổn định trong năm 2024.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 443
+            },
+            "score": 0.8830986004456685,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p29_c01",
+            "text": "Nguồn: TCTK, Haver Analytics và tính toán của cán bộ Ngân hàng Thế giới Hình 1.17. Số đăng ký vốn FDI theo lĩnh vực Tỷ US$ (YTD) H1-19 H1-20 H1-21 H1-22 H1-23 20 15 10 5 0 12 10 8 6 4 2 Khi lạm phát hạ nhiệt, NHNN nới lỏng chính sách tiền tệ Sau khi đạt đỉnh vào tháng 1/2023, chỉ số giá tiêu dùng giảm mạnh nhờ giá nhiên liệu giảm trên các thị trường trong nước và toàn cầu, tiêu dùng trong nước cũng chững lại; trong khi lạm phát cơ bản cũng giảm nhưng với tốc độ chậm hơn. Lạm phát CPI giảm từ 4,9% (so cùng kỳ) trong tháng 1/2023 xuống còn 2% (so cùng kỳ) trong tháng 6/2023, thấp hơn nhiều so với mục tiêu chính sách ở mức 4,5% cho cả năm (Hình 1.18).",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 29,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 656
+            },
+            "score": 0.8767815217087203,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p12_c05 | starter/data/data.pdf | page 12]\nLạm phát toàn phần giảm nhanh do giá nhiên liệu giảm trên thị trường toàn cầu và trong nước, đồng thời tiêu dùng trong nước cũng chững lại, trong khi lạm phát cơ bản hạ nhiệt nhưng chậm hơn. Chỉ số CPI giảm từ 4,9% (so cùng kỳ) trong tháng 1/2023 xuống còn 2% (so cùng kỳ) trong tháng 6/2023. Đồng thời, lạm phát cơ bản (không tính giá lương thực thực phẩm, nhiên liệu và các mặt hàng và dịch vụ được Nhà nước quản lý giá) giảm từ 5,2% (so cùng kỳ) trong tháng 1 xuống còn 4,3% (so cùng kỳ) trong tháng 6, vì hiệu ứng vòng hai của cú sốc thương phẩm năm 2022 vẫn kéo dài, bao gồm thông qua giá vật liệu xây dựng và qua đó giá nhà ở tăng cao.\n\n[wb-taking-stock-2023-08_B_p13_c04 | starter/data/data.pdf | page 13]\nChỉ số CPI dự kiến tăng nhẹ từ mức bình quân 3,1% trong năm 2022 lên bình quân 3,5% trong năm 2023. Tác động giảm phát khi tăng trưởng chững lại và chính sách giảm thuế suất thuế GTGT từ 10% xuống 8% được triển khai trong nửa cuối năm 2023 được cho là quá đủ đề bù lại cho đợt tăng lương công chức 20,8%. Lạm phát CPI sẽ được bình ổn ở mức 3,0% trong năm 2024 và 2025 trên cơ sở kỳ vọng giá năng lượng và thương phẩm sẽ ổn định trong năm 2024.\n\n[wb-taking-stock-2023-08_B_p29_c01 | starter/data/data.pdf | page 29]\nNguồn: TCTK, Haver Analytics và tính toán của cán bộ Ngân hàng Thế giới Hình 1.17. Số đăng ký vốn FDI theo lĩnh vực Tỷ US$ (YTD) H1-19 H1-20 H1-21 H1-22 H1-23 20 15 10 5 0 12 10 8 6 4 2 Khi lạm phát hạ nhiệt, NHNN nới lỏng chính sách tiền tệ Sau khi đạt đỉnh vào tháng 1/2023, chỉ số giá tiêu dùng giảm mạnh nhờ giá nhiên liệu giảm trên các thị trường trong nước và toàn cầu, tiêu dùng trong nước cũng chững lại; trong khi lạm phát cơ bản cũng giảm nhưng với tốc độ chậm hơn. Lạm phát CPI giảm từ 4,9% (so cùng kỳ) trong tháng 1/2023 xuống còn 2% (so cùng kỳ) trong tháng 6/2023, thấp hơn nhiều so với mục tiêu chính sách ở mức 4,5% cho cả năm (Hình 1.18).",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p12_c05",
+          "wb-taking-stock-2023-08_B_p13_c04",
+          "wb-taking-stock-2023-08_B_p29_c01"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 858.73,
+        "usage": {
+          "prompt_tokens": 659,
+          "completion_tokens": 56,
+          "total_tokens": 715
+        },
+        "action": {
+          "action": "search",
+          "query": "lạm phát CPI nửa đầu năm 2023 tháng 1 tháng 6"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2194.23,
+        "usage": {
+          "prompt_tokens": 1842,
+          "completion_tokens": 238,
+          "total_tokens": 2080
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Trong nửa đầu năm 2023, lạm phát CPI giảm từ 4,9% (so cùng kỳ) trong tháng 1/2023 xuống còn 2% (so cùng kỳ) trong tháng 6/2023 [wb-taking-stock-2023-08_B_p12_c05]. Yếu tố chính dẫn đến mức giảm này là giá nhiên liệu giảm trên thị trường toàn cầu và trong nước, đồng thời tiêu dùng trong nước cũng chững lại [wb-taking-stock-2023-08_B_p12_c05].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p12_c05"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2795,
+    "elapsed_ms": 3095.65
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "question": "Trên thị trường trái phiếu doanh nghiệp đang ngưng trệ, có bao nhiêu doanh nghiệp mất khả năng trả nợ và tổng giá trị nợ trái phiếu mất khả năng chi trả là bao nhiêu?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Trên thị trường trái phiếu doanh nghiệp đang ngưng trệ, có 98 doanh nghiệp mất khả năng trả nợ với tổng giá trị nợ trái phiếu mất khả năng chi trả là 128,5 ngàn tỷ VND (tương đương 5,4 tỷ US$), chiếm khoảng 11,1% tổng dư nợ trên thị trường trái phiếu doanh nghiệp [wb-taking-stock-2023-08_B_p31_c02].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p31_c02"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p31_c02",
+      "wb-taking-stock-2023-08_B_p33_c02",
+      "wb-taking-stock-2023-08_B_p31_c03"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p31_c02 | starter/data/data.pdf | page 31]\nTrong khi đó, nợ xấu tăng từ 1,9% trong tháng 12/2022 lên 2,9% trong tháng 03/2023 (Hình 1.22).46 Thị trường trái phiếu doanh nghiệp vẫn tiếp tục ngưng trệ khi khối lượng phát hành chỉ bằng khoảng một phần tư so với cùng kỳ năm 2022 và 98 doanh nghiệp đang mất khả năng trả nợ trái phiếu doanh nghiệp với tổng mức lên đến 128,5 ngàn tỷ VND (5,4 tỷ US$), tương đương khoảng 11,1% tổng dư nợ trên thị trường trái phiếu doanh nghiệp.\n\n[wb-taking-stock-2023-08_B_p33_c02 | starter/data/data.pdf | page 33]\nNợ công của Việt Nam năm 2022 thấp hơn với các quốc gia so sánh trong khu vực - In-đô-nê-xia (40,9%) GDP, Phi-líp-pin và Thái Lan (cả hai ở mức 60,9% GDP) và Ấn Độ (89,2% GDP)53 – – qua đó cho thấy chính sách tài khóa ứng phó với biến động chu kỳ có thể được tiếp tục thực hiện mà không ảnh hưởng đến bền vững nợ. Quan điểm này càng được củng cố khi các cấp có thẩm quyền tiếp tục chuyển đổi cơ cấu nợ công, nhằm chuyển sang trái phiếu trong nước có kỳ hạn dài, trong 6 tháng đầu năm 2023. Tổng khối lượng trái phiếu phát hành đạt 180 ngàn tỷ VND (tương đương 45% kế hoạch năm). Khoảng 95% trái phiếu Kho bạc Nhà nước được phát hành với kỳ hạn dài (10-15 năm).54\n\n53 Nguồn: https://tradingeconomics.com 54 Bộ Tài chính, tháng 06/2023.\n\n[wb-taking-stock-2023-08_B_p31_c03 | starter/data/data.pdf | page 31]\nNhằm kích thích tăng trưởng tín dụng và giải quyết áp lực trên bảng cân đối của khu vực ngân hàng, các cấp có thẩm quyền đã thông qua chính sách hỗ trợ, bao gồm tái ban hành quy định về tái cơ cấu thời hạn trả nợ. Trong tháng 3/2023, Chính phủ ban hành quy định cho phép tái cơ cấu trái phiếu doanh nghiệp và tạm hoãn thi hành các quy định bổ sung về phát hành được ban hành trước đó, qua đó làm giảm áp lực ngắn hạn cho bên vay và loại bỏ khó khăn trong việc đảo nợ những trái phiếu đáo hạn.47 Trong tháng 4/2023, NHNN tái ban hành các biện pháp tái cơ cấu thời gian trả nợ 48 (trước đó đã được áp dụng lần đầu trong giai đoạn đại dịch cho đến tháng 6/2022).",
+    "events": [
+      {
+        "event": "search",
+        "query": "thị trường trái phiếu doanh nghiệp ngưng trệ mất khả năng trả nợ",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p31_c02",
+            "text": "Trong khi đó, nợ xấu tăng từ 1,9% trong tháng 12/2022 lên 2,9% trong tháng 03/2023 (Hình 1.22).46 Thị trường trái phiếu doanh nghiệp vẫn tiếp tục ngưng trệ khi khối lượng phát hành chỉ bằng khoảng một phần tư so với cùng kỳ năm 2022 và 98 doanh nghiệp đang mất khả năng trả nợ trái phiếu doanh nghiệp với tổng mức lên đến 128,5 ngàn tỷ VND (5,4 tỷ US$), tương đương khoảng 11,1% tổng dư nợ trên thị trường trái phiếu doanh nghiệp.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 31,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 430
+            },
+            "score": 0.8980981251926632,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p33_c02",
+            "text": "Nợ công của Việt Nam năm 2022 thấp hơn với các quốc gia so sánh trong khu vực - In-đô-nê-xia (40,9%) GDP, Phi-líp-pin và Thái Lan (cả hai ở mức 60,9% GDP) và Ấn Độ (89,2% GDP)53 – – qua đó cho thấy chính sách tài khóa ứng phó với biến động chu kỳ có thể được tiếp tục thực hiện mà không ảnh hưởng đến bền vững nợ. Quan điểm này càng được củng cố khi các cấp có thẩm quyền tiếp tục chuyển đổi cơ cấu nợ công, nhằm chuyển sang trái phiếu trong nước có kỳ hạn dài, trong 6 tháng đầu năm 2023. Tổng khối lượng trái phiếu phát hành đạt 180 ngàn tỷ VND (tương đương 45% kế hoạch năm). Khoảng 95% trái phiếu Kho bạc Nhà nước được phát hành với kỳ hạn dài (10-15 năm).54\n\n53 Nguồn: https://tradingeconomics.com 54 Bộ Tài chính, tháng 06/2023.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 33,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 734
+            },
+            "score": 0.8544202516663786,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p31_c03",
+            "text": "Nhằm kích thích tăng trưởng tín dụng và giải quyết áp lực trên bảng cân đối của khu vực ngân hàng, các cấp có thẩm quyền đã thông qua chính sách hỗ trợ, bao gồm tái ban hành quy định về tái cơ cấu thời hạn trả nợ. Trong tháng 3/2023, Chính phủ ban hành quy định cho phép tái cơ cấu trái phiếu doanh nghiệp và tạm hoãn thi hành các quy định bổ sung về phát hành được ban hành trước đó, qua đó làm giảm áp lực ngắn hạn cho bên vay và loại bỏ khó khăn trong việc đảo nợ những trái phiếu đáo hạn.47 Trong tháng 4/2023, NHNN tái ban hành các biện pháp tái cơ cấu thời gian trả nợ 48 (trước đó đã được áp dụng lần đầu trong giai đoạn đại dịch cho đến tháng 6/2022).",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 31,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 659
+            },
+            "score": 0.8423773886224805,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p31_c02 | starter/data/data.pdf | page 31]\nTrong khi đó, nợ xấu tăng từ 1,9% trong tháng 12/2022 lên 2,9% trong tháng 03/2023 (Hình 1.22).46 Thị trường trái phiếu doanh nghiệp vẫn tiếp tục ngưng trệ khi khối lượng phát hành chỉ bằng khoảng một phần tư so với cùng kỳ năm 2022 và 98 doanh nghiệp đang mất khả năng trả nợ trái phiếu doanh nghiệp với tổng mức lên đến 128,5 ngàn tỷ VND (5,4 tỷ US$), tương đương khoảng 11,1% tổng dư nợ trên thị trường trái phiếu doanh nghiệp.\n\n[wb-taking-stock-2023-08_B_p33_c02 | starter/data/data.pdf | page 33]\nNợ công của Việt Nam năm 2022 thấp hơn với các quốc gia so sánh trong khu vực - In-đô-nê-xia (40,9%) GDP, Phi-líp-pin và Thái Lan (cả hai ở mức 60,9% GDP) và Ấn Độ (89,2% GDP)53 – – qua đó cho thấy chính sách tài khóa ứng phó với biến động chu kỳ có thể được tiếp tục thực hiện mà không ảnh hưởng đến bền vững nợ. Quan điểm này càng được củng cố khi các cấp có thẩm quyền tiếp tục chuyển đổi cơ cấu nợ công, nhằm chuyển sang trái phiếu trong nước có kỳ hạn dài, trong 6 tháng đầu năm 2023. Tổng khối lượng trái phiếu phát hành đạt 180 ngàn tỷ VND (tương đương 45% kế hoạch năm). Khoảng 95% trái phiếu Kho bạc Nhà nước được phát hành với kỳ hạn dài (10-15 năm).54\n\n53 Nguồn: https://tradingeconomics.com 54 Bộ Tài chính, tháng 06/2023.\n\n[wb-taking-stock-2023-08_B_p31_c03 | starter/data/data.pdf | page 31]\nNhằm kích thích tăng trưởng tín dụng và giải quyết áp lực trên bảng cân đối của khu vực ngân hàng, các cấp có thẩm quyền đã thông qua chính sách hỗ trợ, bao gồm tái ban hành quy định về tái cơ cấu thời hạn trả nợ. Trong tháng 3/2023, Chính phủ ban hành quy định cho phép tái cơ cấu trái phiếu doanh nghiệp và tạm hoãn thi hành các quy định bổ sung về phát hành được ban hành trước đó, qua đó làm giảm áp lực ngắn hạn cho bên vay và loại bỏ khó khăn trong việc đảo nợ những trái phiếu đáo hạn.47 Trong tháng 4/2023, NHNN tái ban hành các biện pháp tái cơ cấu thời gian trả nợ 48 (trước đó đã được áp dụng lần đầu trong giai đoạn đại dịch cho đến tháng 6/2022).",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p31_c02",
+          "wb-taking-stock-2023-08_B_p33_c02",
+          "wb-taking-stock-2023-08_B_p31_c03"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 891.95,
+        "usage": {
+          "prompt_tokens": 662,
+          "completion_tokens": 60,
+          "total_tokens": 722
+        },
+        "action": {
+          "action": "search",
+          "query": "thị trường trái phiếu doanh nghiệp ngưng trệ mất khả năng trả nợ"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1971.62,
+        "usage": {
+          "prompt_tokens": 1856,
+          "completion_tokens": 219,
+          "total_tokens": 2075
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Trên thị trường trái phiếu doanh nghiệp đang ngưng trệ, có 98 doanh nghiệp mất khả năng trả nợ với tổng giá trị nợ trái phiếu mất khả năng chi trả là 128,5 ngàn tỷ VND (tương đương 5,4 tỷ US$), chiếm khoảng 11,1% tổng dư nợ trên thị trường trái phiếu doanh nghiệp [wb-taking-stock-2023-08_B_p31_c02].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p31_c02"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2797,
+    "elapsed_ms": 2902.38
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "question": "Trong nửa đầu năm 2023, khi hầu hết các sắc thuế lớn giảm khiến thu ngân sách giảm 7%, ngoại lệ duy nhất nào đã tăng bật 16,9% và vì lý do gì?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Ngoại lệ duy nhất đã tăng bật 16,9% trong nửa đầu năm 2023 là thuế thu nhập doanh nghiệp [wb-taking-stock-2023-08_B_p32_c01]. Lý do tăng là do tiền nộp thuế được giãn hoãn năm 2022 đến hạn phải nộp vào Q1-2023 [wb-taking-stock-2023-08_B_p32_c01].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p32_c01"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p32_c02",
+      "wb-taking-stock-2023-08_B_p32_c01",
+      "wb-taking-stock-2023-08_B_p23_c06"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p32_c02 | starter/data/data.pdf | page 32]\nĐầu tư công được đẩy nhanh, nhưng những thách thức trong triển khai vẫn đang tồn tại Ngân sách nhà nước đến giữa năm 2023 ước thặng dư (1,5% GDP), thấp hơn so với cùng kỳ năm trước (5,2% GDP) (Hình 1.23A). Thặng dư thấp hơn do thu ngân sách thấp và chi ngân sách cao hơn so với cùng kỳ năm , với xung lực tài khóa vào khoảng 3,7% GDP. Số thu ngân sách giảm 7% trong nửa đầu năm 2023 (so cùng kỳ) do các sắc thuế lớn đều giảm, trừ thuế thu nhập doanh nghiệp 51 (Hình 1.24). Đến cuối tháng 6/2023, thu ngân sách đạt 54% dự toán (tương đương 18,3% GDP) (Hình 1.23A). Mặt khác, tổng chi ngân sách tăng 12,8% trong nửa đầu năm 2023 so cùng kỳ năm trước (Hình 1.23B).\n\n[wb-taking-stock-2023-08_B_p32_c01 | starter/data/data.pdf | page 32]\n51 Thuế thu nhập doanh nghiệp tăng bật 16,9% (so cùng kỳ) trong nửa đầu năm 2023 là do tiền nộp thuế được giãn hoãn năm 2022 đến hạn phải nộp vào Q1-2023.\n\n52 Chương trình Phục hồi và Phát triển KTXH 2022-2023 bao gồm hợp phần đầu tư công với ngân sách gần 170 ngàn tỷ VND (tương đương 1,8% GDP). Vì công tác chuẩn bị các dự án đầu tư trong hợp phần này phải mất gần một năm mới hoàn thành, nên phần lớn giải ngân chỉ bắt đầu từ đầu năm 2023.\n\n[wb-taking-stock-2023-08_B_p23_c06 | starter/data/data.pdf | page 23]\nphần trăm trong nửa đầu năm 2023 so với 7% cùng kỳ năm trước. Mức đóng góp giảm là do tác động của xuất khẩu giảm và dự kiến các diễn biến kinh tế toàn cầu tiếp tục không thuận lợi, vì vậy các doanh nghiệp tư nhân trong nước trở nên thận trọng với đầu tư mới (tham khảo bên dưới).27 Đóng góp của các doanh nghiệp đầu tư trực tiếp nước ngoài (FDI) cho tổng đầu tư cũng giảm (0,2 điểm phần trăm) trong nửa đầu năm 2023 so với cùng kỳ năm trước (1,5 điểm phần trăm). Mặt khác, đầu tư công (bằng nguồn ngân sách Nhà nước) tăng 43,3% so với cùng kỳ trong nửa đầu năm 2023 (Hình 1.25), đóng góp 3 điểm phần trăm cho tổng đầu tư. Tỷ trọng đầu tư công trong tổng đầu tư nhích nhẹ từ 20,9% năm 2022 lên 22,1% trong nửa đầu năm 2023.",
+    "events": [
+      {
+        "event": "search",
+        "query": "nửa đầu năm 2023 sắc thuế giảm thu ngân sách giảm 7% tăng 16,9%",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p32_c02",
+            "text": "Đầu tư công được đẩy nhanh, nhưng những thách thức trong triển khai vẫn đang tồn tại Ngân sách nhà nước đến giữa năm 2023 ước thặng dư (1,5% GDP), thấp hơn so với cùng kỳ năm trước (5,2% GDP) (Hình 1.23A). Thặng dư thấp hơn do thu ngân sách thấp và chi ngân sách cao hơn so với cùng kỳ năm , với xung lực tài khóa vào khoảng 3,7% GDP. Số thu ngân sách giảm 7% trong nửa đầu năm 2023 (so cùng kỳ) do các sắc thuế lớn đều giảm, trừ thuế thu nhập doanh nghiệp 51 (Hình 1.24). Đến cuối tháng 6/2023, thu ngân sách đạt 54% dự toán (tương đương 18,3% GDP) (Hình 1.23A). Mặt khác, tổng chi ngân sách tăng 12,8% trong nửa đầu năm 2023 so cùng kỳ năm trước (Hình 1.23B).",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 32,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 661
+            },
+            "score": 0.8747659451000576,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p32_c01",
+            "text": "51 Thuế thu nhập doanh nghiệp tăng bật 16,9% (so cùng kỳ) trong nửa đầu năm 2023 là do tiền nộp thuế được giãn hoãn năm 2022 đến hạn phải nộp vào Q1-2023.\n\n52 Chương trình Phục hồi và Phát triển KTXH 2022-2023 bao gồm hợp phần đầu tư công với ngân sách gần 170 ngàn tỷ VND (tương đương 1,8% GDP). Vì công tác chuẩn bị các dự án đầu tư trong hợp phần này phải mất gần một năm mới hoàn thành, nên phần lớn giải ngân chỉ bắt đầu từ đầu năm 2023.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 32,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 442
+            },
+            "score": 0.8700380528349128,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p23_c06",
+            "text": "phần trăm trong nửa đầu năm 2023 so với 7% cùng kỳ năm trước. Mức đóng góp giảm là do tác động của xuất khẩu giảm và dự kiến các diễn biến kinh tế toàn cầu tiếp tục không thuận lợi, vì vậy các doanh nghiệp tư nhân trong nước trở nên thận trọng với đầu tư mới (tham khảo bên dưới).27 Đóng góp của các doanh nghiệp đầu tư trực tiếp nước ngoài (FDI) cho tổng đầu tư cũng giảm (0,2 điểm phần trăm) trong nửa đầu năm 2023 so với cùng kỳ năm trước (1,5 điểm phần trăm). Mặt khác, đầu tư công (bằng nguồn ngân sách Nhà nước) tăng 43,3% so với cùng kỳ trong nửa đầu năm 2023 (Hình 1.25), đóng góp 3 điểm phần trăm cho tổng đầu tư. Tỷ trọng đầu tư công trong tổng đầu tư nhích nhẹ từ 20,9% năm 2022 lên 22,1% trong nửa đầu năm 2023.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 23,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 723
+            },
+            "score": 0.868447217045071,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p32_c02 | starter/data/data.pdf | page 32]\nĐầu tư công được đẩy nhanh, nhưng những thách thức trong triển khai vẫn đang tồn tại Ngân sách nhà nước đến giữa năm 2023 ước thặng dư (1,5% GDP), thấp hơn so với cùng kỳ năm trước (5,2% GDP) (Hình 1.23A). Thặng dư thấp hơn do thu ngân sách thấp và chi ngân sách cao hơn so với cùng kỳ năm , với xung lực tài khóa vào khoảng 3,7% GDP. Số thu ngân sách giảm 7% trong nửa đầu năm 2023 (so cùng kỳ) do các sắc thuế lớn đều giảm, trừ thuế thu nhập doanh nghiệp 51 (Hình 1.24). Đến cuối tháng 6/2023, thu ngân sách đạt 54% dự toán (tương đương 18,3% GDP) (Hình 1.23A). Mặt khác, tổng chi ngân sách tăng 12,8% trong nửa đầu năm 2023 so cùng kỳ năm trước (Hình 1.23B).\n\n[wb-taking-stock-2023-08_B_p32_c01 | starter/data/data.pdf | page 32]\n51 Thuế thu nhập doanh nghiệp tăng bật 16,9% (so cùng kỳ) trong nửa đầu năm 2023 là do tiền nộp thuế được giãn hoãn năm 2022 đến hạn phải nộp vào Q1-2023.\n\n52 Chương trình Phục hồi và Phát triển KTXH 2022-2023 bao gồm hợp phần đầu tư công với ngân sách gần 170 ngàn tỷ VND (tương đương 1,8% GDP). Vì công tác chuẩn bị các dự án đầu tư trong hợp phần này phải mất gần một năm mới hoàn thành, nên phần lớn giải ngân chỉ bắt đầu từ đầu năm 2023.\n\n[wb-taking-stock-2023-08_B_p23_c06 | starter/data/data.pdf | page 23]\nphần trăm trong nửa đầu năm 2023 so với 7% cùng kỳ năm trước. Mức đóng góp giảm là do tác động của xuất khẩu giảm và dự kiến các diễn biến kinh tế toàn cầu tiếp tục không thuận lợi, vì vậy các doanh nghiệp tư nhân trong nước trở nên thận trọng với đầu tư mới (tham khảo bên dưới).27 Đóng góp của các doanh nghiệp đầu tư trực tiếp nước ngoài (FDI) cho tổng đầu tư cũng giảm (0,2 điểm phần trăm) trong nửa đầu năm 2023 so với cùng kỳ năm trước (1,5 điểm phần trăm). Mặt khác, đầu tư công (bằng nguồn ngân sách Nhà nước) tăng 43,3% so với cùng kỳ trong nửa đầu năm 2023 (Hình 1.25), đóng góp 3 điểm phần trăm cho tổng đầu tư. Tỷ trọng đầu tư công trong tổng đầu tư nhích nhẹ từ 20,9% năm 2022 lên 22,1% trong nửa đầu năm 2023.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p32_c02",
+          "wb-taking-stock-2023-08_B_p32_c01",
+          "wb-taking-stock-2023-08_B_p23_c06"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 948.0,
+        "usage": {
+          "prompt_tokens": 656,
+          "completion_tokens": 65,
+          "total_tokens": 721
+        },
+        "action": {
+          "action": "search",
+          "query": "nửa đầu năm 2023 sắc thuế giảm thu ngân sách giảm 7% tăng 16,9%"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1912.23,
+        "usage": {
+          "prompt_tokens": 1882,
+          "completion_tokens": 187,
+          "total_tokens": 2069
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Ngoại lệ duy nhất đã tăng bật 16,9% trong nửa đầu năm 2023 là thuế thu nhập doanh nghiệp [wb-taking-stock-2023-08_B_p32_c01]. Lý do tăng là do tiền nộp thuế được giãn hoãn năm 2022 đến hạn phải nộp vào Q1-2023 [wb-taking-stock-2023-08_B_p32_c01].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p32_c01"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2790,
+    "elapsed_ms": 2901.64
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "question": "Tỷ lệ nợ của Chính phủ và nợ được Chính phủ bảo lãnh năm 2022 ước đạt bao nhiêu phần trăm và nằm ở mức nào so với ngưỡng Quốc hội đề ra?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Tỷ lệ nợ của Chính phủ và nợ được Chính phủ bảo lãnh năm 2022 ước đạt 35,7% GDP [wb-taking-stock-2023-08_B_p33_c01], nằm ở mức thấp hơn nhiều so với ngưỡng 60% được Quốc hội đề ra [wb-taking-stock-2023-08_B_p33_c01]. Điều này cho thấy Việt Nam còn dư địa tài khóa rộng để thực hiện chính sách tài khóa [wb-taking-stock-2023-08_B_p41_c02].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p33_c01",
+      "wb-taking-stock-2023-08_B_p41_c02"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p41_c02",
+      "wb-taking-stock-2023-08_B_p33_c01",
+      "wb-taking-stock-2023-08_B_p31_c06"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p41_c02 | starter/data/data.pdf | page 41]\nViệt Nam còn dư địa tài khóa rộng - nợ công và nợ được khu vực công bảo lãnh đang ở mức 35,7% GDP vào năm 2022 72 so với ngưỡng nợ 60% do Quốc hội đề ra - và có thể chi đầu tư công nhiều hơn để đẩy mạnh tăng trưởng bền vững (tham khảo ví dụ minh họa về nhu cầu hạ tầng giao thông tại Hộp 2.1).\n\n[wb-taking-stock-2023-08_B_p33_c01 | starter/data/data.pdf | page 33]\nHình 1.25. Chi tiêu ngân sách của Chính phủ Tỷ lệ % (so cùng kỳ, không điều chỉnh theo mùa vụ) Hình 1.24. Thu ngân sách của Chính phủ Tỷ lệ % (so cùng kỳ, không điều chỉnh theo mùa vụ) Nợ của Chính phủ và nợ được được Chính phủ bảo lãnh vẫn ở mức bền vững, qua đó cho thấy dư địa tài khóa còn dồi dào để thực hiện chính sách tài khóa ứng phó với biến động chu kỳ. Nợ của Chính phủ và được Chính phủ bảo lãnh ước đạt 35,7% cho năm 2022, giảm liên tục từ năm 2016 là thời điểm nợ ở mức 47,5%, đồng thời thấp hơn nhiều so với ngưỡng 60% được Quốc hội đề ra.\n\n[wb-taking-stock-2023-08_B_p31_c06 | starter/data/data.pdf | page 31]\n50 Nghị định số 08/2023/NĐ-CP, sửa đổi và bổ sung một số điều của Nghị định số 65/2022/NĐ-CP.. Nguồn: FiinGroup, Ngân hàng Nhà nước Việt NamNguồn: NHNN, Haver Analytics, và tính toán của cán bộ Ngân hàng Thế giới Ghi chú: LHS = thang bên trái Hình 1.21. Tăng trưởng tín dụng Tỷ lệ % (NSA) T6-19 T6-20 T6-21 T6-22 T6-23 4 2 0 18 16 14 12 10 8 6 4 2 0 So với tháng trước So với cùng kỳ năm trước Hình 1.22. Nợ xấu và dự phòng tại các tổ chức tín dụng Tỷ lệ % 6% 5% 4% 3% 2% 1% 0% 2019 2020 2021Q1-22Q2-22Q3-22Q4-22Q1-23 160% 150% 140% 130% 120% 110% 100% Bảng cân đối nợ xâu Nợ xấu gộp Dự phòng nợ xấu trên bảng cân đối tài sản",
+    "events": [
+      {
+        "event": "search",
+        "query": "tỷ lệ nợ Chính phủ nợ bảo lãnh năm 2022 ngưỡng Quốc hội",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p41_c02",
+            "text": "Việt Nam còn dư địa tài khóa rộng - nợ công và nợ được khu vực công bảo lãnh đang ở mức 35,7% GDP vào năm 2022 72 so với ngưỡng nợ 60% do Quốc hội đề ra - và có thể chi đầu tư công nhiều hơn để đẩy mạnh tăng trưởng bền vững (tham khảo ví dụ minh họa về nhu cầu hạ tầng giao thông tại Hộp 2.1).",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 41,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "I_gioi_thieu_dau_tu_cong",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 293
+            },
+            "score": 0.8796829605415171,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p33_c01",
+            "text": "Hình 1.25. Chi tiêu ngân sách của Chính phủ Tỷ lệ % (so cùng kỳ, không điều chỉnh theo mùa vụ) Hình 1.24. Thu ngân sách của Chính phủ Tỷ lệ % (so cùng kỳ, không điều chỉnh theo mùa vụ) Nợ của Chính phủ và nợ được được Chính phủ bảo lãnh vẫn ở mức bền vững, qua đó cho thấy dư địa tài khóa còn dồi dào để thực hiện chính sách tài khóa ứng phó với biến động chu kỳ. Nợ của Chính phủ và được Chính phủ bảo lãnh ước đạt 35,7% cho năm 2022, giảm liên tục từ năm 2016 là thời điểm nợ ở mức 47,5%, đồng thời thấp hơn nhiều so với ngưỡng 60% được Quốc hội đề ra.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 33,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 554
+            },
+            "score": 0.8747754208535754,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p31_c06",
+            "text": "50 Nghị định số 08/2023/NĐ-CP, sửa đổi và bổ sung một số điều của Nghị định số 65/2022/NĐ-CP.. Nguồn: FiinGroup, Ngân hàng Nhà nước Việt NamNguồn: NHNN, Haver Analytics, và tính toán của cán bộ Ngân hàng Thế giới Ghi chú: LHS = thang bên trái Hình 1.21. Tăng trưởng tín dụng Tỷ lệ % (NSA) T6-19 T6-20 T6-21 T6-22 T6-23 4 2 0 18 16 14 12 10 8 6 4 2 0 So với tháng trước So với cùng kỳ năm trước Hình 1.22. Nợ xấu và dự phòng tại các tổ chức tín dụng Tỷ lệ % 6% 5% 4% 3% 2% 1% 0% 2019 2020 2021Q1-22Q2-22Q3-22Q4-22Q1-23 160% 150% 140% 130% 120% 110% 100% Bảng cân đối nợ xâu Nợ xấu gộp Dự phòng nợ xấu trên bảng cân đối tài sản",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 31,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 625
+            },
+            "score": 0.8615134317829405,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p41_c02 | starter/data/data.pdf | page 41]\nViệt Nam còn dư địa tài khóa rộng - nợ công và nợ được khu vực công bảo lãnh đang ở mức 35,7% GDP vào năm 2022 72 so với ngưỡng nợ 60% do Quốc hội đề ra - và có thể chi đầu tư công nhiều hơn để đẩy mạnh tăng trưởng bền vững (tham khảo ví dụ minh họa về nhu cầu hạ tầng giao thông tại Hộp 2.1).\n\n[wb-taking-stock-2023-08_B_p33_c01 | starter/data/data.pdf | page 33]\nHình 1.25. Chi tiêu ngân sách của Chính phủ Tỷ lệ % (so cùng kỳ, không điều chỉnh theo mùa vụ) Hình 1.24. Thu ngân sách của Chính phủ Tỷ lệ % (so cùng kỳ, không điều chỉnh theo mùa vụ) Nợ của Chính phủ và nợ được được Chính phủ bảo lãnh vẫn ở mức bền vững, qua đó cho thấy dư địa tài khóa còn dồi dào để thực hiện chính sách tài khóa ứng phó với biến động chu kỳ. Nợ của Chính phủ và được Chính phủ bảo lãnh ước đạt 35,7% cho năm 2022, giảm liên tục từ năm 2016 là thời điểm nợ ở mức 47,5%, đồng thời thấp hơn nhiều so với ngưỡng 60% được Quốc hội đề ra.\n\n[wb-taking-stock-2023-08_B_p31_c06 | starter/data/data.pdf | page 31]\n50 Nghị định số 08/2023/NĐ-CP, sửa đổi và bổ sung một số điều của Nghị định số 65/2022/NĐ-CP.. Nguồn: FiinGroup, Ngân hàng Nhà nước Việt NamNguồn: NHNN, Haver Analytics, và tính toán của cán bộ Ngân hàng Thế giới Ghi chú: LHS = thang bên trái Hình 1.21. Tăng trưởng tín dụng Tỷ lệ % (NSA) T6-19 T6-20 T6-21 T6-22 T6-23 4 2 0 18 16 14 12 10 8 6 4 2 0 So với tháng trước So với cùng kỳ năm trước Hình 1.22. Nợ xấu và dự phòng tại các tổ chức tín dụng Tỷ lệ % 6% 5% 4% 3% 2% 1% 0% 2019 2020 2021Q1-22Q2-22Q3-22Q4-22Q1-23 160% 150% 140% 130% 120% 110% 100% Bảng cân đối nợ xâu Nợ xấu gộp Dự phòng nợ xấu trên bảng cân đối tài sản",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p41_c02",
+          "wb-taking-stock-2023-08_B_p33_c01",
+          "wb-taking-stock-2023-08_B_p31_c06"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 912.75,
+        "usage": {
+          "prompt_tokens": 659,
+          "completion_tokens": 68,
+          "total_tokens": 727
+        },
+        "action": {
+          "action": "search",
+          "query": "tỷ lệ nợ Chính phủ nợ bảo lãnh năm 2022 ngưỡng Quốc hội"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2258.14,
+        "usage": {
+          "prompt_tokens": 1749,
+          "completion_tokens": 258,
+          "total_tokens": 2007
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Tỷ lệ nợ của Chính phủ và nợ được Chính phủ bảo lãnh năm 2022 ước đạt 35,7% GDP [wb-taking-stock-2023-08_B_p33_c01], nằm ở mức thấp hơn nhiều so với ngưỡng 60% được Quốc hội đề ra [wb-taking-stock-2023-08_B_p33_c01]. Điều này cho thấy Việt Nam còn dư địa tài khóa rộng để thực hiện chính sách tài khóa [wb-taking-stock-2023-08_B_p41_c02].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p33_c01",
+            "wb-taking-stock-2023-08_B_p41_c02"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2734,
+    "elapsed_ms": 3211.74
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "question": "Luật Các tổ chức tín dụng (Luật CTCTD) hiện hành tồn tại những hạn chế nào khiến cần thiết phải sửa đổi để hỗ trợ Ngân hàng Nhà nước?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Theo tài liệu, Luật Các tổ chức tín dụng (Luật CTCTD) hiện hành tồn tại những hạn chế chính sau [wb-taking-stock-2023-08_B_p37_c01]:\n\n1. **Hạn chế trong giám sát**: Luật CTCTD hiện nay có những bất cập lớn, gây trở ngại đến khả năng của NHNN trong việc giám sát đầy đủ các ngân hàng và tập đoàn tài chính [wb-taking-stock-2023-08_B_p37_c01].\n\n2. **Không phù hợp với quy mô hoạt động hiện tại**: Kể từ lần sửa đổi Luật CTCTD vào năm 2017, quy mô các ngân hàng và tập đoàn tài chính đã trở nên lớn hơn và hoạt động phức tạp hơn, nhưng luật pháp chưa được cập nhật [wb-taking-stock-2023-08_B_p37_c01].\n\n3. **Hạn chế trong xử lý ngân hàng yếu kém**: Cần cải cách để giao cho NHNN thẩm quyền xử lý ngân hàng yếu kém, quy định về bộ tiêu chí rõ ràng, và trang bị thẩm quyền triển khai các phương án xử lý [wb-taking-stock-2023-08_B_p37_c05].\n\n4. **Cơ chế cho vay đặc biệt không hiệu quả**: Cần thay thế cơ chế cho vay đặc biệt bằng cơ chế cho phép NHNN cung cấp hỗ trợ thanh khoản theo các điều kiện chặt chẽ [wb-taking-stock-2023-08_B_p37_c06].\n\n5. **Hạn chế độc lập của NHNN**: Cần nâng cao tính độc lập trong hoạt động của NHNN, tăng cường minh bạch và trách nhiệm giải trình [wb-taking-stock-2023-08_B_p37_c06].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p37_c01",
+      "wb-taking-stock-2023-08_B_p37_c05",
+      "wb-taking-stock-2023-08_B_p37_c06"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p37_c01",
+      "wb-taking-stock-2023-08_B_p37_c05",
+      "wb-taking-stock-2023-08_B_p37_c06"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p37_c01 | starter/data/data.pdf | page 37]\nHộp 1.2. Cải cách pháp luật về ngân hàng tại Việt Nam Cơ hội để tiếp tục tăng cường nền tảng về ổn định tài chính tại Việt Nam Có được hệ thống tài chính hiện đại phù hợp với các chuẩn mực quốc tế và thông lệ tốt trên quốc tế là điều kiện ban đầu để Việt Nam thực hiện mục tiêu trở thành quốc gia thu nhập cao vào năm 2045. Việt Nam hiện đang tiến Luật các tổ chức tín dụng (Luật CTCTD). Luật CTCTD hiện nay có những bất cập lớn, gây trở ngại đến khả năng của NHNN trong việc giám sát đầy đủ các ngân hàng và tập đoàn tài chính, duy trì ổn định tài chính và bảo vệ người gửi tiền. Kể từ lần sửa đổi Luật CTCTD vào năm 2017, qui mô các ngân hàng và tập đoàn tài chính đã trở nên lớn hơn và hoạt động phức tạp hơn.\n\n[wb-taking-stock-2023-08_B_p37_c05 | starter/data/data.pdf | page 37]\n• Xử lý các ngân hàng yếu kém thông qua pháp luật, chính sách và thủ tục chặt chẽ về xử lý và tạo điều kiện để ngân hàng phục hồi, cũng như cơ chế đảm bảo an toàn tài chính liên quan (bao gồm bảo hiểm tiền gửi và hỗ trợ thanh khoản khẩn cấp). Các tổ chức tài chính mất khả năng trả nợ cần được quản lý theo cách nhằm duy trì tính liên tục của các hệ thống tài chính quan trọng và đảm bảo ổn định tài chính, đồng thời đảm bảo các cổ đông và chủ nợ lớn phải chịu tổn thất công bằng theo tỷ lệ. Cải cách còn bao gồm giao cho NHNN thẩm quyền xử lý ngân hàng yếu kém, quy định về bộ tiêu chí rõ ràng để đưa vào xử lý, trang bị cho NHNN thẩm quyền triển khai một loạt các phương án xử lý, đồng thời thiết lập cơ chế chặt chẽ về nguồn vốn dùng để xử lý.\n\n[wb-taking-stock-2023-08_B_p37_c06 | starter/data/data.pdf | page 37]\n• Thay thế cơ chế cho vay đặc biệt cho các tổ chức tài chính bằng cơ chế nhằm trao quyền để NHNN cung cấp hỗ trợ thanh khoản cho một tổ chức tài chính theo các điều kiện chặt chẽ rõ ràng ngay từ đầu, và không yêu cầu các tổ chức tín dụng khác phải cung cấp khoản vay cho tổ chức tài chính rơi vào tình trạng khó khăn. • Nâng cao tính độc lập trong hoạt động của NHNN, cùng với tăng cường minh bạch và trách nhiệm giải trình, sao cho công tác quản lý nhà nước và giám sát các tổ chức tài chính được thực hiện công bằng và trung lập, không can thiệp bất hợp lý.",
+    "events": [
+      {
+        "event": "search",
+        "query": "Luật Các tổ chức tín dụng hạn chế cần sửa đổi hỗ trợ Ngân hàng Nhà nước",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p37_c01",
+            "text": "Hộp 1.2. Cải cách pháp luật về ngân hàng tại Việt Nam Cơ hội để tiếp tục tăng cường nền tảng về ổn định tài chính tại Việt Nam Có được hệ thống tài chính hiện đại phù hợp với các chuẩn mực quốc tế và thông lệ tốt trên quốc tế là điều kiện ban đầu để Việt Nam thực hiện mục tiêu trở thành quốc gia thu nhập cao vào năm 2045. Việt Nam hiện đang tiến Luật các tổ chức tín dụng (Luật CTCTD). Luật CTCTD hiện nay có những bất cập lớn, gây trở ngại đến khả năng của NHNN trong việc giám sát đầy đủ các ngân hàng và tập đoàn tài chính, duy trì ổn định tài chính và bảo vệ người gửi tiền. Kể từ lần sửa đổi Luật CTCTD vào năm 2017, qui mô các ngân hàng và tập đoàn tài chính đã trở nên lớn hơn và hoạt động phức tạp hơn.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 37,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 712
+            },
+            "score": 0.8616961060162602,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p37_c05",
+            "text": "• Xử lý các ngân hàng yếu kém thông qua pháp luật, chính sách và thủ tục chặt chẽ về xử lý và tạo điều kiện để ngân hàng phục hồi, cũng như cơ chế đảm bảo an toàn tài chính liên quan (bao gồm bảo hiểm tiền gửi và hỗ trợ thanh khoản khẩn cấp). Các tổ chức tài chính mất khả năng trả nợ cần được quản lý theo cách nhằm duy trì tính liên tục của các hệ thống tài chính quan trọng và đảm bảo ổn định tài chính, đồng thời đảm bảo các cổ đông và chủ nợ lớn phải chịu tổn thất công bằng theo tỷ lệ. Cải cách còn bao gồm giao cho NHNN thẩm quyền xử lý ngân hàng yếu kém, quy định về bộ tiêu chí rõ ràng để đưa vào xử lý, trang bị cho NHNN thẩm quyền triển khai một loạt các phương án xử lý, đồng thời thiết lập cơ chế chặt chẽ về nguồn vốn dùng để xử lý.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 37,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 746
+            },
+            "score": 0.8576940036985985,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p37_c06",
+            "text": "• Thay thế cơ chế cho vay đặc biệt cho các tổ chức tài chính bằng cơ chế nhằm trao quyền để NHNN cung cấp hỗ trợ thanh khoản cho một tổ chức tài chính theo các điều kiện chặt chẽ rõ ràng ngay từ đầu, và không yêu cầu các tổ chức tín dụng khác phải cung cấp khoản vay cho tổ chức tài chính rơi vào tình trạng khó khăn. • Nâng cao tính độc lập trong hoạt động của NHNN, cùng với tăng cường minh bạch và trách nhiệm giải trình, sao cho công tác quản lý nhà nước và giám sát các tổ chức tài chính được thực hiện công bằng và trung lập, không can thiệp bất hợp lý.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 37,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 559
+            },
+            "score": 0.8557963864495902,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p37_c01 | starter/data/data.pdf | page 37]\nHộp 1.2. Cải cách pháp luật về ngân hàng tại Việt Nam Cơ hội để tiếp tục tăng cường nền tảng về ổn định tài chính tại Việt Nam Có được hệ thống tài chính hiện đại phù hợp với các chuẩn mực quốc tế và thông lệ tốt trên quốc tế là điều kiện ban đầu để Việt Nam thực hiện mục tiêu trở thành quốc gia thu nhập cao vào năm 2045. Việt Nam hiện đang tiến Luật các tổ chức tín dụng (Luật CTCTD). Luật CTCTD hiện nay có những bất cập lớn, gây trở ngại đến khả năng của NHNN trong việc giám sát đầy đủ các ngân hàng và tập đoàn tài chính, duy trì ổn định tài chính và bảo vệ người gửi tiền. Kể từ lần sửa đổi Luật CTCTD vào năm 2017, qui mô các ngân hàng và tập đoàn tài chính đã trở nên lớn hơn và hoạt động phức tạp hơn.\n\n[wb-taking-stock-2023-08_B_p37_c05 | starter/data/data.pdf | page 37]\n• Xử lý các ngân hàng yếu kém thông qua pháp luật, chính sách và thủ tục chặt chẽ về xử lý và tạo điều kiện để ngân hàng phục hồi, cũng như cơ chế đảm bảo an toàn tài chính liên quan (bao gồm bảo hiểm tiền gửi và hỗ trợ thanh khoản khẩn cấp). Các tổ chức tài chính mất khả năng trả nợ cần được quản lý theo cách nhằm duy trì tính liên tục của các hệ thống tài chính quan trọng và đảm bảo ổn định tài chính, đồng thời đảm bảo các cổ đông và chủ nợ lớn phải chịu tổn thất công bằng theo tỷ lệ. Cải cách còn bao gồm giao cho NHNN thẩm quyền xử lý ngân hàng yếu kém, quy định về bộ tiêu chí rõ ràng để đưa vào xử lý, trang bị cho NHNN thẩm quyền triển khai một loạt các phương án xử lý, đồng thời thiết lập cơ chế chặt chẽ về nguồn vốn dùng để xử lý.\n\n[wb-taking-stock-2023-08_B_p37_c06 | starter/data/data.pdf | page 37]\n• Thay thế cơ chế cho vay đặc biệt cho các tổ chức tài chính bằng cơ chế nhằm trao quyền để NHNN cung cấp hỗ trợ thanh khoản cho một tổ chức tài chính theo các điều kiện chặt chẽ rõ ràng ngay từ đầu, và không yêu cầu các tổ chức tín dụng khác phải cung cấp khoản vay cho tổ chức tài chính rơi vào tình trạng khó khăn. • Nâng cao tính độc lập trong hoạt động của NHNN, cùng với tăng cường minh bạch và trách nhiệm giải trình, sao cho công tác quản lý nhà nước và giám sát các tổ chức tài chính được thực hiện công bằng và trung lập, không can thiệp bất hợp lý.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p37_c01",
+          "wb-taking-stock-2023-08_B_p37_c05",
+          "wb-taking-stock-2023-08_B_p37_c06"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 984.73,
+        "usage": {
+          "prompt_tokens": 652,
+          "completion_tokens": 72,
+          "total_tokens": 724
+        },
+        "action": {
+          "action": "search",
+          "query": "Luật Các tổ chức tín dụng hạn chế cần sửa đổi hỗ trợ Ngân hàng Nhà nước"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 5055.87,
+        "usage": {
+          "prompt_tokens": 1901,
+          "completion_tokens": 733,
+          "total_tokens": 2634
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Theo tài liệu, Luật Các tổ chức tín dụng (Luật CTCTD) hiện hành tồn tại những hạn chế chính sau [wb-taking-stock-2023-08_B_p37_c01]:\n\n1. **Hạn chế trong giám sát**: Luật CTCTD hiện nay có những bất cập lớn, gây trở ngại đến khả năng của NHNN trong việc giám sát đầy đủ các ngân hàng và tập đoàn tài chính [wb-taking-stock-2023-08_B_p37_c01].\n\n2. **Không phù hợp với quy mô hoạt động hiện tại**: Kể từ lần sửa đổi Luật CTCTD vào năm 2017, quy mô các ngân hàng và tập đoàn tài chính đã trở nên lớn hơn và hoạt động phức tạp hơn, nhưng luật pháp chưa được cập nhật [wb-taking-stock-2023-08_B_p37_c01].\n\n3. **Hạn chế trong xử lý ngân hàng yếu kém**: Cần cải cách để giao cho NHNN thẩm quyền xử lý ngân hàng yếu kém, quy định về bộ tiêu chí rõ ràng, và trang bị thẩm quyền triển khai các phương án xử lý [wb-taking-stock-2023-08_B_p37_c05].\n\n4. **Cơ chế cho vay đặc biệt không hiệu quả**: Cần thay thế cơ chế cho vay đặc biệt bằng cơ chế cho phép NHNN cung cấp hỗ trợ thanh khoản theo các điều kiện chặt chẽ [wb-taking-stock-2023-08_B_p37_c06].\n\n5. **Hạn chế độc lập của NHNN**: Cần nâng cao tính độc lập trong hoạt động của NHNN, tăng cường minh bạch và trách nhiệm giải trình [wb-taking-stock-2023-08_B_p37_c06].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p37_c01",
+            "wb-taking-stock-2023-08_B_p37_c05",
+            "wb-taking-stock-2023-08_B_p37_c06"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 3358,
+    "elapsed_ms": 6083.37
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "question": "Trong giai đoạn 2021–2030, tổng đầu tư toàn xã hội và riêng đầu tư công cần đạt bình quân bao nhiêu phần trăm GDP mỗi năm để đáp ứng mục tiêu phát triển?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Trong giai đoạn 2021–2030, để đáp ứng mục tiêu phát triển, tổng đầu tư toàn xã hội cần đạt bình quân từ 32 đến 35% GDP mỗi năm [wb-taking-stock-2023-08_B_p40_c02], bao gồm đầu tư công ở mức bình quân 7,3% GDP mỗi năm để hỗ trợ xây dựng hạ tầng [wb-taking-stock-2023-08_B_p40_c02].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p40_c02"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p40_c02",
+      "wb-taking-stock-2023-08_B_p15_c06",
+      "wb-taking-stock-2023-08_B_p40_c03"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p40_c02 | starter/data/data.pdf | page 40]\n68 Quốc gia cũng phải đảm bảo tổng đầu tư toàn xã hội của tất cả các thành phần kinh tế đạt bình quân từ 32 đến 35% GDP trong giai đoạn từ 2021 đến 2030, bao gồm đầu tư công ở mức bình quân 7,3% GDP mỗi năm để hỗ trợ xây dựng hạ tầng trong giai đoạn trên. 69 Quan điểm này cũng phù hợp với kinh nghiệm quốc tế cho thấy các quốc gia tăng trưởng cao có đặc trưng là đầu tư công cao, ở mức từ 7% GDP trở lên. 70 Mặc dù nhu cầu ngày càng lớn, nhưng tổng đầu tư công của Việt Nam đã giảm xuống trong thập kỷ qua. Từ năm 2011 đến năm 2022, tỷ lệ chi đầu tư công so với tổng chi ngân sách nhà nước (NSNN) và so với GDP đã giảm lần lượt từ 27% xuống 20% và từ 8% xuống 6%.\n\n[wb-taking-stock-2023-08_B_p15_c06 | starter/data/data.pdf | page 15]\nViệt Nam, trong quá trình phát triển hướng tới mức thu nhập trung bình cao vào năm 2030 và thu nhập cao vào năm 2045, mong muốn trở thành quốc gia công nghiệp và hiện đại, đem lại chất lượng sống tốt hơn cho người dân. Để đạt được mục tiêu phát triển đầy tham vọng nêu trên, dự kiến Chính phủ Việt Nam cần đầu tư bình quân 7,3% GDP mỗi năm cho hạ tầng trong giai đoạn 2021-2030. 10 Mặc dù nhu cầu ngày càng lớn, nhưng đầu tư công của Việt Nam đã và đang theo xu hướng giảm dần, từ 8% GDP trong năm 2011 xuống còn 6% trong năm 2022. Tuy cần CHUYÊN ĐỀ ĐẶC BIỆT: ĐỂ ĐẦU TƯ CÔNG THÚC ĐẨY TĂNG TRƯỞNG\n\n[wb-taking-stock-2023-08_B_p40_c03 | starter/data/data.pdf | page 40]\n71 Nhìn chung, nền kinh tế vẫn tương đối thiếu vốn đầu tư, đầu tư công tính trên mỗi đầu người và trên mỗi lao động vẫn thấp hơn I. GIỚI THIỆU 67 Chiến lược phát triển KTXH 2021–2030 (được Ban Chấp hành Trung ương Đảng thông qua năm 2021) và Quy hoạch phát triển tổng thể quốc gia 2021–2030, tầm nhìn đến 2050 (được Quốc hội phê duyệt vào tháng 01/2023). 68 Quy hoạch phát triển tổng thể quốc gia 2021–2030, tầm nhìn đến 2050.\n\n69 Chiến lược phát triển kinh tế xã hội giai đoạn 2021-2030 và quy hoạch phát triển quốc gia tổng thể giai đoạn 2021-2030 và tầm nhìn đến năm 2050.",
+    "events": [
+      {
+        "event": "search",
+        "query": "giai đoạn 2021-2030 đầu tư toàn xã hội đầu tư công phần trăm GDP mỗi năm",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p40_c02",
+            "text": "68 Quốc gia cũng phải đảm bảo tổng đầu tư toàn xã hội của tất cả các thành phần kinh tế đạt bình quân từ 32 đến 35% GDP trong giai đoạn từ 2021 đến 2030, bao gồm đầu tư công ở mức bình quân 7,3% GDP mỗi năm để hỗ trợ xây dựng hạ tầng trong giai đoạn trên. 69 Quan điểm này cũng phù hợp với kinh nghiệm quốc tế cho thấy các quốc gia tăng trưởng cao có đặc trưng là đầu tư công cao, ở mức từ 7% GDP trở lên. 70 Mặc dù nhu cầu ngày càng lớn, nhưng tổng đầu tư công của Việt Nam đã giảm xuống trong thập kỷ qua. Từ năm 2011 đến năm 2022, tỷ lệ chi đầu tư công so với tổng chi ngân sách nhà nước (NSNN) và so với GDP đã giảm lần lượt từ 27% xuống 20% và từ 8% xuống 6%.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 40,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "I_gioi_thieu_dau_tu_cong",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 664
+            },
+            "score": 0.8905558450588074,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p15_c06",
+            "text": "Việt Nam, trong quá trình phát triển hướng tới mức thu nhập trung bình cao vào năm 2030 và thu nhập cao vào năm 2045, mong muốn trở thành quốc gia công nghiệp và hiện đại, đem lại chất lượng sống tốt hơn cho người dân. Để đạt được mục tiêu phát triển đầy tham vọng nêu trên, dự kiến Chính phủ Việt Nam cần đầu tư bình quân 7,3% GDP mỗi năm cho hạ tầng trong giai đoạn 2021-2030. 10 Mặc dù nhu cầu ngày càng lớn, nhưng đầu tư công của Việt Nam đã và đang theo xu hướng giảm dần, từ 8% GDP trong năm 2011 xuống còn 6% trong năm 2022. Tuy cần CHUYÊN ĐỀ ĐẶC BIỆT: ĐỂ ĐẦU TƯ CÔNG THÚC ĐẨY TĂNG TRƯỞNG",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 15,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "chuyen_de_dau_tu_cong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 595
+            },
+            "score": 0.886176602440375,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p40_c03",
+            "text": "71 Nhìn chung, nền kinh tế vẫn tương đối thiếu vốn đầu tư, đầu tư công tính trên mỗi đầu người và trên mỗi lao động vẫn thấp hơn I. GIỚI THIỆU 67 Chiến lược phát triển KTXH 2021–2030 (được Ban Chấp hành Trung ương Đảng thông qua năm 2021) và Quy hoạch phát triển tổng thể quốc gia 2021–2030, tầm nhìn đến 2050 (được Quốc hội phê duyệt vào tháng 01/2023). 68 Quy hoạch phát triển tổng thể quốc gia 2021–2030, tầm nhìn đến 2050.\n\n69 Chiến lược phát triển kinh tế xã hội giai đoạn 2021-2030 và quy hoạch phát triển quốc gia tổng thể giai đoạn 2021-2030 và tầm nhìn đến năm 2050.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 40,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "I_gioi_thieu_dau_tu_cong",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 575
+            },
+            "score": 0.8828305665949685,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p40_c02 | starter/data/data.pdf | page 40]\n68 Quốc gia cũng phải đảm bảo tổng đầu tư toàn xã hội của tất cả các thành phần kinh tế đạt bình quân từ 32 đến 35% GDP trong giai đoạn từ 2021 đến 2030, bao gồm đầu tư công ở mức bình quân 7,3% GDP mỗi năm để hỗ trợ xây dựng hạ tầng trong giai đoạn trên. 69 Quan điểm này cũng phù hợp với kinh nghiệm quốc tế cho thấy các quốc gia tăng trưởng cao có đặc trưng là đầu tư công cao, ở mức từ 7% GDP trở lên. 70 Mặc dù nhu cầu ngày càng lớn, nhưng tổng đầu tư công của Việt Nam đã giảm xuống trong thập kỷ qua. Từ năm 2011 đến năm 2022, tỷ lệ chi đầu tư công so với tổng chi ngân sách nhà nước (NSNN) và so với GDP đã giảm lần lượt từ 27% xuống 20% và từ 8% xuống 6%.\n\n[wb-taking-stock-2023-08_B_p15_c06 | starter/data/data.pdf | page 15]\nViệt Nam, trong quá trình phát triển hướng tới mức thu nhập trung bình cao vào năm 2030 và thu nhập cao vào năm 2045, mong muốn trở thành quốc gia công nghiệp và hiện đại, đem lại chất lượng sống tốt hơn cho người dân. Để đạt được mục tiêu phát triển đầy tham vọng nêu trên, dự kiến Chính phủ Việt Nam cần đầu tư bình quân 7,3% GDP mỗi năm cho hạ tầng trong giai đoạn 2021-2030. 10 Mặc dù nhu cầu ngày càng lớn, nhưng đầu tư công của Việt Nam đã và đang theo xu hướng giảm dần, từ 8% GDP trong năm 2011 xuống còn 6% trong năm 2022. Tuy cần CHUYÊN ĐỀ ĐẶC BIỆT: ĐỂ ĐẦU TƯ CÔNG THÚC ĐẨY TĂNG TRƯỞNG\n\n[wb-taking-stock-2023-08_B_p40_c03 | starter/data/data.pdf | page 40]\n71 Nhìn chung, nền kinh tế vẫn tương đối thiếu vốn đầu tư, đầu tư công tính trên mỗi đầu người và trên mỗi lao động vẫn thấp hơn I. GIỚI THIỆU 67 Chiến lược phát triển KTXH 2021–2030 (được Ban Chấp hành Trung ương Đảng thông qua năm 2021) và Quy hoạch phát triển tổng thể quốc gia 2021–2030, tầm nhìn đến 2050 (được Quốc hội phê duyệt vào tháng 01/2023). 68 Quy hoạch phát triển tổng thể quốc gia 2021–2030, tầm nhìn đến 2050.\n\n69 Chiến lược phát triển kinh tế xã hội giai đoạn 2021-2030 và quy hoạch phát triển quốc gia tổng thể giai đoạn 2021-2030 và tầm nhìn đến năm 2050.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p40_c02",
+          "wb-taking-stock-2023-08_B_p15_c06",
+          "wb-taking-stock-2023-08_B_p40_c03"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 993.32,
+        "usage": {
+          "prompt_tokens": 659,
+          "completion_tokens": 69,
+          "total_tokens": 728
+        },
+        "action": {
+          "action": "search",
+          "query": "giai đoạn 2021-2030 đầu tư toàn xã hội đầu tư công phần trăm GDP mỗi năm"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2233.92,
+        "usage": {
+          "prompt_tokens": 1886,
+          "completion_tokens": 214,
+          "total_tokens": 2100
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Trong giai đoạn 2021–2030, để đáp ứng mục tiêu phát triển, tổng đầu tư toàn xã hội cần đạt bình quân từ 32 đến 35% GDP mỗi năm [wb-taking-stock-2023-08_B_p40_c02], bao gồm đầu tư công ở mức bình quân 7,3% GDP mỗi năm để hỗ trợ xây dựng hạ tầng [wb-taking-stock-2023-08_B_p40_c02].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p40_c02"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2828,
+    "elapsed_ms": 3273.66
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "question": "Mặc dù Việt Nam có tới 47 cảng biển và 22 sân bay trên toàn quốc, nhưng thực tế có bao nhiêu cảng đảm nhận 95% lượng hàng hóa và có bao nhiêu sân bay quốc tế?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Theo tài liệu, có 3 cảng biển đảm nhận 95% lượng hàng hóa của Việt Nam. Đó là Thành phố Hải Phòng ở miền Bắc, thành phố Hồ Chí Minh và tỉnh Bà Rịa - Vũng Tàu ở miền Nam [wb-taking-stock-2023-08_B_p45_c06]. Còn lại 44 cảng chỉ đóng góp 5% lưu lượng hàng hóa. Tuy nhiên, tài liệu không cung cấp thông tin cụ thể về số lượng sân bay quốc tế của Việt Nam.",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p45_c06"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p45_c06",
+      "wb-taking-stock-2023-08_B_p45_c07",
+      "wb-taking-stock-2023-08_B_p25_c04"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p45_c06 | starter/data/data.pdf | page 45]\n82 Thành phố Hải Phòng ở miền Bắc, thành phố Hồ Chí Minh và tỉnh Bà Rịa - Vũng Tàu ở miền Nam. Còn lại 44 cảng chỉ đóng góp 5% lưu lượng hàng hóa, điều đó cho thấy đầu tư của các địa phương chưa đảm bảo kinh tế. Mặc dù đầu tư hải cảng ồ ạt trên toàn quốc - bao gồm 2 cảng chuyên dụng, 12 cảng cấp I và 20 cảng cấp II - nhưng các cảng đang khan hiếm trang thiết bị hiện đại để đón tàu có trọng tải lớn. 83 Theo phân loại của Tổ chức Hàng không Dân dụng Quốc tế, sân bay đang được tập trung nhiều ở khu vực Duyên hải miền Trung, là địa bàn của 14 địa phương, với khoảng cách trung bình khoảng 100 km giữa 9 trong số 22 sân bay. Chỉ có sáu sân bay đạt tăng trưởng lượng hành khách, còn lại mới chỉ đạt 40% công suất dự báo.\n\n[wb-taking-stock-2023-08_B_p45_c07 | starter/data/data.pdf | page 45]\n84 Việt Nam năng động: Tạo nền tảng để trở thành nền kinh tế thu nhập cao (Báo cáo của Ngân hàng Thế giới, 2019). 85 Tại Việt Nam, lĩnh vực giao thông đường bộ chiếm khoảng 79% tổng ngân sách giao thông với tỷ lệ ngân sách trên lưu lượng cao nhất. Giao thông đường bộ vẫn là phương thức quan trọng nhất xét về lưu lượng, chiếm trên 90% lượng hành khách và 70% lượng hàng hóa trong giai đoạn 2010-2020, và cũng là phương thức vận tải hàng hóa trong nước tốn kém nhất.\n\n[wb-taking-stock-2023-08_B_p25_c04 | starter/data/data.pdf | page 25]\nTrên 50% đang hoạt động trong khu vực vực dịch vụ, 42% hoạt động trong khu vực công nghiệp và xây dựng, và 7% hoạt động trong khu vực nông nghiệp. Toàn văn báo cáo được công bố tại: https://img.vietnamfinance.vn/upload/news/ hoanghung_btv/2023/5/26/BC-KS-DN-thang-5.2023_final.pdf 37 Ước tính của cán bộ Ngân hàng Thế giới dựa trên dữ liệu lao động, việc làm cấp tỉnh được công bố tại: https://dulieutonghop.molisa.gov.vn/so-lieu-tinh-tp-map/45 38 Khu vực Đông Nam Bộ bao gồm thành phố Hồ Chí Minh và các tỉnh Đồng Nai, Bình Dương, Bà Rịa - Vũng Tàu, Bình Phước và Tây Ninh, đóng góp khoảng 32% cho GDP. Khu vực là nơi sinh sống của 18,7 triệu dân, tương đương khoảng 19% dân số của Việt Nam.",
+    "events": [
+      {
+        "event": "search",
+        "query": "Việt Nam cảng biển đảm nhận 95% lượng hàng hóa sân bay quốc tế",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p45_c06",
+            "text": "82 Thành phố Hải Phòng ở miền Bắc, thành phố Hồ Chí Minh và tỉnh Bà Rịa - Vũng Tàu ở miền Nam. Còn lại 44 cảng chỉ đóng góp 5% lưu lượng hàng hóa, điều đó cho thấy đầu tư của các địa phương chưa đảm bảo kinh tế. Mặc dù đầu tư hải cảng ồ ạt trên toàn quốc - bao gồm 2 cảng chuyên dụng, 12 cảng cấp I và 20 cảng cấp II - nhưng các cảng đang khan hiếm trang thiết bị hiện đại để đón tàu có trọng tải lớn. 83 Theo phân loại của Tổ chức Hàng không Dân dụng Quốc tế, sân bay đang được tập trung nhiều ở khu vực Duyên hải miền Trung, là địa bàn của 14 địa phương, với khoảng cách trung bình khoảng 100 km giữa 9 trong số 22 sân bay. Chỉ có sáu sân bay đạt tăng trưởng lượng hành khách, còn lại mới chỉ đạt 40% công suất dự báo.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 45,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 720
+            },
+            "score": 0.8313119238718029,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p45_c07",
+            "text": "84 Việt Nam năng động: Tạo nền tảng để trở thành nền kinh tế thu nhập cao (Báo cáo của Ngân hàng Thế giới, 2019). 85 Tại Việt Nam, lĩnh vực giao thông đường bộ chiếm khoảng 79% tổng ngân sách giao thông với tỷ lệ ngân sách trên lưu lượng cao nhất. Giao thông đường bộ vẫn là phương thức quan trọng nhất xét về lưu lượng, chiếm trên 90% lượng hành khách và 70% lượng hàng hóa trong giai đoạn 2010-2020, và cũng là phương thức vận tải hàng hóa trong nước tốn kém nhất.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 45,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 466
+            },
+            "score": 0.8119934932778705,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p25_c04",
+            "text": "Trên 50% đang hoạt động trong khu vực vực dịch vụ, 42% hoạt động trong khu vực công nghiệp và xây dựng, và 7% hoạt động trong khu vực nông nghiệp. Toàn văn báo cáo được công bố tại: https://img.vietnamfinance.vn/upload/news/ hoanghung_btv/2023/5/26/BC-KS-DN-thang-5.2023_final.pdf 37 Ước tính của cán bộ Ngân hàng Thế giới dựa trên dữ liệu lao động, việc làm cấp tỉnh được công bố tại: https://dulieutonghop.molisa.gov.vn/so-lieu-tinh-tp-map/45 38 Khu vực Đông Nam Bộ bao gồm thành phố Hồ Chí Minh và các tỉnh Đồng Nai, Bình Dương, Bà Rịa - Vũng Tàu, Bình Phước và Tây Ninh, đóng góp khoảng 32% cho GDP. Khu vực là nơi sinh sống của 18,7 triệu dân, tương đương khoảng 19% dân số của Việt Nam.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 25,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 692
+            },
+            "score": 0.8081475642809752,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p45_c06 | starter/data/data.pdf | page 45]\n82 Thành phố Hải Phòng ở miền Bắc, thành phố Hồ Chí Minh và tỉnh Bà Rịa - Vũng Tàu ở miền Nam. Còn lại 44 cảng chỉ đóng góp 5% lưu lượng hàng hóa, điều đó cho thấy đầu tư của các địa phương chưa đảm bảo kinh tế. Mặc dù đầu tư hải cảng ồ ạt trên toàn quốc - bao gồm 2 cảng chuyên dụng, 12 cảng cấp I và 20 cảng cấp II - nhưng các cảng đang khan hiếm trang thiết bị hiện đại để đón tàu có trọng tải lớn. 83 Theo phân loại của Tổ chức Hàng không Dân dụng Quốc tế, sân bay đang được tập trung nhiều ở khu vực Duyên hải miền Trung, là địa bàn của 14 địa phương, với khoảng cách trung bình khoảng 100 km giữa 9 trong số 22 sân bay. Chỉ có sáu sân bay đạt tăng trưởng lượng hành khách, còn lại mới chỉ đạt 40% công suất dự báo.\n\n[wb-taking-stock-2023-08_B_p45_c07 | starter/data/data.pdf | page 45]\n84 Việt Nam năng động: Tạo nền tảng để trở thành nền kinh tế thu nhập cao (Báo cáo của Ngân hàng Thế giới, 2019). 85 Tại Việt Nam, lĩnh vực giao thông đường bộ chiếm khoảng 79% tổng ngân sách giao thông với tỷ lệ ngân sách trên lưu lượng cao nhất. Giao thông đường bộ vẫn là phương thức quan trọng nhất xét về lưu lượng, chiếm trên 90% lượng hành khách và 70% lượng hàng hóa trong giai đoạn 2010-2020, và cũng là phương thức vận tải hàng hóa trong nước tốn kém nhất.\n\n[wb-taking-stock-2023-08_B_p25_c04 | starter/data/data.pdf | page 25]\nTrên 50% đang hoạt động trong khu vực vực dịch vụ, 42% hoạt động trong khu vực công nghiệp và xây dựng, và 7% hoạt động trong khu vực nông nghiệp. Toàn văn báo cáo được công bố tại: https://img.vietnamfinance.vn/upload/news/ hoanghung_btv/2023/5/26/BC-KS-DN-thang-5.2023_final.pdf 37 Ước tính của cán bộ Ngân hàng Thế giới dựa trên dữ liệu lao động, việc làm cấp tỉnh được công bố tại: https://dulieutonghop.molisa.gov.vn/so-lieu-tinh-tp-map/45 38 Khu vực Đông Nam Bộ bao gồm thành phố Hồ Chí Minh và các tỉnh Đồng Nai, Bình Dương, Bà Rịa - Vũng Tàu, Bình Phước và Tây Ninh, đóng góp khoảng 32% cho GDP. Khu vực là nơi sinh sống của 18,7 triệu dân, tương đương khoảng 19% dân số của Việt Nam.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p45_c06",
+          "wb-taking-stock-2023-08_B_p45_c07",
+          "wb-taking-stock-2023-08_B_p25_c04"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 915.22,
+        "usage": {
+          "prompt_tokens": 662,
+          "completion_tokens": 60,
+          "total_tokens": 722
+        },
+        "action": {
+          "action": "search",
+          "query": "Việt Nam cảng biển đảm nhận 95% lượng hàng hóa sân bay quốc tế"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2491.04,
+        "usage": {
+          "prompt_tokens": 1885,
+          "completion_tokens": 255,
+          "total_tokens": 2140
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Theo tài liệu, có 3 cảng biển đảm nhận 95% lượng hàng hóa của Việt Nam. Đó là Thành phố Hải Phòng ở miền Bắc, thành phố Hồ Chí Minh và tỉnh Bà Rịa - Vũng Tàu ở miền Nam [wb-taking-stock-2023-08_B_p45_c06]. Còn lại 44 cảng chỉ đóng góp 5% lưu lượng hàng hóa. Tuy nhiên, tài liệu không cung cấp thông tin cụ thể về số lượng sân bay quốc tế của Việt Nam.",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p45_c06"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2862,
+    "elapsed_ms": 3446.58
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "question": "Để rút ngắn thời gian thực hiện các dự án đầu tư công quy mô lớn, báo cáo khuyến nghị tách khâu nào ra khỏi dự án đầu tư?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Để rút ngắn thời gian thực hiện các dự án đầu tư công quy mô lớn, báo cáo khuyến nghị tách khâu giải phóng mặt bằng và tái định cư ra khỏi dự án đầu tư [wb-taking-stock-2023-08_B_p17_c06]. Giải pháp này được xem là mang tính thực tiễn, nhất là đối với các dự án lớn, vì việc bóc tách khâu này có thể giúp đẩy nhanh tiến độ triển khai [wb-taking-stock-2023-08_B_p53_c02].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p17_c06",
+      "wb-taking-stock-2023-08_B_p53_c02"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p17_c06",
+      "wb-taking-stock-2023-08_B_p53_c02",
+      "wb-taking-stock-2023-08_B_p48_c03"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p17_c06 | starter/data/data.pdf | page 17]\nĐiều quan trọng không kém là cần đẩy nhanh tiến độ triển khai dự án. Giải pháp mang tính thực tiễn là bóc tách giải phóng mặt bằng / tái định cư ra khỏi dự án đầu tư, nhất là với các dự án lớn. Các bộ ngành trung ương và các tỉnh cần xây dựng các cơ chế có hệ thống và được số hóa để xác định các dự án có rủi ro cao về chậm trễ, không hoàn thành và hợp lý hóa các quy trình, thủ tục điều chỉnh hoặc chấm dứt dự án. Đồng thời, phạm vi và chiều sâu đánh giá hậu kiểm của dự án cần được tăng cường, ít nhất đối với các dự án lớn và quy mô trung bình. Quản lý tài sản công cũng cần được tăng cường để tối đa hóa tác động của dự án sau khi hoàn thành.\n\n[wb-taking-stock-2023-08_B_p53_c02 | starter/data/data.pdf | page 53]\n• Thứ hai, cần đẩy mạnh triển khai, theo dõi và đánh giá dự án, biến chi đầu tư trở thành công trình hạ tầng một cách hiệu quả nhất sau khi nguồn lực được phân bổ. Việc bóc tách khâu giải phóng mặt bằng và tái định cư ra khỏi dự án đầu tư có thể giúp đẩy nhanh tiến độ triển khai, nhất là đối với các dự án lớn. Các biện pháp điều chỉnh và chấm dứt dự án trong thực tế cần căn cứ vào cơ chế để các bộ ngành trung ương và địa phương xác định một cách có hệ thống những dự án có rủi ro không thể hoàn thành, và điều này cần được thực hiện thông qua các trình tự, thủ tục được hợp lý hóa, tinh giản nhất. Dữ liệu từ vệ tinh và hệ thống định vị toàn cầu (GPS) có thể được sử dụng nhằm phân tích và ra quyết định xác đáng, kịp thời hơn.\n\n[wb-taking-stock-2023-08_B_p48_c03 | starter/data/data.pdf | page 48]\n• Khâu triển khai thực hiện dự án: Các thủ tục phức tạp làm ảnh hưởng tới tiến độ triển khai và giải ngân cho dự án cũng như việc phê duyệt điều chỉnh dự án khi cần thiết. Mặc dù ngân sách được phân bổ ngay từ đầu năm, nhưng hầu hết các dự án phải mất ba đến năm tháng để hoàn thành các hoạt động chi tiết và kế hoạch đấu thầu trước khi bắt tay vào triển khai. Thời gian và chi phí cho quy trình giải phóng mặt bằng và tái định cư cũng gây ảnh hưởng đến quá trình triển khai thực hiện.",
+    "events": [
+      {
+        "event": "search",
+        "query": "rút ngắn thời gian dự án đầu tư công quy mô lớn tách khâu",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p17_c06",
+            "text": "Điều quan trọng không kém là cần đẩy nhanh tiến độ triển khai dự án. Giải pháp mang tính thực tiễn là bóc tách giải phóng mặt bằng / tái định cư ra khỏi dự án đầu tư, nhất là với các dự án lớn. Các bộ ngành trung ương và các tỉnh cần xây dựng các cơ chế có hệ thống và được số hóa để xác định các dự án có rủi ro cao về chậm trễ, không hoàn thành và hợp lý hóa các quy trình, thủ tục điều chỉnh hoặc chấm dứt dự án. Đồng thời, phạm vi và chiều sâu đánh giá hậu kiểm của dự án cần được tăng cường, ít nhất đối với các dự án lớn và quy mô trung bình. Quản lý tài sản công cũng cần được tăng cường để tối đa hóa tác động của dự án sau khi hoàn thành.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 17,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "chuyen_de_dau_tu_cong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 647
+            },
+            "score": 0.852084193357576,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p53_c02",
+            "text": "• Thứ hai, cần đẩy mạnh triển khai, theo dõi và đánh giá dự án, biến chi đầu tư trở thành công trình hạ tầng một cách hiệu quả nhất sau khi nguồn lực được phân bổ. Việc bóc tách khâu giải phóng mặt bằng và tái định cư ra khỏi dự án đầu tư có thể giúp đẩy nhanh tiến độ triển khai, nhất là đối với các dự án lớn. Các biện pháp điều chỉnh và chấm dứt dự án trong thực tế cần căn cứ vào cơ chế để các bộ ngành trung ương và địa phương xác định một cách có hệ thống những dự án có rủi ro không thể hoàn thành, và điều này cần được thực hiện thông qua các trình tự, thủ tục được hợp lý hóa, tinh giản nhất. Dữ liệu từ vệ tinh và hệ thống định vị toàn cầu (GPS) có thể được sử dụng nhằm phân tích và ra quyết định xác đáng, kịp thời hơn.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 53,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "IV_khuyen_nghi_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 731
+            },
+            "score": 0.849189930453544,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p48_c03",
+            "text": "• Khâu triển khai thực hiện dự án: Các thủ tục phức tạp làm ảnh hưởng tới tiến độ triển khai và giải ngân cho dự án cũng như việc phê duyệt điều chỉnh dự án khi cần thiết. Mặc dù ngân sách được phân bổ ngay từ đầu năm, nhưng hầu hết các dự án phải mất ba đến năm tháng để hoàn thành các hoạt động chi tiết và kế hoạch đấu thầu trước khi bắt tay vào triển khai. Thời gian và chi phí cho quy trình giải phóng mặt bằng và tái định cư cũng gây ảnh hưởng đến quá trình triển khai thực hiện.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 48,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "III_han_che_the_che_quan_ly",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 485
+            },
+            "score": 0.8452121511289619,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p17_c06 | starter/data/data.pdf | page 17]\nĐiều quan trọng không kém là cần đẩy nhanh tiến độ triển khai dự án. Giải pháp mang tính thực tiễn là bóc tách giải phóng mặt bằng / tái định cư ra khỏi dự án đầu tư, nhất là với các dự án lớn. Các bộ ngành trung ương và các tỉnh cần xây dựng các cơ chế có hệ thống và được số hóa để xác định các dự án có rủi ro cao về chậm trễ, không hoàn thành và hợp lý hóa các quy trình, thủ tục điều chỉnh hoặc chấm dứt dự án. Đồng thời, phạm vi và chiều sâu đánh giá hậu kiểm của dự án cần được tăng cường, ít nhất đối với các dự án lớn và quy mô trung bình. Quản lý tài sản công cũng cần được tăng cường để tối đa hóa tác động của dự án sau khi hoàn thành.\n\n[wb-taking-stock-2023-08_B_p53_c02 | starter/data/data.pdf | page 53]\n• Thứ hai, cần đẩy mạnh triển khai, theo dõi và đánh giá dự án, biến chi đầu tư trở thành công trình hạ tầng một cách hiệu quả nhất sau khi nguồn lực được phân bổ. Việc bóc tách khâu giải phóng mặt bằng và tái định cư ra khỏi dự án đầu tư có thể giúp đẩy nhanh tiến độ triển khai, nhất là đối với các dự án lớn. Các biện pháp điều chỉnh và chấm dứt dự án trong thực tế cần căn cứ vào cơ chế để các bộ ngành trung ương và địa phương xác định một cách có hệ thống những dự án có rủi ro không thể hoàn thành, và điều này cần được thực hiện thông qua các trình tự, thủ tục được hợp lý hóa, tinh giản nhất. Dữ liệu từ vệ tinh và hệ thống định vị toàn cầu (GPS) có thể được sử dụng nhằm phân tích và ra quyết định xác đáng, kịp thời hơn.\n\n[wb-taking-stock-2023-08_B_p48_c03 | starter/data/data.pdf | page 48]\n• Khâu triển khai thực hiện dự án: Các thủ tục phức tạp làm ảnh hưởng tới tiến độ triển khai và giải ngân cho dự án cũng như việc phê duyệt điều chỉnh dự án khi cần thiết. Mặc dù ngân sách được phân bổ ngay từ đầu năm, nhưng hầu hết các dự án phải mất ba đến năm tháng để hoàn thành các hoạt động chi tiết và kế hoạch đấu thầu trước khi bắt tay vào triển khai. Thời gian và chi phí cho quy trình giải phóng mặt bằng và tái định cư cũng gây ảnh hưởng đến quá trình triển khai thực hiện.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p17_c06",
+          "wb-taking-stock-2023-08_B_p53_c02",
+          "wb-taking-stock-2023-08_B_p48_c03"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 865.04,
+        "usage": {
+          "prompt_tokens": 640,
+          "completion_tokens": 56,
+          "total_tokens": 696
+        },
+        "action": {
+          "action": "search",
+          "query": "rút ngắn thời gian dự án đầu tư công quy mô lớn tách khâu"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2405.97,
+        "usage": {
+          "prompt_tokens": 1751,
+          "completion_tokens": 258,
+          "total_tokens": 2009
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Để rút ngắn thời gian thực hiện các dự án đầu tư công quy mô lớn, báo cáo khuyến nghị tách khâu giải phóng mặt bằng và tái định cư ra khỏi dự án đầu tư [wb-taking-stock-2023-08_B_p17_c06]. Giải pháp này được xem là mang tính thực tiễn, nhất là đối với các dự án lớn, vì việc bóc tách khâu này có thể giúp đẩy nhanh tiến độ triển khai [wb-taking-stock-2023-08_B_p53_c02].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p17_c06",
+            "wb-taking-stock-2023-08_B_p53_c02"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2705,
+    "elapsed_ms": 3308.31
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "question": "Tỷ lệ chi của chính quyền địa phương trong tổng chi tiêu ngân sách nhà nước đã thay đổi như thế nào từ năm 1992 đến năm 2022?",
+    "answerable": true,
+    "filter": null,
+    "status": "answered",
+    "answer": "Tỷ lệ chi của chính quyền địa phương trong tổng chi tiêu ngân sách nhà nước đã tăng đáng kể từ năm 1992 đến năm 2022. Cụ thể, tỷ lệ này tăng từ 26% năm 1992 lên đến gần 60% năm 2022 [wb-taking-stock-2023-08_B_p43_c02]. Sự gia tăng này là kết quả của chính sách phân cấp chi tiêu mà Chính phủ Việt Nam đã thực hiện kể từ đầu thập kỷ 1990 với tốc độ khá nhanh [wb-taking-stock-2023-08_B_p43_c02]. Mức chi này lớn hơn nhiều so với mức bình quân trên quốc tế (21,5%) và mức bình quân của các nền kinh tế thu nhập trung bình thấp (18,8%), cũng như các nước trong khu vực Châu Á - Thái Bình Dương (33,7%) [wb-taking-stock-2023-08_B_p43_c02].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p43_c02"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p43_c02",
+      "wb-taking-stock-2023-08_B_p16_c05",
+      "wb-taking-stock-2023-08_B_p44_c05"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p43_c02 | starter/data/data.pdf | page 43]\nPhân cấp chi đầu tư được đẩy mạnh Hiệu suất đầu tư công cũng bị ảnh hưởng do hệ thống quan hệ ngân sách giữa các cấp chính quyền còn phân tán và mức chi đầu tư được phân cấp ngày càng nhiều. Kể từ đầu thập kỷ 1990, Chính phủ Việt Nam đã thực hiện phân cấp chi với tốc độ khá nhanh. Trong khuôn khổ các định mức và quy định được áp dụng thống nhất trên cả nước, tỷ lệ chi của chính quyền địa phương (CQĐP) trong tổng chi tiêu NSNN tăng từ 26% năm 1992 lên đến gần 60% năm 2022. 80 Mức chi như vậy lớn hơn nhiều so với mức bình quân trên quốc tế (21,5%) và mức bình quân của các nền kinh tế thu nhập trung bình thấp (18,8%), và các nước trong khu vực Châu Á - Thái Bình Dương (33,7%).\n\n[wb-taking-stock-2023-08_B_p16_c05 | starter/data/data.pdf | page 16]\nKể từ thập kỷ 1990, Chính phủ Việt Nam đã tiến hành phân cấp chi tiêu. Tỷ lệ đầu tư của ngân sách trung ương so với tổng đầu tư công giảm từ 40% vào năm 2017 xuống còn 20% vào năm 2022. Chính sách phân cấp như vậy đã dịch chuyển 80% vốn đầu tư công xuống cho các địa phương (giai đoạn 2017-2022), tỷ lệ này cao hơn gấp đôi so với mức bình quân ở các quốc gia có hệ thống ngân sách được quản lý tập trung thống nhất (34,5%) và các quốc gia nói chung (39,5%). Thẩm quyền quyết định chi tiêu được phân cấp cho chính quyền địa phương, tuy đem lại nhiều kết quả tích cực, nhất là trong cung cấp dịch vụ công, nhưng cũng dẫn đến những điểm yếu trong phối hợp giữa địa phương và trung ương và giữa 63 địa phương.\n\n[wb-taking-stock-2023-08_B_p44_c05 | starter/data/data.pdf | page 44]\nchi tiêu công Tỷ lệ % chi của địa phương / tổng đầu tư công 8,3% (122 quốc gia) 21,5% (122 quốc gia) 39,5% (93 quốc gia) 6,6% 17,1% 34,5% 16,0% 41,9% 59,0% Các quốc gia liên bang Các quốc gia quản lý thống nhất Tất cả các quốc gia 39,5% 18,0% 34,8% 41,5% 44,1% Việt Nam",
+    "events": [
+      {
+        "event": "search",
+        "query": "tỷ lệ chi chính quyền địa phương tổng chi tiêu ngân sách nhà nước 1992 2022",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p43_c02",
+            "text": "Phân cấp chi đầu tư được đẩy mạnh Hiệu suất đầu tư công cũng bị ảnh hưởng do hệ thống quan hệ ngân sách giữa các cấp chính quyền còn phân tán và mức chi đầu tư được phân cấp ngày càng nhiều. Kể từ đầu thập kỷ 1990, Chính phủ Việt Nam đã thực hiện phân cấp chi với tốc độ khá nhanh. Trong khuôn khổ các định mức và quy định được áp dụng thống nhất trên cả nước, tỷ lệ chi của chính quyền địa phương (CQĐP) trong tổng chi tiêu NSNN tăng từ 26% năm 1992 lên đến gần 60% năm 2022. 80 Mức chi như vậy lớn hơn nhiều so với mức bình quân trên quốc tế (21,5%) và mức bình quân của các nền kinh tế thu nhập trung bình thấp (18,8%), và các nước trong khu vực Châu Á - Thái Bình Dương (33,7%).",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 43,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 682
+            },
+            "score": 0.8714588152842513,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p16_c05",
+            "text": "Kể từ thập kỷ 1990, Chính phủ Việt Nam đã tiến hành phân cấp chi tiêu. Tỷ lệ đầu tư của ngân sách trung ương so với tổng đầu tư công giảm từ 40% vào năm 2017 xuống còn 20% vào năm 2022. Chính sách phân cấp như vậy đã dịch chuyển 80% vốn đầu tư công xuống cho các địa phương (giai đoạn 2017-2022), tỷ lệ này cao hơn gấp đôi so với mức bình quân ở các quốc gia có hệ thống ngân sách được quản lý tập trung thống nhất (34,5%) và các quốc gia nói chung (39,5%). Thẩm quyền quyết định chi tiêu được phân cấp cho chính quyền địa phương, tuy đem lại nhiều kết quả tích cực, nhất là trong cung cấp dịch vụ công, nhưng cũng dẫn đến những điểm yếu trong phối hợp giữa địa phương và trung ương và giữa 63 địa phương.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 16,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "chuyen_de_dau_tu_cong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 705
+            },
+            "score": 0.8677056500616911,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p44_c05",
+            "text": "chi tiêu công Tỷ lệ % chi của địa phương / tổng đầu tư công 8,3% (122 quốc gia) 21,5% (122 quốc gia) 39,5% (93 quốc gia) 6,6% 17,1% 34,5% 16,0% 41,9% 59,0% Các quốc gia liên bang Các quốc gia quản lý thống nhất Tất cả các quốc gia 39,5% 18,0% 34,8% 41,5% 44,1% Việt Nam",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 44,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 269
+            },
+            "score": 0.8663714190118428,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p43_c02 | starter/data/data.pdf | page 43]\nPhân cấp chi đầu tư được đẩy mạnh Hiệu suất đầu tư công cũng bị ảnh hưởng do hệ thống quan hệ ngân sách giữa các cấp chính quyền còn phân tán và mức chi đầu tư được phân cấp ngày càng nhiều. Kể từ đầu thập kỷ 1990, Chính phủ Việt Nam đã thực hiện phân cấp chi với tốc độ khá nhanh. Trong khuôn khổ các định mức và quy định được áp dụng thống nhất trên cả nước, tỷ lệ chi của chính quyền địa phương (CQĐP) trong tổng chi tiêu NSNN tăng từ 26% năm 1992 lên đến gần 60% năm 2022. 80 Mức chi như vậy lớn hơn nhiều so với mức bình quân trên quốc tế (21,5%) và mức bình quân của các nền kinh tế thu nhập trung bình thấp (18,8%), và các nước trong khu vực Châu Á - Thái Bình Dương (33,7%).\n\n[wb-taking-stock-2023-08_B_p16_c05 | starter/data/data.pdf | page 16]\nKể từ thập kỷ 1990, Chính phủ Việt Nam đã tiến hành phân cấp chi tiêu. Tỷ lệ đầu tư của ngân sách trung ương so với tổng đầu tư công giảm từ 40% vào năm 2017 xuống còn 20% vào năm 2022. Chính sách phân cấp như vậy đã dịch chuyển 80% vốn đầu tư công xuống cho các địa phương (giai đoạn 2017-2022), tỷ lệ này cao hơn gấp đôi so với mức bình quân ở các quốc gia có hệ thống ngân sách được quản lý tập trung thống nhất (34,5%) và các quốc gia nói chung (39,5%). Thẩm quyền quyết định chi tiêu được phân cấp cho chính quyền địa phương, tuy đem lại nhiều kết quả tích cực, nhất là trong cung cấp dịch vụ công, nhưng cũng dẫn đến những điểm yếu trong phối hợp giữa địa phương và trung ương và giữa 63 địa phương.\n\n[wb-taking-stock-2023-08_B_p44_c05 | starter/data/data.pdf | page 44]\nchi tiêu công Tỷ lệ % chi của địa phương / tổng đầu tư công 8,3% (122 quốc gia) 21,5% (122 quốc gia) 39,5% (93 quốc gia) 6,6% 17,1% 34,5% 16,0% 41,9% 59,0% Các quốc gia liên bang Các quốc gia quản lý thống nhất Tất cả các quốc gia 39,5% 18,0% 34,8% 41,5% 44,1% Việt Nam",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p43_c02",
+          "wb-taking-stock-2023-08_B_p16_c05",
+          "wb-taking-stock-2023-08_B_p44_c05"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1003.09,
+        "usage": {
+          "prompt_tokens": 639,
+          "completion_tokens": 64,
+          "total_tokens": 703
+        },
+        "action": {
+          "action": "search",
+          "query": "tỷ lệ chi chính quyền địa phương tổng chi tiêu ngân sách nhà nước 1992 2022"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2954.14,
+        "usage": {
+          "prompt_tokens": 1719,
+          "completion_tokens": 385,
+          "total_tokens": 2104
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Tỷ lệ chi của chính quyền địa phương trong tổng chi tiêu ngân sách nhà nước đã tăng đáng kể từ năm 1992 đến năm 2022. Cụ thể, tỷ lệ này tăng từ 26% năm 1992 lên đến gần 60% năm 2022 [wb-taking-stock-2023-08_B_p43_c02]. Sự gia tăng này là kết quả của chính sách phân cấp chi tiêu mà Chính phủ Việt Nam đã thực hiện kể từ đầu thập kỷ 1990 với tốc độ khá nhanh [wb-taking-stock-2023-08_B_p43_c02]. Mức chi này lớn hơn nhiều so với mức bình quân trên quốc tế (21,5%) và mức bình quân của các nền kinh tế thu nhập trung bình thấp (18,8%), cũng như các nước trong khu vực Châu Á - Thái Bình Dương (33,7%) [wb-taking-stock-2023-08_B_p43_c02].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p43_c02"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2807,
+    "elapsed_ms": 3997.96
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "question": "Trong giai đoạn 2017–2022, chi đầu tư công chỉ thực hiện trung bình bao nhiêu phần trăm dự toán, chênh lệch phải chuyển nguồn là bao nhiêu và thông lệ quốc tế tốt ở mức nào?",
+    "answerable": true,
+    "filter": {
+      "section": "chuong_2_dau_tu_cong"
+    },
+    "status": "answered",
+    "answer": "Trong giai đoạn 2017–2022, chi đầu tư công chỉ thực hiện trung bình 77% dự toán [wb-taking-stock-2023-08_B_p43_c01]. Chênh lệch giữa dự toán và thực hiện là 23%, với hệ quả phải chuyển nguồn chi đầu tư ở mức từ 18 đến 31% tổng chi đầu tư [wb-taking-stock-2023-08_B_p43_c01]. Thông lệ quốc tế tốt ở mức 5% [wb-taking-stock-2023-08_B_p43_c01].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p43_c01"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p43_c01",
+      "wb-taking-stock-2023-08_B_p43_c05",
+      "wb-taking-stock-2023-08_B_p43_c03"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p43_c01 | starter/data/data.pdf | page 43]\ntư được phân bổ. Trong giai đoạn từ 2017 đến 2022, chi đầu tư chỉ thực hiện trung bình được 77% dự toán (tham khảo Hình 2.4). Chênh lệch giữa dự toán và thực hiện (23%) với hệ quả phải chuyển nguồn chi đầu tư (ở mức từ 18 đến 31% tổng chi đầu tư) nhiều hơn hẳn so với các quốc gia so sánh, và cao hơn rất nhiều so với thông lệ quốc tế tốt là 5%. 78 Yếu kém về hiệu suất quản lý đầu tư công (QLĐTC) cũng được thể hiện qua tình trạng chậm tiến độ hoàn thành dự án và đội vốn. Theo một đánh giá gần đây 79 của Ngân hàng Thế giới tại một số dự án giao thông quy mô lớn, chậm tiến độ bình quân lên đến năm năm, còn đội vốn bình quân lên đến gấp đôi dự toán kinh phí ban đầu ở giai đoạn thiết kế và phân bổ ngân sách.\n\n[wb-taking-stock-2023-08_B_p43_c05 | starter/data/data.pdf | page 43]\nNguồn: Các trang điện tử của Bộ KH&ĐT(mpi.gov.vn) và Bộ Tài chính (Mof.gov.vn) và ước tính của cán bộ Ngân hàng Thế giới. Hình 2.4. Chênh lệch kéo dài giữa thực hiện so với dự toán (2017–2022) 100 80 60 40 20 0 Ngân sách nhà nước Ngân sách trung ương Ngân sách địa phương Tỷ lệ thực chi/dự toán (%) 2017 2018 2019 2020 2021 2022\n\n[wb-taking-stock-2023-08_B_p43_c03 | starter/data/data.pdf | page 43]\nĐối với chi đầu tư, ngân sách trung ương của Việt Nam chỉ chiếm khoảng 20% trong tổng chi đầu tư NSNN năm 2022, so với mức 40% cách đây 07 năm. Như vậy, chính sách phân cấp đã dành bình quân 80% đầu tư công được thực hiện qua các CQĐP (2017-2022) (Hình 2.5), cao trên gấp đôi so với các quốc gia có hệ thống ngân sách quản lý thống nhất (34,5%) và các quốc gia nói chung (39,5%) (Hình 2.6).",
+    "events": [
+      {
+        "event": "search",
+        "query": "chi đầu tư công 2017-2022 thực hiện dự toán chênh lệch chuyển nguồn thông lệ quốc tế",
+        "filter": {
+          "section": "chuong_2_dau_tu_cong"
+        },
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p43_c01",
+            "text": "tư được phân bổ. Trong giai đoạn từ 2017 đến 2022, chi đầu tư chỉ thực hiện trung bình được 77% dự toán (tham khảo Hình 2.4). Chênh lệch giữa dự toán và thực hiện (23%) với hệ quả phải chuyển nguồn chi đầu tư (ở mức từ 18 đến 31% tổng chi đầu tư) nhiều hơn hẳn so với các quốc gia so sánh, và cao hơn rất nhiều so với thông lệ quốc tế tốt là 5%. 78 Yếu kém về hiệu suất quản lý đầu tư công (QLĐTC) cũng được thể hiện qua tình trạng chậm tiến độ hoàn thành dự án và đội vốn. Theo một đánh giá gần đây 79 của Ngân hàng Thế giới tại một số dự án giao thông quy mô lớn, chậm tiến độ bình quân lên đến năm năm, còn đội vốn bình quân lên đến gấp đôi dự toán kinh phí ban đầu ở giai đoạn thiết kế và phân bổ ngân sách.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 43,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 711
+            },
+            "score": 0.876942919657484,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p43_c05",
+            "text": "Nguồn: Các trang điện tử của Bộ KH&ĐT(mpi.gov.vn) và Bộ Tài chính (Mof.gov.vn) và ước tính của cán bộ Ngân hàng Thế giới. Hình 2.4. Chênh lệch kéo dài giữa thực hiện so với dự toán (2017–2022) 100 80 60 40 20 0 Ngân sách nhà nước Ngân sách trung ương Ngân sách địa phương Tỷ lệ thực chi/dự toán (%) 2017 2018 2019 2020 2021 2022",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 43,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 328
+            },
+            "score": 0.8655624052913096,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p43_c03",
+            "text": "Đối với chi đầu tư, ngân sách trung ương của Việt Nam chỉ chiếm khoảng 20% trong tổng chi đầu tư NSNN năm 2022, so với mức 40% cách đây 07 năm. Như vậy, chính sách phân cấp đã dành bình quân 80% đầu tư công được thực hiện qua các CQĐP (2017-2022) (Hình 2.5), cao trên gấp đôi so với các quốc gia có hệ thống ngân sách quản lý thống nhất (34,5%) và các quốc gia nói chung (39,5%) (Hình 2.6).",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 43,
+            "metadata": {
+              "section": "chuong_2_dau_tu_cong",
+              "subsection": "II_ket_qua_va_thach_thuc",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 390
+            },
+            "score": 0.8593510254115998,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p43_c01 | starter/data/data.pdf | page 43]\ntư được phân bổ. Trong giai đoạn từ 2017 đến 2022, chi đầu tư chỉ thực hiện trung bình được 77% dự toán (tham khảo Hình 2.4). Chênh lệch giữa dự toán và thực hiện (23%) với hệ quả phải chuyển nguồn chi đầu tư (ở mức từ 18 đến 31% tổng chi đầu tư) nhiều hơn hẳn so với các quốc gia so sánh, và cao hơn rất nhiều so với thông lệ quốc tế tốt là 5%. 78 Yếu kém về hiệu suất quản lý đầu tư công (QLĐTC) cũng được thể hiện qua tình trạng chậm tiến độ hoàn thành dự án và đội vốn. Theo một đánh giá gần đây 79 của Ngân hàng Thế giới tại một số dự án giao thông quy mô lớn, chậm tiến độ bình quân lên đến năm năm, còn đội vốn bình quân lên đến gấp đôi dự toán kinh phí ban đầu ở giai đoạn thiết kế và phân bổ ngân sách.\n\n[wb-taking-stock-2023-08_B_p43_c05 | starter/data/data.pdf | page 43]\nNguồn: Các trang điện tử của Bộ KH&ĐT(mpi.gov.vn) và Bộ Tài chính (Mof.gov.vn) và ước tính của cán bộ Ngân hàng Thế giới. Hình 2.4. Chênh lệch kéo dài giữa thực hiện so với dự toán (2017–2022) 100 80 60 40 20 0 Ngân sách nhà nước Ngân sách trung ương Ngân sách địa phương Tỷ lệ thực chi/dự toán (%) 2017 2018 2019 2020 2021 2022\n\n[wb-taking-stock-2023-08_B_p43_c03 | starter/data/data.pdf | page 43]\nĐối với chi đầu tư, ngân sách trung ương của Việt Nam chỉ chiếm khoảng 20% trong tổng chi đầu tư NSNN năm 2022, so với mức 40% cách đây 07 năm. Như vậy, chính sách phân cấp đã dành bình quân 80% đầu tư công được thực hiện qua các CQĐP (2017-2022) (Hình 2.5), cao trên gấp đôi so với các quốc gia có hệ thống ngân sách quản lý thống nhất (34,5%) và các quốc gia nói chung (39,5%) (Hình 2.6).",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p43_c01",
+          "wb-taking-stock-2023-08_B_p43_c05",
+          "wb-taking-stock-2023-08_B_p43_c03"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 999.12,
+        "usage": {
+          "prompt_tokens": 666,
+          "completion_tokens": 70,
+          "total_tokens": 736
+        },
+        "action": {
+          "action": "search",
+          "query": "chi đầu tư công 2017-2022 thực hiện dự toán chênh lệch chuyển nguồn thông lệ quốc tế"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1966.06,
+        "usage": {
+          "prompt_tokens": 1654,
+          "completion_tokens": 239,
+          "total_tokens": 1893
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Trong giai đoạn 2017–2022, chi đầu tư công chỉ thực hiện trung bình 77% dự toán [wb-taking-stock-2023-08_B_p43_c01]. Chênh lệch giữa dự toán và thực hiện là 23%, với hệ quả phải chuyển nguồn chi đầu tư ở mức từ 18 đến 31% tổng chi đầu tư [wb-taking-stock-2023-08_B_p43_c01]. Thông lệ quốc tế tốt ở mức 5% [wb-taking-stock-2023-08_B_p43_c01].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p43_c01"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2629,
+    "elapsed_ms": 3009.74
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "question": "Hợp phần đầu tư công trong Chương trình Phục hồi và Phát triển KTXH 2022–2023 có quy mô ngân sách khoảng bao nhiêu nghìn tỷ VND (tương đương bao nhiêu % GDP)?",
+    "answerable": true,
+    "filter": {
+      "section": "chuong_1_kinh_te_vi_mo"
+    },
+    "status": "answered",
+    "answer": "Hợp phần đầu tư công trong Chương trình Phục hồi và Phát triển KTXH 2022–2023 có quy mô ngân sách gần 170 ngàn tỷ VND, tương đương 1,8% GDP [wb-taking-stock-2023-08_B_p32_c01].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p32_c01"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p32_c01",
+      "wb-taking-stock-2023-08_B_p32_c03",
+      "wb-taking-stock-2023-08_B_p35_c06"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p32_c01 | starter/data/data.pdf | page 32]\n51 Thuế thu nhập doanh nghiệp tăng bật 16,9% (so cùng kỳ) trong nửa đầu năm 2023 là do tiền nộp thuế được giãn hoãn năm 2022 đến hạn phải nộp vào Q1-2023.\n\n52 Chương trình Phục hồi và Phát triển KTXH 2022-2023 bao gồm hợp phần đầu tư công với ngân sách gần 170 ngàn tỷ VND (tương đương 1,8% GDP). Vì công tác chuẩn bị các dự án đầu tư trong hợp phần này phải mất gần một năm mới hoàn thành, nên phần lớn giải ngân chỉ bắt đầu từ đầu năm 2023.\n\n[wb-taking-stock-2023-08_B_p32_c03 | starter/data/data.pdf | page 32]\nGiải ngân vốn đầu tư công tăng mạnh ở mức 43,3% trong nửa đầu năm 2023 (so cùng kỳ), qua đó hỗ trợ cho nền kinh tế (Hình 1.25). Phần tăng giải ngân đầu tư công bao gồm cả vốn triển khai hợp phần đầu tư trong Chương trình Phục hồi và Phát triển kinh tế xã hội được phê duyệt đầu năm 2022 (1,8% GDP). 52\n\n[wb-taking-stock-2023-08_B_p35_c06 | starter/data/data.pdf | page 35]\nNgân sách đầu tư công theo kế hoạch, nếu được triển khai đầy đủ sẽ nâng đầu tư công lên 7,1% GDP trong năm 2023, so với mức 5,5% GDP dự toán trong năm 2022, với xung lực tài khóa khoảng 0,4% GDP để hỗ trợ tổng cầu. 64 Chính phủ đã lên kế hoạch nâng đầu tư công thêm 38% (so cùng kỳ) cho năm 2023 - tương đương 1,6% GDP. Công tác triển khai đang được đẩy",
+    "events": [
+      {
+        "event": "search",
+        "query": "Chương trình Phục hồi Phát triển KTXH 2022-2023 hợp phần đầu tư công ngân sách GDP",
+        "filter": {
+          "section": "chuong_1_kinh_te_vi_mo"
+        },
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p32_c01",
+            "text": "51 Thuế thu nhập doanh nghiệp tăng bật 16,9% (so cùng kỳ) trong nửa đầu năm 2023 là do tiền nộp thuế được giãn hoãn năm 2022 đến hạn phải nộp vào Q1-2023.\n\n52 Chương trình Phục hồi và Phát triển KTXH 2022-2023 bao gồm hợp phần đầu tư công với ngân sách gần 170 ngàn tỷ VND (tương đương 1,8% GDP). Vì công tác chuẩn bị các dự án đầu tư trong hợp phần này phải mất gần một năm mới hoàn thành, nên phần lớn giải ngân chỉ bắt đầu từ đầu năm 2023.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 32,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 442
+            },
+            "score": 0.9025359204968768,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p32_c03",
+            "text": "Giải ngân vốn đầu tư công tăng mạnh ở mức 43,3% trong nửa đầu năm 2023 (so cùng kỳ), qua đó hỗ trợ cho nền kinh tế (Hình 1.25). Phần tăng giải ngân đầu tư công bao gồm cả vốn triển khai hợp phần đầu tư trong Chương trình Phục hồi và Phát triển kinh tế xã hội được phê duyệt đầu năm 2022 (1,8% GDP). 52",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 32,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 301
+            },
+            "score": 0.8922939220300552,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p35_c06",
+            "text": "Ngân sách đầu tư công theo kế hoạch, nếu được triển khai đầy đủ sẽ nâng đầu tư công lên 7,1% GDP trong năm 2023, so với mức 5,5% GDP dự toán trong năm 2022, với xung lực tài khóa khoảng 0,4% GDP để hỗ trợ tổng cầu. 64 Chính phủ đã lên kế hoạch nâng đầu tư công thêm 38% (so cùng kỳ) cho năm 2023 - tương đương 1,6% GDP. Công tác triển khai đang được đẩy",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 35,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 353
+            },
+            "score": 0.8649260588406914,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p32_c01 | starter/data/data.pdf | page 32]\n51 Thuế thu nhập doanh nghiệp tăng bật 16,9% (so cùng kỳ) trong nửa đầu năm 2023 là do tiền nộp thuế được giãn hoãn năm 2022 đến hạn phải nộp vào Q1-2023.\n\n52 Chương trình Phục hồi và Phát triển KTXH 2022-2023 bao gồm hợp phần đầu tư công với ngân sách gần 170 ngàn tỷ VND (tương đương 1,8% GDP). Vì công tác chuẩn bị các dự án đầu tư trong hợp phần này phải mất gần một năm mới hoàn thành, nên phần lớn giải ngân chỉ bắt đầu từ đầu năm 2023.\n\n[wb-taking-stock-2023-08_B_p32_c03 | starter/data/data.pdf | page 32]\nGiải ngân vốn đầu tư công tăng mạnh ở mức 43,3% trong nửa đầu năm 2023 (so cùng kỳ), qua đó hỗ trợ cho nền kinh tế (Hình 1.25). Phần tăng giải ngân đầu tư công bao gồm cả vốn triển khai hợp phần đầu tư trong Chương trình Phục hồi và Phát triển kinh tế xã hội được phê duyệt đầu năm 2022 (1,8% GDP). 52\n\n[wb-taking-stock-2023-08_B_p35_c06 | starter/data/data.pdf | page 35]\nNgân sách đầu tư công theo kế hoạch, nếu được triển khai đầy đủ sẽ nâng đầu tư công lên 7,1% GDP trong năm 2023, so với mức 5,5% GDP dự toán trong năm 2022, với xung lực tài khóa khoảng 0,4% GDP để hỗ trợ tổng cầu. 64 Chính phủ đã lên kế hoạch nâng đầu tư công thêm 38% (so cùng kỳ) cho năm 2023 - tương đương 1,6% GDP. Công tác triển khai đang được đẩy",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p32_c01",
+          "wb-taking-stock-2023-08_B_p32_c03",
+          "wb-taking-stock-2023-08_B_p35_c06"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 971.67,
+        "usage": {
+          "prompt_tokens": 657,
+          "completion_tokens": 69,
+          "total_tokens": 726
+        },
+        "action": {
+          "action": "search",
+          "query": "Chương trình Phục hồi Phát triển KTXH 2022-2023 hợp phần đầu tư công ngân sách GDP"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1398.85,
+        "usage": {
+          "prompt_tokens": 1480,
+          "completion_tokens": 146,
+          "total_tokens": 1626
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Hợp phần đầu tư công trong Chương trình Phục hồi và Phát triển KTXH 2022–2023 có quy mô ngân sách gần 170 ngàn tỷ VND, tương đương 1,8% GDP [wb-taking-stock-2023-08_B_p32_c01].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p32_c01"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2352,
+    "elapsed_ms": 2415.47
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "question": "Nền kinh tế Việt Nam được dự báo đạt mức tăng trưởng GDP bao nhiêu phần trăm lần lượt cho các năm 2023, 2024 và 2025?",
+    "answerable": true,
+    "filter": {
+      "section": "tong_quan"
+    },
+    "status": "answered",
+    "answer": "Theo dự báo, nền kinh tế Việt Nam được dự báo đạt mức tăng trưởng GDP lần lượt như sau: năm 2023 là 4,7% [wb-taking-stock-2023-08_B_p13_c02], năm 2024 là 5,5% [wb-taking-stock-2023-08_B_p13_c06], và năm 2025 là 6,0% [wb-taking-stock-2023-08_B_p13_c06].",
+    "citations": [
+      "wb-taking-stock-2023-08_B_p13_c02",
+      "wb-taking-stock-2023-08_B_p13_c06"
+    ],
+    "search_calls": 1,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p13_c06",
+      "wb-taking-stock-2023-08_B_p13_c02",
+      "wb-taking-stock-2023-08_B_p15_c06"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p13_c06 | starter/data/data.pdf | page 13]\n2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3\n\n[wb-taking-stock-2023-08_B_p13_c02 | starter/data/data.pdf | page 13]\nTriển vọng, rủi ro và hàm ý chính sách Nền kinh tế Việt Nam dự kiến tăng trưởng 4,7% trong năm 2023, với dự báo phục hồi dần lên 5,5% vào năm 2024 và 6,0% vào năm 2025. Tuy có chững lại, nhưng cầu trong nước dự kiến vẫn là động lực tăng trưởng chính trong năm 2023. Tiêu dùng tư nhân sẽ vẫn đứng vững - với tốc độ tăng 6,0% (so cùng kỳ), tuy có giảm nhẹ xuống dưới mức tăng trước đạt dịch là 7% (so cùng kỳ) vào năm 2019, đóng góp 3,4 điểm phần trăm cho tăng trưởng GDP. Về tổng thể, đầu tư sẽ đóng góp 1,8 điểm phần trăm cho tăng trưởng GDP. Đầu tư tư nhân dự kiến sẽ giảm nhẹ, với tốc độ tăng 4,3% (so cùng kỳ), so với 8,2% (so cùng kỳ) năm 2019, do những bất định ở môi trường bên ngoài, đóng góp 1.2 điểm phần trăm cho tăng trưởng GDP.\n\n[wb-taking-stock-2023-08_B_p15_c06 | starter/data/data.pdf | page 15]\nViệt Nam, trong quá trình phát triển hướng tới mức thu nhập trung bình cao vào năm 2030 và thu nhập cao vào năm 2045, mong muốn trở thành quốc gia công nghiệp và hiện đại, đem lại chất lượng sống tốt hơn cho người dân. Để đạt được mục tiêu phát triển đầy tham vọng nêu trên, dự kiến Chính phủ Việt Nam cần đầu tư bình quân 7,3% GDP mỗi năm cho hạ tầng trong giai đoạn 2021-2030. 10 Mặc dù nhu cầu ngày càng lớn, nhưng đầu tư công của Việt Nam đã và đang theo xu hướng giảm dần, từ 8% GDP trong năm 2011 xuống còn 6% trong năm 2022. Tuy cần CHUYÊN ĐỀ ĐẶC BIỆT: ĐỂ ĐẦU TƯ CÔNG THÚC ĐẨY TĂNG TRƯỞNG",
+    "events": [
+      {
+        "event": "search",
+        "query": "dự báo tăng trưởng GDP Việt Nam 2023 2024 2025",
+        "filter": {
+          "section": "tong_quan"
+        },
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p13_c06",
+            "text": "2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 576
+            },
+            "score": 0.8845523679718374,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p13_c02",
+            "text": "Triển vọng, rủi ro và hàm ý chính sách Nền kinh tế Việt Nam dự kiến tăng trưởng 4,7% trong năm 2023, với dự báo phục hồi dần lên 5,5% vào năm 2024 và 6,0% vào năm 2025. Tuy có chững lại, nhưng cầu trong nước dự kiến vẫn là động lực tăng trưởng chính trong năm 2023. Tiêu dùng tư nhân sẽ vẫn đứng vững - với tốc độ tăng 6,0% (so cùng kỳ), tuy có giảm nhẹ xuống dưới mức tăng trước đạt dịch là 7% (so cùng kỳ) vào năm 2019, đóng góp 3,4 điểm phần trăm cho tăng trưởng GDP. Về tổng thể, đầu tư sẽ đóng góp 1,8 điểm phần trăm cho tăng trưởng GDP. Đầu tư tư nhân dự kiến sẽ giảm nhẹ, với tốc độ tăng 4,3% (so cùng kỳ), so với 8,2% (so cùng kỳ) năm 2019, do những bất định ở môi trường bên ngoài, đóng góp 1.2 điểm phần trăm cho tăng trưởng GDP.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 739
+            },
+            "score": 0.8761256199780889,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p15_c06",
+            "text": "Việt Nam, trong quá trình phát triển hướng tới mức thu nhập trung bình cao vào năm 2030 và thu nhập cao vào năm 2045, mong muốn trở thành quốc gia công nghiệp và hiện đại, đem lại chất lượng sống tốt hơn cho người dân. Để đạt được mục tiêu phát triển đầy tham vọng nêu trên, dự kiến Chính phủ Việt Nam cần đầu tư bình quân 7,3% GDP mỗi năm cho hạ tầng trong giai đoạn 2021-2030. 10 Mặc dù nhu cầu ngày càng lớn, nhưng đầu tư công của Việt Nam đã và đang theo xu hướng giảm dần, từ 8% GDP trong năm 2011 xuống còn 6% trong năm 2022. Tuy cần CHUYÊN ĐỀ ĐẶC BIỆT: ĐỂ ĐẦU TƯ CÔNG THÚC ĐẨY TĂNG TRƯỞNG",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 15,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "chuyen_de_dau_tu_cong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 595
+            },
+            "score": 0.8689180041197493,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p13_c06 | starter/data/data.pdf | page 13]\n2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3\n\n[wb-taking-stock-2023-08_B_p13_c02 | starter/data/data.pdf | page 13]\nTriển vọng, rủi ro và hàm ý chính sách Nền kinh tế Việt Nam dự kiến tăng trưởng 4,7% trong năm 2023, với dự báo phục hồi dần lên 5,5% vào năm 2024 và 6,0% vào năm 2025. Tuy có chững lại, nhưng cầu trong nước dự kiến vẫn là động lực tăng trưởng chính trong năm 2023. Tiêu dùng tư nhân sẽ vẫn đứng vững - với tốc độ tăng 6,0% (so cùng kỳ), tuy có giảm nhẹ xuống dưới mức tăng trước đạt dịch là 7% (so cùng kỳ) vào năm 2019, đóng góp 3,4 điểm phần trăm cho tăng trưởng GDP. Về tổng thể, đầu tư sẽ đóng góp 1,8 điểm phần trăm cho tăng trưởng GDP. Đầu tư tư nhân dự kiến sẽ giảm nhẹ, với tốc độ tăng 4,3% (so cùng kỳ), so với 8,2% (so cùng kỳ) năm 2019, do những bất định ở môi trường bên ngoài, đóng góp 1.2 điểm phần trăm cho tăng trưởng GDP.\n\n[wb-taking-stock-2023-08_B_p15_c06 | starter/data/data.pdf | page 15]\nViệt Nam, trong quá trình phát triển hướng tới mức thu nhập trung bình cao vào năm 2030 và thu nhập cao vào năm 2045, mong muốn trở thành quốc gia công nghiệp và hiện đại, đem lại chất lượng sống tốt hơn cho người dân. Để đạt được mục tiêu phát triển đầy tham vọng nêu trên, dự kiến Chính phủ Việt Nam cần đầu tư bình quân 7,3% GDP mỗi năm cho hạ tầng trong giai đoạn 2021-2030. 10 Mặc dù nhu cầu ngày càng lớn, nhưng đầu tư công của Việt Nam đã và đang theo xu hướng giảm dần, từ 8% GDP trong năm 2011 xuống còn 6% trong năm 2022. Tuy cần CHUYÊN ĐỀ ĐẶC BIỆT: ĐỂ ĐẦU TƯ CÔNG THÚC ĐẨY TĂNG TRƯỞNG",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p13_c06",
+          "wb-taking-stock-2023-08_B_p13_c02",
+          "wb-taking-stock-2023-08_B_p15_c06"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1201.03,
+        "usage": {
+          "prompt_tokens": 637,
+          "completion_tokens": 51,
+          "total_tokens": 688
+        },
+        "action": {
+          "action": "search",
+          "query": "dự báo tăng trưởng GDP Việt Nam 2023 2024 2025"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 2005.97,
+        "usage": {
+          "prompt_tokens": 1975,
+          "completion_tokens": 211,
+          "total_tokens": 2186
+        },
+        "action": {
+          "action": "answer",
+          "answer": "Theo dự báo, nền kinh tế Việt Nam được dự báo đạt mức tăng trưởng GDP lần lượt như sau: năm 2023 là 4,7% [wb-taking-stock-2023-08_B_p13_c02], năm 2024 là 5,5% [wb-taking-stock-2023-08_B_p13_c06], và năm 2025 là 6,0% [wb-taking-stock-2023-08_B_p13_c06].",
+          "citations": [
+            "wb-taking-stock-2023-08_B_p13_c02",
+            "wb-taking-stock-2023-08_B_p13_c06"
+          ]
+        }
+      }
+    ],
+    "total_tokens": 2874,
+    "elapsed_ms": 3246.28
+  },
+  {
+    "query_id": "u01",
+    "split": "dev",
+    "question": "Báo cáo Điểm lại tháng 8/2023 đưa ra dự báo tăng trưởng GDP cụ thể của Việt Nam cho năm 2026 và năm 2027 là bao nhiêu phần trăm?",
+    "answerable": false,
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "search_calls": 3,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p13_c06",
+      "wb-taking-stock-2023-08_B_p35_c03",
+      "wb-taking-stock-2023-08_B_p33_c03",
+      "wb-taking-stock-2023-08_B_p34_c01"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p13_c06 | starter/data/data.pdf | page 13]\n2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3\n\n[wb-taking-stock-2023-08_B_p35_c03 | starter/data/data.pdf | page 35]\nGhi chú: e = ước thực hiện; f = dự báo, *: không bao gồm chi tiêu chưa phân bổ và áp dụng chuẩn Thống kê Tài chính Chính phủ (GFS) Bảng 1.1. Một số chỉ số kinh tế, Việt Nam 2020 – 2025 Chỉ số Tăng trưởng GDP (%) Tăng trưởng của các thành phần Tiêu dùng của tư nhân Tiêu dùng của nhà nước Đầu tư Xuất khẩu Nhập khẩu Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 6,0 4,8 5,3 2,1 3,0 3,2 4,3 -2,9 41,3 2022e 8,0 6,5 4,4 6,7 4,1 4,5 3,1 -0,3 -0,3 35,7 2021 2,6 6,0 4,8 5,9 3,1 3,5 1,8 -2,1 -3,4 39,3 Rủi ro đối với tăng trưởng đã trở thành hiện thực và cán cân rủi ro đối với triển vọng kinh tế Việt Nam vẫn nghiêng theo hướng tiêu cực.\n\n[wb-taking-stock-2023-08_B_p33_c03 | starter/data/data.pdf | page 33]\nII. TRIỂN VỌNG KINH TẾ, RỦI RO, VÀ HÀM Ý CHÍNH SÁCH Những trở ngại bên ngoài dự kiến sẽ ảnh hưởng đến tăng trưởng kinh tế trong ngắn hạn Tăng trưởng kinh tế Việt Nam dự kiến đạt 4,7% trong năm 2023, sau đó được dự báo phục hồi dần về 5,5% trong năm 2024 và 6,0% trong năm 2025. Nhu cầu trong nước chững lại nhưng dự kiến vẫn là động lực tăng trưởng chính trong năm 2023. Tiêu dùng tư nhân vẫn được kỳ vọng duy trì, với tốc độ tăng 6,0% (so cùng kỳ) - tuy nhiên có thấp hơn mức tăng trưởng trước đại dịch là 7% (so cùng kỳ) năm 2019 - đóng góp 3,4 điểm phần trăm cho tăng trưởng GDP.\n\n[wb-taking-stock-2023-08_B_p34_c01 | starter/data/data.pdf | page 34]\n55 Báo cáo Cập nhật Triển Vọng Kinh tế Thế giới của IMF, tháng 07/2023.",
+    "events": [
+      {
+        "event": "search",
+        "query": "Báo cáo Điểm lại tháng 8/2023 dự báo tăng trưởng GDP Việt Nam 2026 2027",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p13_c06",
+            "text": "2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 576
+            },
+            "score": 0.874661861079824,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p35_c03",
+            "text": "Ghi chú: e = ước thực hiện; f = dự báo, *: không bao gồm chi tiêu chưa phân bổ và áp dụng chuẩn Thống kê Tài chính Chính phủ (GFS) Bảng 1.1. Một số chỉ số kinh tế, Việt Nam 2020 – 2025 Chỉ số Tăng trưởng GDP (%) Tăng trưởng của các thành phần Tiêu dùng của tư nhân Tiêu dùng của nhà nước Đầu tư Xuất khẩu Nhập khẩu Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 6,0 4,8 5,3 2,1 3,0 3,2 4,3 -2,9 41,3 2022e 8,0 6,5 4,4 6,7 4,1 4,5 3,1 -0,3 -0,3 35,7 2021 2,6 6,0 4,8 5,9 3,1 3,5 1,8 -2,1 -3,4 39,3 Rủi ro đối với tăng trưởng đã trở thành hiện thực và cán cân rủi ro đối với triển vọng kinh tế Việt Nam vẫn nghiêng theo hướng tiêu cực.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 35,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 711
+            },
+            "score": 0.8643973004445662,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p33_c03",
+            "text": "II. TRIỂN VỌNG KINH TẾ, RỦI RO, VÀ HÀM Ý CHÍNH SÁCH Những trở ngại bên ngoài dự kiến sẽ ảnh hưởng đến tăng trưởng kinh tế trong ngắn hạn Tăng trưởng kinh tế Việt Nam dự kiến đạt 4,7% trong năm 2023, sau đó được dự báo phục hồi dần về 5,5% trong năm 2024 và 6,0% trong năm 2025. Nhu cầu trong nước chững lại nhưng dự kiến vẫn là động lực tăng trưởng chính trong năm 2023. Tiêu dùng tư nhân vẫn được kỳ vọng duy trì, với tốc độ tăng 6,0% (so cùng kỳ) - tuy nhiên có thấp hơn mức tăng trưởng trước đại dịch là 7% (so cùng kỳ) năm 2019 - đóng góp 3,4 điểm phần trăm cho tăng trưởng GDP.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 33,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 582
+            },
+            "score": 0.8627061614741787,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p13_c06 | starter/data/data.pdf | page 13]\n2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3\n\n[wb-taking-stock-2023-08_B_p35_c03 | starter/data/data.pdf | page 35]\nGhi chú: e = ước thực hiện; f = dự báo, *: không bao gồm chi tiêu chưa phân bổ và áp dụng chuẩn Thống kê Tài chính Chính phủ (GFS) Bảng 1.1. Một số chỉ số kinh tế, Việt Nam 2020 – 2025 Chỉ số Tăng trưởng GDP (%) Tăng trưởng của các thành phần Tiêu dùng của tư nhân Tiêu dùng của nhà nước Đầu tư Xuất khẩu Nhập khẩu Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 6,0 4,8 5,3 2,1 3,0 3,2 4,3 -2,9 41,3 2022e 8,0 6,5 4,4 6,7 4,1 4,5 3,1 -0,3 -0,3 35,7 2021 2,6 6,0 4,8 5,9 3,1 3,5 1,8 -2,1 -3,4 39,3 Rủi ro đối với tăng trưởng đã trở thành hiện thực và cán cân rủi ro đối với triển vọng kinh tế Việt Nam vẫn nghiêng theo hướng tiêu cực.\n\n[wb-taking-stock-2023-08_B_p33_c03 | starter/data/data.pdf | page 33]\nII. TRIỂN VỌNG KINH TẾ, RỦI RO, VÀ HÀM Ý CHÍNH SÁCH Những trở ngại bên ngoài dự kiến sẽ ảnh hưởng đến tăng trưởng kinh tế trong ngắn hạn Tăng trưởng kinh tế Việt Nam dự kiến đạt 4,7% trong năm 2023, sau đó được dự báo phục hồi dần về 5,5% trong năm 2024 và 6,0% trong năm 2025. Nhu cầu trong nước chững lại nhưng dự kiến vẫn là động lực tăng trưởng chính trong năm 2023. Tiêu dùng tư nhân vẫn được kỳ vọng duy trì, với tốc độ tăng 6,0% (so cùng kỳ) - tuy nhiên có thấp hơn mức tăng trưởng trước đại dịch là 7% (so cùng kỳ) năm 2019 - đóng góp 3,4 điểm phần trăm cho tăng trưởng GDP.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p13_c06",
+          "wb-taking-stock-2023-08_B_p35_c03",
+          "wb-taking-stock-2023-08_B_p33_c03"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Báo cáo Điểm lại tháng 8/2023 dự báo GDP 2026 2027",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p13_c06",
+            "text": "2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 576
+            },
+            "score": 0.8666897869082593,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p34_c01",
+            "text": "55 Báo cáo Cập nhật Triển Vọng Kinh tế Thế giới của IMF, tháng 07/2023.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 34,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 71
+            },
+            "score": 0.859127691868079,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p36_c01",
+            "text": "64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 36,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 683
+            },
+            "score": 0.8587199625606967,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p13_c06 | starter/data/data.pdf | page 13]\n2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3\n\n[wb-taking-stock-2023-08_B_p35_c03 | starter/data/data.pdf | page 35]\nGhi chú: e = ước thực hiện; f = dự báo, *: không bao gồm chi tiêu chưa phân bổ và áp dụng chuẩn Thống kê Tài chính Chính phủ (GFS) Bảng 1.1. Một số chỉ số kinh tế, Việt Nam 2020 – 2025 Chỉ số Tăng trưởng GDP (%) Tăng trưởng của các thành phần Tiêu dùng của tư nhân Tiêu dùng của nhà nước Đầu tư Xuất khẩu Nhập khẩu Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 6,0 4,8 5,3 2,1 3,0 3,2 4,3 -2,9 41,3 2022e 8,0 6,5 4,4 6,7 4,1 4,5 3,1 -0,3 -0,3 35,7 2021 2,6 6,0 4,8 5,9 3,1 3,5 1,8 -2,1 -3,4 39,3 Rủi ro đối với tăng trưởng đã trở thành hiện thực và cán cân rủi ro đối với triển vọng kinh tế Việt Nam vẫn nghiêng theo hướng tiêu cực.\n\n[wb-taking-stock-2023-08_B_p33_c03 | starter/data/data.pdf | page 33]\nII. TRIỂN VỌNG KINH TẾ, RỦI RO, VÀ HÀM Ý CHÍNH SÁCH Những trở ngại bên ngoài dự kiến sẽ ảnh hưởng đến tăng trưởng kinh tế trong ngắn hạn Tăng trưởng kinh tế Việt Nam dự kiến đạt 4,7% trong năm 2023, sau đó được dự báo phục hồi dần về 5,5% trong năm 2024 và 6,0% trong năm 2025. Nhu cầu trong nước chững lại nhưng dự kiến vẫn là động lực tăng trưởng chính trong năm 2023. Tiêu dùng tư nhân vẫn được kỳ vọng duy trì, với tốc độ tăng 6,0% (so cùng kỳ) - tuy nhiên có thấp hơn mức tăng trưởng trước đại dịch là 7% (so cùng kỳ) năm 2019 - đóng góp 3,4 điểm phần trăm cho tăng trưởng GDP.\n\n[wb-taking-stock-2023-08_B_p34_c01 | starter/data/data.pdf | page 34]\n55 Báo cáo Cập nhật Triển Vọng Kinh tế Thế giới của IMF, tháng 07/2023.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p13_c06",
+          "wb-taking-stock-2023-08_B_p35_c03",
+          "wb-taking-stock-2023-08_B_p33_c03",
+          "wb-taking-stock-2023-08_B_p34_c01"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Báo cáo Điểm lại tháng 8/2023 dự báo tăng trưởng GDP 2026 2027",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p13_c06",
+            "text": "2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 576
+            },
+            "score": 0.8653475141142306,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p21_c05",
+            "text": "Đóng góp cho tăng trưởng GDP theo khu vực Điểm % (so cùng kỳ, NSA) 0 1 2 3 4 5 6 7 8 H1-18 H1-19 H1-20 H1-21 H1-22 H1-23 Agriculture Industry Services GDP H1-18 H1-19 H1-20 H1-21 H1-22 H1-23 8 7 6 5 4 3 2 1 0 Nông nghiệp Công nghiệp Dịch vụ GDP 25 15 5 0 -5 -15-15 -10 -5 0 5 10 15 20 25 H1-18 H1-19 H1-20 H1-21 H1-22 H1-23 Tiêu dùng cuối cùng Đầu tư Xuất khẩu Nhập khẩu GDP H1-18 H1-19 H1-20 H1-21 H1-22 H1-23 7,43 7,12 1,74 5,76 6,46 3,72 21 Theo TCTK, các dịch vụ du lịch và lữ hành tăng trưởng 65,9% so cùng kỳ trong nửa đầu năm 2023, còn các dịch vụ lưu trú, ăn uống tăng 18,7% so cùng kỳ trong năm trước. Số lượng du khách nước ngoài tăng từ 0,6 triệu trong sáu tháng đầu năm 2022 lên 5,6 triệu trong sáu tháng đầu năm 2023.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 21,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 730
+            },
+            "score": 0.8630487962985672,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p11_c01",
+            "text": "Những diễn biến kinh tế gần đây Môi trường bên ngoài vẫn còn nhiều thách thức với những rủi ro theo chiều hướng tiêu cực và hiện diện trong ngắn hạn. Tăng trưởng GDP toàn cầu được dự báo sẽ giảm xuống còn 2,1% trong năm 2023, so với mức 3,1% trong năm 2022, do sức cầu tại các nền kinh tế phát triển hàng đầu đang yếu đi. Song song với việc tăng trưởng kinh tế toàn cầu đang chững lại, tăng trưởng thương mại toàn cầu dự kiến cũng giảm từ 6% trong năm 2022 xuống còn 1,7% trong năm 2023.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 11,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 487
+            },
+            "score": 0.860135756119325,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p13_c06 | starter/data/data.pdf | page 13]\n2024f 5,5 3,0 0,5 -0,3 35,2 2023f 4,7 3,5 0,2 -0,7 36,0 2025f 6,0 3,0 1,0 -0,2 34,4 Nguồn: TCTK; Bộ Tài chính; NHNN; IMF; và tính toán của cán bộ Ngân hàng Thế giới. Ghi chú: e = số ước thực hiện; f = số dự báo, *: không bao gồm các khoản chi tiêu ngân sách chưa được phân bổ và áp dụng chuẩn GFS. Bảng 0.1. Một số chỉ số kinh tế, Việt Nam 2020-2025 Chỉ số Tăng trưởng GDP (%) Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 3,2 4,3 -2,9 41,3 2022e 8,0 3,1 -0,3 -0,3 35,7 2021 2,6 1,8 -2,1 -3,4 39,3\n\n[wb-taking-stock-2023-08_B_p35_c03 | starter/data/data.pdf | page 35]\nGhi chú: e = ước thực hiện; f = dự báo, *: không bao gồm chi tiêu chưa phân bổ và áp dụng chuẩn Thống kê Tài chính Chính phủ (GFS) Bảng 1.1. Một số chỉ số kinh tế, Việt Nam 2020 – 2025 Chỉ số Tăng trưởng GDP (%) Tăng trưởng của các thành phần Tiêu dùng của tư nhân Tiêu dùng của nhà nước Đầu tư Xuất khẩu Nhập khẩu Chỉ số giá tiêu dùng (bình quân, %) Cân đối tài khoản vãng lai (% GDP) Cân đối tài khóa (*) (% GDP) Nợ công (% GDP) 2020 2,9 6,0 4,8 5,3 2,1 3,0 3,2 4,3 -2,9 41,3 2022e 8,0 6,5 4,4 6,7 4,1 4,5 3,1 -0,3 -0,3 35,7 2021 2,6 6,0 4,8 5,9 3,1 3,5 1,8 -2,1 -3,4 39,3 Rủi ro đối với tăng trưởng đã trở thành hiện thực và cán cân rủi ro đối với triển vọng kinh tế Việt Nam vẫn nghiêng theo hướng tiêu cực.\n\n[wb-taking-stock-2023-08_B_p33_c03 | starter/data/data.pdf | page 33]\nII. TRIỂN VỌNG KINH TẾ, RỦI RO, VÀ HÀM Ý CHÍNH SÁCH Những trở ngại bên ngoài dự kiến sẽ ảnh hưởng đến tăng trưởng kinh tế trong ngắn hạn Tăng trưởng kinh tế Việt Nam dự kiến đạt 4,7% trong năm 2023, sau đó được dự báo phục hồi dần về 5,5% trong năm 2024 và 6,0% trong năm 2025. Nhu cầu trong nước chững lại nhưng dự kiến vẫn là động lực tăng trưởng chính trong năm 2023. Tiêu dùng tư nhân vẫn được kỳ vọng duy trì, với tốc độ tăng 6,0% (so cùng kỳ) - tuy nhiên có thấp hơn mức tăng trưởng trước đại dịch là 7% (so cùng kỳ) năm 2019 - đóng góp 3,4 điểm phần trăm cho tăng trưởng GDP.\n\n[wb-taking-stock-2023-08_B_p34_c01 | starter/data/data.pdf | page 34]\n55 Báo cáo Cập nhật Triển Vọng Kinh tế Thế giới của IMF, tháng 07/2023.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p13_c06",
+          "wb-taking-stock-2023-08_B_p35_c03",
+          "wb-taking-stock-2023-08_B_p33_c03",
+          "wb-taking-stock-2023-08_B_p34_c01"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 926.24,
+        "usage": {
+          "prompt_tokens": 649,
+          "completion_tokens": 69,
+          "total_tokens": 718
+        },
+        "action": {
+          "action": "search",
+          "query": "Báo cáo Điểm lại tháng 8/2023 dự báo tăng trưởng GDP Việt Nam 2026 2027"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1322.05,
+        "usage": {
+          "prompt_tokens": 2035,
+          "completion_tokens": 58,
+          "total_tokens": 2093
+        },
+        "action": {
+          "action": "search",
+          "query": "Báo cáo Điểm lại tháng 8/2023 dự báo GDP 2026 2027"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1214.71,
+        "usage": {
+          "prompt_tokens": 2147,
+          "completion_tokens": 65,
+          "total_tokens": 2212
+        },
+        "action": {
+          "action": "search",
+          "query": "Báo cáo Điểm lại tháng 8/2023 dự báo tăng trưởng GDP 2026 2027"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1228.14,
+        "usage": {
+          "prompt_tokens": 2188,
+          "completion_tokens": 65,
+          "total_tokens": 2253
+        },
+        "action": {
+          "action": "search",
+          "query": "Báo cáo Điểm lại tháng 8/2023 dự báo tăng trưởng GDP 2026 2027"
+        }
+      }
+    ],
+    "total_tokens": 7276,
+    "elapsed_ms": 4817.32
+  },
+  {
+    "query_id": "u02",
+    "split": "dev",
+    "question": "Trong giai đoạn 2021–2025, tỷ lệ giải ngân vốn đầu tư công bình quân của riêng Thành phố Hà Nội và Thành phố Hồ Chí Minh được nêu trong báo cáo là bao nhiêu phần trăm?",
+    "answerable": false,
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "search_calls": 3,
+    "final_context_ids": [
+      "wb-taking-stock-2023-08_B_p36_c01",
+      "wb-taking-stock-2023-08_B_p32_c03",
+      "wb-taking-stock-2023-08_B_p13_c03"
+    ],
+    "final_context": "[wb-taking-stock-2023-08_B_p36_c01 | starter/data/data.pdf | page 36]\n64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.\n\n[wb-taking-stock-2023-08_B_p32_c03 | starter/data/data.pdf | page 32]\nGiải ngân vốn đầu tư công tăng mạnh ở mức 43,3% trong nửa đầu năm 2023 (so cùng kỳ), qua đó hỗ trợ cho nền kinh tế (Hình 1.25). Phần tăng giải ngân đầu tư công bao gồm cả vốn triển khai hợp phần đầu tư trong Chương trình Phục hồi và Phát triển kinh tế xã hội được phê duyệt đầu năm 2022 (1,8% GDP). 52\n\n[wb-taking-stock-2023-08_B_p13_c03 | starter/data/data.pdf | page 13]\nĐầu tư công dự kiến sẽ được đẩy mạnh, tăng 9,5% (so cùng kỳ), đóng góp 0,6 điểm phần trăm cho tăng trưởng, nhưng chỉ bù đắp được phần nào cho đầu tư tư nhân đang giảm xuống. Do thanh khoản được nới lỏng và NHNN tái ban hành hướng dẫn về tái cơ cấu thời hạn trả nợ, những hạn chế về nguồn tài chính dành cho các lĩnh vực bất động sản/xây dựng dự kiến sẽ được nới ra, qua đó hỗ trợ cho đầu tư tư nhân từng bước phục hồi từ năm 2024 trở đi.",
+    "events": [
+      {
+        "event": "search",
+        "query": "tỷ lệ giải ngân vốn đầu tư công 2021-2025 Hà Nội Hồ Chí Minh",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p36_c01",
+            "text": "64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 36,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 683
+            },
+            "score": 0.8744278234700406,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p32_c03",
+            "text": "Giải ngân vốn đầu tư công tăng mạnh ở mức 43,3% trong nửa đầu năm 2023 (so cùng kỳ), qua đó hỗ trợ cho nền kinh tế (Hình 1.25). Phần tăng giải ngân đầu tư công bao gồm cả vốn triển khai hợp phần đầu tư trong Chương trình Phục hồi và Phát triển kinh tế xã hội được phê duyệt đầu năm 2022 (1,8% GDP). 52",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 32,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 301
+            },
+            "score": 0.8734522666443737,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p13_c03",
+            "text": "Đầu tư công dự kiến sẽ được đẩy mạnh, tăng 9,5% (so cùng kỳ), đóng góp 0,6 điểm phần trăm cho tăng trưởng, nhưng chỉ bù đắp được phần nào cho đầu tư tư nhân đang giảm xuống. Do thanh khoản được nới lỏng và NHNN tái ban hành hướng dẫn về tái cơ cấu thời hạn trả nợ, những hạn chế về nguồn tài chính dành cho các lĩnh vực bất động sản/xây dựng dự kiến sẽ được nới ra, qua đó hỗ trợ cho đầu tư tư nhân từng bước phục hồi từ năm 2024 trở đi.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 437
+            },
+            "score": 0.8590695045990674,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p36_c01 | starter/data/data.pdf | page 36]\n64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.\n\n[wb-taking-stock-2023-08_B_p32_c03 | starter/data/data.pdf | page 32]\nGiải ngân vốn đầu tư công tăng mạnh ở mức 43,3% trong nửa đầu năm 2023 (so cùng kỳ), qua đó hỗ trợ cho nền kinh tế (Hình 1.25). Phần tăng giải ngân đầu tư công bao gồm cả vốn triển khai hợp phần đầu tư trong Chương trình Phục hồi và Phát triển kinh tế xã hội được phê duyệt đầu năm 2022 (1,8% GDP). 52\n\n[wb-taking-stock-2023-08_B_p13_c03 | starter/data/data.pdf | page 13]\nĐầu tư công dự kiến sẽ được đẩy mạnh, tăng 9,5% (so cùng kỳ), đóng góp 0,6 điểm phần trăm cho tăng trưởng, nhưng chỉ bù đắp được phần nào cho đầu tư tư nhân đang giảm xuống. Do thanh khoản được nới lỏng và NHNN tái ban hành hướng dẫn về tái cơ cấu thời hạn trả nợ, những hạn chế về nguồn tài chính dành cho các lĩnh vực bất động sản/xây dựng dự kiến sẽ được nới ra, qua đó hỗ trợ cho đầu tư tư nhân từng bước phục hồi từ năm 2024 trở đi.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p36_c01",
+          "wb-taking-stock-2023-08_B_p32_c03",
+          "wb-taking-stock-2023-08_B_p13_c03"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "tỷ lệ giải ngân vốn đầu tư công bình quân 2021-2025 Hà Nội Hồ Chí Minh",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p36_c01",
+            "text": "64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 36,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 683
+            },
+            "score": 0.8719847723636579,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p32_c03",
+            "text": "Giải ngân vốn đầu tư công tăng mạnh ở mức 43,3% trong nửa đầu năm 2023 (so cùng kỳ), qua đó hỗ trợ cho nền kinh tế (Hình 1.25). Phần tăng giải ngân đầu tư công bao gồm cả vốn triển khai hợp phần đầu tư trong Chương trình Phục hồi và Phát triển kinh tế xã hội được phê duyệt đầu năm 2022 (1,8% GDP). 52",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 32,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 301
+            },
+            "score": 0.8705159778569148,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p13_c03",
+            "text": "Đầu tư công dự kiến sẽ được đẩy mạnh, tăng 9,5% (so cùng kỳ), đóng góp 0,6 điểm phần trăm cho tăng trưởng, nhưng chỉ bù đắp được phần nào cho đầu tư tư nhân đang giảm xuống. Do thanh khoản được nới lỏng và NHNN tái ban hành hướng dẫn về tái cơ cấu thời hạn trả nợ, những hạn chế về nguồn tài chính dành cho các lĩnh vực bất động sản/xây dựng dự kiến sẽ được nới ra, qua đó hỗ trợ cho đầu tư tư nhân từng bước phục hồi từ năm 2024 trở đi.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 437
+            },
+            "score": 0.8560637553042552,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p36_c01 | starter/data/data.pdf | page 36]\n64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.\n\n[wb-taking-stock-2023-08_B_p32_c03 | starter/data/data.pdf | page 32]\nGiải ngân vốn đầu tư công tăng mạnh ở mức 43,3% trong nửa đầu năm 2023 (so cùng kỳ), qua đó hỗ trợ cho nền kinh tế (Hình 1.25). Phần tăng giải ngân đầu tư công bao gồm cả vốn triển khai hợp phần đầu tư trong Chương trình Phục hồi và Phát triển kinh tế xã hội được phê duyệt đầu năm 2022 (1,8% GDP). 52\n\n[wb-taking-stock-2023-08_B_p13_c03 | starter/data/data.pdf | page 13]\nĐầu tư công dự kiến sẽ được đẩy mạnh, tăng 9,5% (so cùng kỳ), đóng góp 0,6 điểm phần trăm cho tăng trưởng, nhưng chỉ bù đắp được phần nào cho đầu tư tư nhân đang giảm xuống. Do thanh khoản được nới lỏng và NHNN tái ban hành hướng dẫn về tái cơ cấu thời hạn trả nợ, những hạn chế về nguồn tài chính dành cho các lĩnh vực bất động sản/xây dựng dự kiến sẽ được nới ra, qua đó hỗ trợ cho đầu tư tư nhân từng bước phục hồi từ năm 2024 trở đi.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p36_c01",
+          "wb-taking-stock-2023-08_B_p32_c03",
+          "wb-taking-stock-2023-08_B_p13_c03"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "tỷ lệ giải ngân vốn đầu tư công bình quân Hà Nội Hồ Chí Minh 2021-2025",
+        "filter": null,
+        "results": [
+          {
+            "id": "wb-taking-stock-2023-08_B_p32_c03",
+            "text": "Giải ngân vốn đầu tư công tăng mạnh ở mức 43,3% trong nửa đầu năm 2023 (so cùng kỳ), qua đó hỗ trợ cho nền kinh tế (Hình 1.25). Phần tăng giải ngân đầu tư công bao gồm cả vốn triển khai hợp phần đầu tư trong Chương trình Phục hồi và Phát triển kinh tế xã hội được phê duyệt đầu năm 2022 (1,8% GDP). 52",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 32,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "I_dien_bien_kinh_te_gan_day",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 301
+            },
+            "score": 0.8696419034676401,
+            "rank": 1
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p36_c01",
+            "text": "64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 36,
+            "metadata": {
+              "section": "chuong_1_kinh_te_vi_mo",
+              "subsection": "II_trien_vong_rui_ro_chinh_sach",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 683
+            },
+            "score": 0.865980797517488,
+            "rank": 2
+          },
+          {
+            "id": "wb-taking-stock-2023-08_B_p13_c03",
+            "text": "Đầu tư công dự kiến sẽ được đẩy mạnh, tăng 9,5% (so cùng kỳ), đóng góp 0,6 điểm phần trăm cho tăng trưởng, nhưng chỉ bù đắp được phần nào cho đầu tư tư nhân đang giảm xuống. Do thanh khoản được nới lỏng và NHNN tái ban hành hướng dẫn về tái cơ cấu thời hạn trả nợ, những hạn chế về nguồn tài chính dành cho các lĩnh vực bất động sản/xây dựng dự kiến sẽ được nới ra, qua đó hỗ trợ cho đầu tư tư nhân từng bước phục hồi từ năm 2024 trở đi.",
+            "source_id": "wb-taking-stock-2023-08",
+            "source": "starter/data/data.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "tong_quan",
+              "subsection": "dien_bien_va_trien_vong_tom_tat",
+              "year": 2023,
+              "language": "vi",
+              "document_type": "world_bank_economic_update",
+              "chunk_strategy": "paragraph",
+              "char_len": 437
+            },
+            "score": 0.8532841441753891,
+            "rank": 3
+          }
+        ],
+        "context": "[wb-taking-stock-2023-08_B_p36_c01 | starter/data/data.pdf | page 36]\n64 https://www.elibrary.imf.org/display/book/9781557751928/ch005.xml. Công thức (3) được dùng để ước tính tác động tài khóa: FI=(ΔG-nG-1) - [ΔT-(ΔY/Y-1) T-1].\n\n65 So với dự toán được Quốc hội phê duyệt, tính đến 31/12/2022.\n\nnhanh, khi giải ngân vốn đầu tư công tăng tới 43,3% so cùng kỳ năm trước trong nửa đầu năm 2023. Mặc dù vậy, tiến độ triển khai đầu tư công lâu nay vẫn chậm, ví dụ chỉ đạt 67,3% trong năm 2022. 65 Các bước đi nhằm đẩy nhanh và cải thiện hiệu suất triển khai sẽ giúp giải quyết những hạn chế phát sinh về hạ tầng để phục vụ tăng trưởng, bao gồm nhu cầu đầu tư cấp thiết cho mạng lưới truyền tải điện cũng như nâng cao khả năng chống chịu với biến đổi khí hậu.\n\n[wb-taking-stock-2023-08_B_p32_c03 | starter/data/data.pdf | page 32]\nGiải ngân vốn đầu tư công tăng mạnh ở mức 43,3% trong nửa đầu năm 2023 (so cùng kỳ), qua đó hỗ trợ cho nền kinh tế (Hình 1.25). Phần tăng giải ngân đầu tư công bao gồm cả vốn triển khai hợp phần đầu tư trong Chương trình Phục hồi và Phát triển kinh tế xã hội được phê duyệt đầu năm 2022 (1,8% GDP). 52\n\n[wb-taking-stock-2023-08_B_p13_c03 | starter/data/data.pdf | page 13]\nĐầu tư công dự kiến sẽ được đẩy mạnh, tăng 9,5% (so cùng kỳ), đóng góp 0,6 điểm phần trăm cho tăng trưởng, nhưng chỉ bù đắp được phần nào cho đầu tư tư nhân đang giảm xuống. Do thanh khoản được nới lỏng và NHNN tái ban hành hướng dẫn về tái cơ cấu thời hạn trả nợ, những hạn chế về nguồn tài chính dành cho các lĩnh vực bất động sản/xây dựng dự kiến sẽ được nới ra, qua đó hỗ trợ cho đầu tư tư nhân từng bước phục hồi từ năm 2024 trở đi.",
+        "context_ids": [
+          "wb-taking-stock-2023-08_B_p36_c01",
+          "wb-taking-stock-2023-08_B_p32_c03",
+          "wb-taking-stock-2023-08_B_p13_c03"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "llm_calls": [
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 992.64,
+        "usage": {
+          "prompt_tokens": 668,
+          "completion_tokens": 69,
+          "total_tokens": 737
+        },
+        "action": {
+          "action": "search",
+          "query": "tỷ lệ giải ngân vốn đầu tư công 2021-2025 Hà Nội Hồ Chí Minh"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1090.11,
+        "usage": {
+          "prompt_tokens": 1675,
+          "completion_tokens": 73,
+          "total_tokens": 1748
+        },
+        "action": {
+          "action": "search",
+          "query": "tỷ lệ giải ngân vốn đầu tư công bình quân 2021-2025 Hà Nội Hồ Chí Minh"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1058.44,
+        "usage": {
+          "prompt_tokens": 1724,
+          "completion_tokens": 72,
+          "total_tokens": 1796
+        },
+        "action": {
+          "action": "search",
+          "query": "tỷ lệ giải ngân vốn đầu tư công bình quân Hà Nội Hồ Chí Minh 2021-2025"
+        }
+      },
+      {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "latency_ms": 1044.04,
+        "usage": {
+          "prompt_tokens": 1772,
+          "completion_tokens": 78,
+          "total_tokens": 1850
+        },
+        "action": {
+          "action": "search",
+          "query": "tỷ lệ giải ngân vốn đầu tư công bình quân Hà Nội Hồ Chí Minh giai đoạn 2021-2025"
+        }
+      }
+    ],
+    "total_tokens": 6131,
+    "elapsed_ms": 4307.39
+  }
+]

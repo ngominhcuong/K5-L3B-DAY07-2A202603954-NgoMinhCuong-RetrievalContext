@@ -1,0 +1,398 @@
+[
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "question": "Theo báo cáo, tăng trưởng thương mại toàn cầu dự kiến thay đổi như thế nào từ năm 2022 sang năm 2023?",
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p11_c01",
+      "wb-taking-stock-2023-08_B_p20_c01",
+      "wb-taking-stock-2023-08_B_p20_c03"
+    ],
+    "top_pages": [
+      11,
+      20,
+      20
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p11_c01",
+      "wb-taking-stock-2023-08_B_p20_c01",
+      "wb-taking-stock-2023-08_B_p20_c03"
+    ],
+    "context_chars": 1856,
+    "elapsed_ms": 47.41
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "question": "Theo khảo sát 10.000 doanh nghiệp vào tháng 4/2023 của Ban Nghiên cứu Phát triển Kinh tế Tư nhân, tỷ lệ doanh nghiệp giảm doanh thu ít nhất 20%, giảm đơn hàng và phải cắt giảm lao động là bao nhiêu?",
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p12_c01",
+      "wb-taking-stock-2023-08_B_p25_c02",
+      "wb-taking-stock-2023-08_B_p25_c03"
+    ],
+    "top_pages": [
+      12,
+      25,
+      25
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p12_c01",
+      "wb-taking-stock-2023-08_B_p25_c02",
+      "wb-taking-stock-2023-08_B_p25_c03"
+    ],
+    "context_chars": 2146,
+    "elapsed_ms": 57.54
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "question": "Các đợt mất điện luân phiên tại miền Bắc vào tháng 5 và tháng 6 năm 2023 ước tính gây thiệt hại kinh tế khoảng bao nhiêu tỷ USD?",
+    "filter": null,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p22_c04",
+      "wb-taking-stock-2023-08_B_p23_c03",
+      "wb-taking-stock-2023-08_B_p23_c02"
+    ],
+    "top_pages": [
+      22,
+      23,
+      23
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p22_c04",
+      "wb-taking-stock-2023-08_B_p23_c03",
+      "wb-taking-stock-2023-08_B_p23_c02"
+    ],
+    "context_chars": 1854,
+    "elapsed_ms": 47.71
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "question": "Trong nửa đầu năm 2023, lạm phát CPI giảm từ mức nào vào tháng 1 xuống bao nhiêu vào tháng 6 và dịch vụ nào là yếu tố chính dẫn đến mức giảm này?",
+    "filter": null,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p29_c02",
+      "wb-taking-stock-2023-08_B_p12_c05",
+      "wb-taking-stock-2023-08_B_p22_c01"
+    ],
+    "top_pages": [
+      29,
+      12,
+      22
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p29_c02",
+      "wb-taking-stock-2023-08_B_p12_c05",
+      "wb-taking-stock-2023-08_B_p22_c01"
+    ],
+    "context_chars": 2118,
+    "elapsed_ms": 52.56
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "question": "Trên thị trường trái phiếu doanh nghiệp đang ngưng trệ, có bao nhiêu doanh nghiệp mất khả năng trả nợ và tổng giá trị nợ trái phiếu mất khả năng chi trả là bao nhiêu?",
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p31_c02",
+      "wb-taking-stock-2023-08_B_p31_c04",
+      "wb-taking-stock-2023-08_B_p31_c03"
+    ],
+    "top_pages": [
+      31,
+      31,
+      31
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p31_c02",
+      "wb-taking-stock-2023-08_B_p31_c04",
+      "wb-taking-stock-2023-08_B_p31_c03"
+    ],
+    "context_chars": 1884,
+    "elapsed_ms": 52.51
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "question": "Trong nửa đầu năm 2023, khi hầu hết các sắc thuế lớn giảm khiến thu ngân sách giảm 7%, ngoại lệ duy nhất nào đã tăng bật 16,9% và vì lý do gì?",
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p32_c01",
+      "wb-taking-stock-2023-08_B_p32_c02",
+      "wb-taking-stock-2023-08_B_p13_c01"
+    ],
+    "top_pages": [
+      32,
+      32,
+      13
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p32_c01",
+      "wb-taking-stock-2023-08_B_p32_c02",
+      "wb-taking-stock-2023-08_B_p13_c01"
+    ],
+    "context_chars": 2049,
+    "elapsed_ms": 53.14
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "question": "Tỷ lệ nợ của Chính phủ và nợ được Chính phủ bảo lãnh năm 2022 ước đạt bao nhiêu phần trăm và nằm ở mức nào so với ngưỡng Quốc hội đề ra?",
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p33_c01",
+      "wb-taking-stock-2023-08_B_p41_c02",
+      "wb-taking-stock-2023-08_B_p13_c05"
+    ],
+    "top_pages": [
+      33,
+      41,
+      13
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p33_c01",
+      "wb-taking-stock-2023-08_B_p41_c02",
+      "wb-taking-stock-2023-08_B_p13_c05"
+    ],
+    "context_chars": 1741,
+    "elapsed_ms": 50.53
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "question": "Luật Các tổ chức tín dụng (Luật CTCTD) hiện hành tồn tại những hạn chế nào khiến cần thiết phải sửa đổi để hỗ trợ Ngân hàng Nhà nước?",
+    "filter": null,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p37_c02",
+      "wb-taking-stock-2023-08_B_p37_c01",
+      "wb-taking-stock-2023-08_B_p37_c03"
+    ],
+    "top_pages": [
+      37,
+      37,
+      37
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p37_c02",
+      "wb-taking-stock-2023-08_B_p37_c01",
+      "wb-taking-stock-2023-08_B_p37_c03"
+    ],
+    "context_chars": 2320,
+    "elapsed_ms": 50.53
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "question": "Trong giai đoạn 2021–2030, tổng đầu tư toàn xã hội và riêng đầu tư công cần đạt bình quân bao nhiêu phần trăm GDP mỗi năm để đáp ứng mục tiêu phát triển?",
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p40_c02",
+      "wb-taking-stock-2023-08_B_p15_c06",
+      "wb-taking-stock-2023-08_B_p40_c03"
+    ],
+    "top_pages": [
+      40,
+      15,
+      40
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p40_c02",
+      "wb-taking-stock-2023-08_B_p15_c06",
+      "wb-taking-stock-2023-08_B_p40_c03"
+    ],
+    "context_chars": 2048,
+    "elapsed_ms": 50.48
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "question": "Mặc dù Việt Nam có tới 47 cảng biển và 22 sân bay trên toàn quốc, nhưng thực tế có bao nhiêu cảng đảm nhận 95% lượng hàng hóa và có bao nhiêu sân bay quốc tế?",
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p45_c01",
+      "wb-taking-stock-2023-08_B_p45_c06",
+      "wb-taking-stock-2023-08_B_p41_c04"
+    ],
+    "top_pages": [
+      45,
+      45,
+      41
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p45_c01",
+      "wb-taking-stock-2023-08_B_p45_c06",
+      "wb-taking-stock-2023-08_B_p41_c04"
+    ],
+    "context_chars": 2175,
+    "elapsed_ms": 53.2
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "question": "Để rút ngắn thời gian thực hiện các dự án đầu tư công quy mô lớn, báo cáo khuyến nghị tách khâu nào ra khỏi dự án đầu tư?",
+    "filter": null,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p17_c05",
+      "wb-taking-stock-2023-08_B_p17_c06",
+      "wb-taking-stock-2023-08_B_p53_c02"
+    ],
+    "top_pages": [
+      17,
+      17,
+      53
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p17_c05",
+      "wb-taking-stock-2023-08_B_p17_c06",
+      "wb-taking-stock-2023-08_B_p53_c02"
+    ],
+    "context_chars": 2320,
+    "elapsed_ms": 50.1
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "question": "Tỷ lệ chi của chính quyền địa phương trong tổng chi tiêu ngân sách nhà nước đã thay đổi như thế nào từ năm 1992 đến năm 2022?",
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p43_c02",
+      "wb-taking-stock-2023-08_B_p16_c05",
+      "wb-taking-stock-2023-08_B_p43_c05"
+    ],
+    "top_pages": [
+      43,
+      16,
+      43
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p43_c02",
+      "wb-taking-stock-2023-08_B_p16_c05",
+      "wb-taking-stock-2023-08_B_p43_c05"
+    ],
+    "context_chars": 1929,
+    "elapsed_ms": 48.58
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "question": "Trong giai đoạn 2017–2022, chi đầu tư công chỉ thực hiện trung bình bao nhiêu phần trăm dự toán, chênh lệch phải chuyển nguồn là bao nhiêu và thông lệ quốc tế tốt ở mức nào?",
+    "filter": {
+      "section": "chuong_2_dau_tu_cong"
+    },
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p43_c01",
+      "wb-taking-stock-2023-08_B_p40_c02",
+      "wb-taking-stock-2023-08_B_p43_c05"
+    ],
+    "top_pages": [
+      43,
+      40,
+      43
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p43_c01",
+      "wb-taking-stock-2023-08_B_p40_c02",
+      "wb-taking-stock-2023-08_B_p43_c05"
+    ],
+    "context_chars": 1917,
+    "elapsed_ms": 57.33
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "question": "Hợp phần đầu tư công trong Chương trình Phục hồi và Phát triển KTXH 2022–2023 có quy mô ngân sách khoảng bao nhiêu nghìn tỷ VND (tương đương bao nhiêu % GDP)?",
+    "filter": {
+      "section": "chuong_1_kinh_te_vi_mo"
+    },
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p32_c01",
+      "wb-taking-stock-2023-08_B_p32_c03",
+      "wb-taking-stock-2023-08_B_p36_c02"
+    ],
+    "top_pages": [
+      32,
+      32,
+      36
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p32_c01",
+      "wb-taking-stock-2023-08_B_p32_c03",
+      "wb-taking-stock-2023-08_B_p36_c02"
+    ],
+    "context_chars": 1536,
+    "elapsed_ms": 55.43
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "question": "Nền kinh tế Việt Nam được dự báo đạt mức tăng trưởng GDP bao nhiêu phần trăm lần lượt cho các năm 2023, 2024 và 2025?",
+    "filter": {
+      "section": "tong_quan"
+    },
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "top_ids": [
+      "wb-taking-stock-2023-08_B_p13_c02",
+      "wb-taking-stock-2023-08_B_p11_c05",
+      "wb-taking-stock-2023-08_B_p13_c05"
+    ],
+    "top_pages": [
+      13,
+      11,
+      13
+    ],
+    "context_ids": [
+      "wb-taking-stock-2023-08_B_p13_c02",
+      "wb-taking-stock-2023-08_B_p11_c05",
+      "wb-taking-stock-2023-08_B_p13_c05"
+    ],
+    "context_chars": 2258,
+    "elapsed_ms": 49.41
+  }
+]
